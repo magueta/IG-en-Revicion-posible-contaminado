@@ -1,0 +1,1917 @@
+	ModName	FuncName	CodeLine	TotalTime	AvgTime	PctTime	Hits	PctHits	LineText	
+1	C:\IG\IG\PRE\FE.frm	Form_Activate	15	0	0	0.00%	0	0.00%	Text1(1) = ""	
+2	C:\IG\IG\PRE\FE.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+3	C:\IG\IG\PRE\FE.frm	Form_Activate	2	0	0	0.00%	0	0.00%	CEscala	
+4	C:\IG\IG\PRE\FE.frm	Form_Activate	3	0	0	0.00%	0	0.00%	Picture1.AutoRedraw = True	
+5	C:\IG\IG\PRE\FE.frm	Form_Activate	4	0	0	0.00%	0	0.00%	DiMalla	
+6	C:\IG\IG\PRE\FE.frm	Form_Activate	5	0	0	0.00%	0	0.00%	For I = 0 To 3	
+7	C:\IG\IG\PRE\FE.frm	Form_Activate	6	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+8	C:\IG\IG\PRE\FE.frm	Form_Activate	7	0	0	0.00%	0	0.00%	Case 0	
+9	C:\IG\IG\PRE\FE.frm	Form_Activate	8	0	0	0.00%	0	0.00%	For I = 0 To 3	
+10	C:\IG\IG\PRE\FE.frm	Form_Activate	9	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+11	C:\IG\IG\PRE\FE.frm	Form_Activate	10	0	0	0.00%	0	0.00%	Case Else	
+12	C:\IG\IG\PRE\FE.frm	Form_Activate	11	0	0	0.00%	0	0.00%	Option1(Simetria - 1).Enabled = False	
+13	C:\IG\IG\PRE\FE.frm	Form_Activate	12	0	0	0.00%	0	0.00%	Option1(Simetria - 1) = False	
+14	C:\IG\IG\PRE\FE.frm	Option2_Click	7	0	0	0.00%	0	0.00%	Txi(1, Combo1.ListIndex + 1) = Index	
+15	C:\IG\IG\PRE\FE.frm	Form_Activate	14	0	0	0.00%	0	0.00%	Text1(0) = ""	
+16	C:\IG\IG\PRE\FE.frm	Command1_Click	7	0	0	0.00%	0	0.00%	Frame4.Visible = False	
+17	C:\IG\IG\PRE\FE.frm	Form_Activate	16	0	0	0.00%	0	0.00%	Text2(0) = ""	
+18	C:\IG\IG\PRE\FE.frm	Form_Activate	17	0	0	0.00%	0	0.00%	Text2(1) = ""	
+19	C:\IG\IG\PRE\FE.frm	Form_Activate	18	0	0	0.00%	0	0.00%	For I = 0 To 3	
+20	C:\IG\IG\PRE\FE.frm	Form_Activate	19	0	0	0.00%	0	0.00%	Option1(I) = False	
+21	C:\IG\IG\PRE\FE.frm	Form_Activate	20	0	0	0.00%	0	0.00%	For I = 0 To 4	
+22	C:\IG\IG\PRE\FE.frm	Form_Activate	21	0	0	0.00%	0	0.00%	Option2(I) = False	
+23	C:\IG\IG\PRE\FE.frm	CEscala	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+24	C:\IG\IG\PRE\FE.frm	CEscala	2	0	0	0.00%	0	0.00%	Mediaescala = (EscalaXY * 1.1) / 2	
+25	C:\IG\IG\PRE\FE.frm	CEscala	3	0	0	0.00%	0	0.00%	Picture1.ScaleHeight = -2 * Mediaescala	
+26	C:\IG\IG\PRE\FE.frm	CEscala	4	0	0	0.00%	0	0.00%	Picture1.ScaleWidth = 2 * Mediaescala	
+27	C:\IG\IG\PRE\FE.frm	CEscala	5	0	0	0.00%	0	0.00%	Picture1.ScaleLeft = -Mediaescala + Xl / 2	
+28	C:\IG\IG\PRE\FE.frm	CEscala	6	0	0	0.00%	0	0.00%	Picture1.ScaleTop = Yl / 2 + Mediaescala	
+29	C:\IG\IG\PRE\FE.frm	Form_Activate	13	0	0	0.00%	0	0.00%	Combo1 = ""	
+30	C:\IG\IG\PRE\FE.frm	Combo1_Click	29	0	0	0.00%	0	0.00%	Option2(Txs(1, Combo1.ListIndex + 1)) = True	
+31	C:\IG\IG\PRE\FE.frm	Combo1_Click	15	0	0	0.00%	0	0.00%	Picture1.Line (XU(Xs(1, Combo1.ListIndex + 1) + 1), YV(M1))-(XU(Xs(2, Combo1.ListIndex + 1) + 2), YV	
+32	C:\IG\IG\PRE\FE.frm	Combo1_Click	16	0	0	0.00%	0	0.00%	Case Option1(3)	
+33	C:\IG\IG\PRE\FE.frm	Combo1_Click	17	0	0	0.00%	0	0.00%	Text1(0) = Yd(1, Combo1.ListIndex + 1)	
+34	C:\IG\IG\PRE\FE.frm	Combo1_Click	18	0	0	0.00%	0	0.00%	Text1(1) = Yd(2, Combo1.ListIndex + 1)	
+35	C:\IG\IG\PRE\FE.frm	Combo1_Click	19	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(Yd(1, Combo1.ListIndex + 1) + 1))-(XU(L1), YV(Yd(2, Combo1.ListIndex + 1) 	
+36	C:\IG\IG\PRE\FE.frm	Combo1_Click	20	0	0	0.00%	0	0.00%	Case Option1(0)	
+37	C:\IG\IG\PRE\FE.frm	Combo1_Click	21	0	0	0.00%	0	0.00%	Option2(Txi(1, Combo1.ListIndex + 1)) = True	
+38	C:\IG\IG\PRE\FE.frm	Combo1_Click	22	0	0	0.00%	0	0.00%	For I = 0 To 1	
+39	C:\IG\IG\PRE\FE.frm	Combo1_Click	23	0	0	0.00%	0	0.00%	Text2(I) = Txi(I + 2, Combo1.ListIndex + 1)	
+40	C:\IG\IG\PRE\FE.frm	Combo1_Click	24	0	0	0.00%	0	0.00%	Case Option1(1)	
+41	C:\IG\IG\PRE\FE.frm	Combo1_Click	25	0	0	0.00%	0	0.00%	Option2(Tyi(1, Combo1.ListIndex + 1)) = True	
+42	C:\IG\IG\PRE\FE.frm	Combo1_Click	26	0	0	0.00%	0	0.00%	For I = 0 To 1	
+43	C:\IG\IG\PRE\FE.frm	Command2_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+44	C:\IG\IG\PRE\FE.frm	Combo1_Click	28	0	0	0.00%	0	0.00%	Case Option1(2)	
+45	C:\IG\IG\PRE\FE.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+46	C:\IG\IG\PRE\FE.frm	Combo1_Click	30	0	0	0.00%	0	0.00%	For I = 0 To 1	
+47	C:\IG\IG\PRE\FE.frm	Combo1_Click	31	0	0	0.00%	0	0.00%	Text2(I) = Txs(I + 2, Combo1.ListIndex + 1)	
+48	C:\IG\IG\PRE\FE.frm	Combo1_Click	32	0	0	0.00%	0	0.00%	Case Option1(3)	
+49	C:\IG\IG\PRE\FE.frm	Combo1_Click	33	0	0	0.00%	0	0.00%	Option2(Tyd(1, Combo1.ListIndex + 1)) = True	
+50	C:\IG\IG\PRE\FE.frm	Combo1_Click	34	0	0	0.00%	0	0.00%	For I = 0 To 1	
+51	C:\IG\IG\PRE\FE.frm	Combo1_Click	35	0	0	0.00%	0	0.00%	Text2(I) = Tyd(I + 2, Combo1.ListIndex + 1)	
+52	C:\IG\IG\PRE\FE.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+53	C:\IG\IG\PRE\FE.frm	Command1_Click	2	0	0	0.00%	0	0.00%	FTfE.Show (1)	
+54	C:\IG\IG\PRE\FE.frm	Command1_Click	3	0	0	0.00%	0	0.00%	For I = 0 To 3	
+55	C:\IG\IG\PRE\FE.frm	Command1_Click	4	0	0	0.00%	0	0.00%	Option1(I) = False	
+56	C:\IG\IG\PRE\FE.frm	Command1_Click	5	0	0	0.00%	0	0.00%	For I = 0 To 4	
+57	C:\IG\IG\PRE\FE.frm	Command1_Click	6	0	0	0.00%	0	0.00%	Option2(I) = False	
+58	C:\IG\IG\PRE\FE.frm	DiMalla	3	0	0	0.00%	0	0.00%	For I = 2 To L2	
+59	C:\IG\IG\PRE\FE.frm	Combo1_Click	27	0	0	0.00%	0	0.00%	Text2(I) = Tyi(I + 2, Combo1.ListIndex + 1)	
+60	C:\IG\IG\PRE\FE.frm	Option1_Click	3	0	0	0.00%	0	0.00%	Case Option1(0)	
+61	C:\IG\IG\PRE\FE.frm	DiMalla	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+62	C:\IG\IG\PRE\FE.frm	Form_Load	15	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+63	C:\IG\IG\PRE\FE.frm	Form_Load	16	0	0	0.00%	0	0.00%	Tyd(1, I) = 0	
+64	C:\IG\IG\PRE\FE.frm	Form_Load	17	0	0	0.00%	0	0.00%	Tyd(2, I) = 0	
+65	C:\IG\IG\PRE\FE.frm	Form_Load	18	0	0	0.00%	0	0.00%	Tyd(3, I) = 0	
+66	C:\IG\IG\PRE\FE.frm	Frame1_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+67	C:\IG\IG\PRE\FE.frm	Frame2_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+68	C:\IG\IG\PRE\FE.frm	Frame3_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+69	C:\IG\IG\PRE\FE.frm	Frame4_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+70	C:\IG\IG\PRE\FE.frm	Label1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+71	C:\IG\IG\PRE\FE.frm	Label2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+72	C:\IG\IG\PRE\FE.frm	Label3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+73	C:\IG\IG\PRE\FE.frm	Form_Load	13	0	0	0.00%	0	0.00%	Txs(2, I) = 0	
+74	C:\IG\IG\PRE\FE.frm	Option1_Click	2	0	0	0.00%	0	0.00%	Call LlenarC	
+75	C:\IG\IG\PRE\FE.frm	Form_Load	12	0	0	0.00%	0	0.00%	Txs(1, I) = 0	
+76	C:\IG\IG\PRE\FE.frm	Option1_Click	4	0	0	0.00%	0	0.00%	Option2(Txi(1, Combo1.ListIndex + 1)) = True	
+77	C:\IG\IG\PRE\FE.frm	Option1_Click	5	0	0	0.00%	0	0.00%	Case Option1(1)	
+78	C:\IG\IG\PRE\FE.frm	Option1_Click	6	0	0	0.00%	0	0.00%	Option2(Tyi(1, Combo1.ListIndex + 1)) = True	
+79	C:\IG\IG\PRE\FE.frm	Option1_Click	7	0	0	0.00%	0	0.00%	Case Option1(2)	
+80	C:\IG\IG\PRE\FE.frm	Option1_Click	8	0	0	0.00%	0	0.00%	Option2(Txs(1, Combo1.ListIndex + 1)) = True	
+81	C:\IG\IG\PRE\FE.frm	Option1_Click	9	0	0	0.00%	0	0.00%	Case Option1(3)	
+82	C:\IG\IG\PRE\FE.frm	Option1_Click	10	0	0	0.00%	0	0.00%	Option2(Tyd(1, Combo1.ListIndex + 1)) = True	
+83	C:\IG\IG\PRE\FE.frm	Option2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+84	C:\IG\IG\PRE\FE.frm	Option2_Click	2	0	0	0.00%	0	0.00%	Case 0	
+85	C:\IG\IG\PRE\FE.frm	Option2_Click	3	0	0	0.00%	0	0.00%	Frame4.Visible = False	
+86	C:\IG\IG\PRE\FE.frm	Option2_Click	4	0	0	0.00%	0	0.00%	For I = 0 To 1	
+87	C:\IG\IG\PRE\FE.frm	Option2_Click	5	0	0	0.00%	0	0.00%	Text2(I).Visible = False	
+88	C:\IG\IG\PRE\FPR.frm	Form_Load	11	0	0	0.00%	0	0.00%	Relax(1) = 1	
+89	C:\IG\IG\PRE\FE.frm	Option1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+90	C:\IG\IG\PRE\FE.frm	DiMalla	17	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(2), YV(M1)), vbCyan	
+91	C:\IG\IG\PRE\FE.frm	Combo1_Click	12	0	0	0.00%	0	0.00%	Case Option1(2)	
+92	C:\IG\IG\PRE\FE.frm	DiMalla	4	0	0	0.00%	0	0.00%	For J = 2 To M2	
+93	C:\IG\IG\PRE\FE.frm	DiMalla	5	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I), YV(J + 1)), QBColor(8)	
+94	C:\IG\IG\PRE\FE.frm	DiMalla	6	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I + 1), YV(J)), QBColor(8)	
+95	C:\IG\IG\PRE\FE.frm	DiMalla	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), QBColor(8)	
+96	C:\IG\IG\PRE\FE.frm	DiMalla	8	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(M1))-(XU(L1), YV(M1)), QBColor(8)	
+97	C:\IG\IG\PRE\FE.frm	DiMalla	9	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+98	C:\IG\IG\PRE\FE.frm	DiMalla	10	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+99	C:\IG\IG\PRE\FE.frm	DiMalla	11	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), vbMagenta, B	
+100	C:\IG\IG\PRE\FE.frm	DiMalla	12	0	0	0.00%	0	0.00%	Case 1	
+101	C:\IG\IG\PRE\FE.frm	DiMalla	13	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(2))-(XU(L1), YV(2)), vbCyan	
+102	C:\IG\IG\PRE\FE.frm	DiMalla	14	0	0	0.00%	0	0.00%	Case 2	
+103	C:\IG\IG\PRE\FE.frm	Form_Load	14	0	0	0.00%	0	0.00%	Txs(3, I) = 0	
+104	C:\IG\IG\PRE\FE.frm	DiMalla	16	0	0	0.00%	0	0.00%	Case 3	
+105	C:\IG\IG\PRE\FE.frm	DiMalla	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+106	C:\IG\IG\PRE\FE.frm	DiMalla	18	0	0	0.00%	0	0.00%	Case 4	
+107	C:\IG\IG\PRE\FE.frm	DiMalla	19	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), vbCyan	
+108	C:\IG\IG\PRE\FE.frm	Form_Load	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+109	C:\IG\IG\PRE\FE.frm	Form_Load	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+110	C:\IG\IG\PRE\FE.frm	Form_Load	3	0	0	0.00%	0	0.00%	For I = 1 To Ndxi	
+111	C:\IG\IG\PRE\FE.frm	Form_Load	4	0	0	0.00%	0	0.00%	Txi(1, I) = 0	
+112	C:\IG\IG\PRE\FE.frm	Form_Load	5	0	0	0.00%	0	0.00%	Txi(2, I) = 0	
+113	C:\IG\IG\PRE\FE.frm	Form_Load	6	0	0	0.00%	0	0.00%	Txi(3, I) = 0	
+114	C:\IG\IG\PRE\FE.frm	Form_Load	7	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+115	C:\IG\IG\PRE\FE.frm	Form_Load	8	0	0	0.00%	0	0.00%	Tyi(1, I) = 0	
+116	C:\IG\IG\PRE\FE.frm	Form_Load	9	0	0	0.00%	0	0.00%	Tyi(2, I) = 0	
+117	C:\IG\IG\PRE\FE.frm	Form_Load	10	0	0	0.00%	0	0.00%	Tyi(3, I) = 0	
+118	C:\IG\IG\PRE\FE.frm	Form_Load	11	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+119	C:\IG\IG\PRE\FE.frm	DiMalla	15	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(2))-(XU(2), YV(M1)), vbCyan	
+120	C:\IG\IG\PRE\FBorrar.frm	DiSolido	6	0	0	0.00%	0	0.00%	Picture1.CurrentY = S(1, K) / 2 + S(3, K) / 2	
+121	C:\IG\IG\PRE\FBorrar.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+122	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	3	0	0	0.00%	0	0.00%	Label7 = "Xmax= " & Xl & Chr$(13) & " Ymax= " & Yl	
+123	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	4	0	0	0.00%	0	0.00%	CEscala	
+124	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	5	0	0	0.00%	0	0.00%	DiDominio	
+125	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	6	0	0	0.00%	0	0.00%	DiSolido	
+126	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	7	0	0	0.00%	0	0.00%	VScroll1.Max = Ns	
+127	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	8	0	0	0.00%	0	0.00%	VScroll1.Min = 0	
+128	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	9	0	0	0.00%	0	0.00%	VScroll1.Value = 0	
+129	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	10	0	0	0.00%	0	0.00%	Text2 = "No hay Solido seleccionado"	
+130	C:\IG\IG\PRE\FBorrar.frm	DiSolido	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+131	C:\IG\IG\PRE\FBorrar.frm	DiSolido	2	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+132	C:\IG\IG\PRE\FBorrar.frm	DiSolido	3	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+133	C:\IG\IG\PRE\FTfE.frm	CEscala	2	0	0	0.00%	0	0.00%	Mediaescala = (EscalaXY * 1.1) / 2	
+134	C:\IG\IG\PRE\FBorrar.frm	DiSolido	5	0	0	0.00%	0	0.00%	Picture1.CurrentX = S(0, K) / 2 + S(2, K) / 2	
+135	C:\IG\IG\PRE\FTfE.frm	CEscala	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+136	C:\IG\IG\PRE\FBorrar.frm	DiSolido	7	0	0	0.00%	0	0.00%	Picture1.Print K	
+137	C:\IG\IG\PRE\FBorrar.frm	CEscala	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+138	C:\IG\IG\PRE\FBorrar.frm	CEscala	2	0	0	0.00%	0	0.00%	EscalaXY = Xl	
+139	C:\IG\IG\PRE\FBorrar.frm	CEscala	3	0	0	0.00%	0	0.00%	If Yl > Xl Then	
+140	C:\IG\IG\PRE\FBorrar.frm	CEscala	4	0	0	0.00%	0	0.00%	EscalaXY = Yl	
+141	C:\IG\IG\PRE\FBorrar.frm	CEscala	5	0	0	0.00%	0	0.00%	Mediaescala = (EscalaXY * 1.1) / 2	
+142	C:\IG\IG\PRE\FBorrar.frm	CEscala	6	0	0	0.00%	0	0.00%	.ScaleHeight = -2 * Mediaescala	
+143	C:\IG\IG\PRE\FBorrar.frm	CEscala	7	0	0	0.00%	0	0.00%	.ScaleWidth = 2 * Mediaescala	
+144	C:\IG\IG\PRE\FBorrar.frm	CEscala	8	0	0	0.00%	0	0.00%	.ScaleLeft = -Mediaescala + Xl / 2	
+145	C:\IG\IG\PRE\FBorrar.frm	CEscala	9	0	0	0.00%	0	0.00%	.ScaleTop = Yl / 2 + Mediaescala	
+146	C:\IG\IG\PRE\FBorrar.frm	DiDominio	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+147	C:\IG\IG\PRE\FBorrar.frm	DiDominio	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+148	C:\IG\IG\PRE\FE.frm	Combo1_Click	14	0	0	0.00%	0	0.00%	Text1(1) = Xs(2, Combo1.ListIndex + 1)	
+149	C:\IG\IG\PRE\FBorrar.frm	DiSolido	4	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), (vbMagenta), B	
+150	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(LL(I - 1)), YV(MM(J - 1)))-(XU(LL(I)), YV(MM(J))), vbWhite, B	
+151	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	52	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+152	C:\IG\IG\PRE\FPR.frm	Form_Load	13	0	0	0.00%	0	0.00%	Relax(3) = 1	
+153	C:\IG\IG\PRE\FPR.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+154	C:\IG\IG\PRE\FPR.frm	Text1_Change	2	0	0	0.00%	0	0.00%	VI(Index) = Val(Text1(Index))	
+155	C:\IG\IG\PRE\FPR.frm	Text2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+156	C:\IG\IG\PRE\FPR.frm	Text2_Change	2	0	0	0.00%	0	0.00%	Relax(Index) = Val(Text2(Index))	
+157	C:\IG\IG\PRE\FPR.frm	Text3_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+158	C:\IG\IG\PRE\FPR.frm	Text3_Change	2	0	0	0.00%	0	0.00%	NTime(Index) = Val(Text3(Index))	
+159	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+160	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	2	0	0	0.00%	0	0.00%	For I = 0 To 1	
+161	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	3	0	0	0.00%	0	0.00%	Text2(I) = TFE(I + 1, Combo1.ListIndex + 1)	
+162	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	4	0	0	0.00%	0	0.00%	DiMalla	
+163	C:\IG\IG\PRE\FTfE.frm	CEscala	3	0	0	0.00%	0	0.00%	.ScaleHeight = -2 * Mediaescala	
+164	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	6	0	0	0.00%	0	0.00%	I = Combo1.ListIndex + 1 - (J - 1) * Ndx	
+165	C:\IG\IG\PRE\FBorrar.frm	Text1_Change	2	0	0	0.00%	0	0.00%	If VScroll1 <> 0 Then	
+166	C:\IG\IG\PRE\FTfE.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+167	C:\IG\IG\PRE\FTfE.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+168	C:\IG\IG\PRE\FTfE.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+169	C:\IG\IG\PRE\FTfE.frm	Form_Activate	2	0	0	0.00%	0	0.00%	Combo1.Locked = False	
+170	C:\IG\IG\PRE\FTfE.frm	Form_Activate	3	0	0	0.00%	0	0.00%	CEscala	
+171	C:\IG\IG\PRE\FTfE.frm	Form_Activate	4	0	0	0.00%	0	0.00%	DiMalla	
+172	C:\IG\IG\PRE\FTfE.frm	Form_Activate	5	0	0	0.00%	0	0.00%	Combo1.Clear	
+173	C:\IG\IG\PRE\FTfE.frm	Form_Activate	6	0	0	0.00%	0	0.00%	Cont = 0	
+174	C:\IG\IG\PRE\FTfE.frm	Form_Activate	7	0	0	0.00%	0	0.00%	For J = 1 To Ndy	
+175	C:\IG\IG\PRE\FTfE.frm	Form_Activate	8	0	0	0.00%	0	0.00%	For I = 1 To Ndx	
+176	C:\IG\IG\PRE\FTfE.frm	Form_Activate	9	0	0	0.00%	0	0.00%	Cont = Cont + 1	
+177	C:\IG\IG\PRE\FTfE.frm	Form_Activate	10	0	0	0.00%	0	0.00%	Combo1.AddItem ("Bloque Nº " & Cont)	
+178	C:\IG\IG\PRE\FTfE.frm	Form_Activate	11	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+179	C:\IG\IG\PRE\FTfE.frm	Combo1_Click	5	0	0	0.00%	0	0.00%	J = (Combo1.ListIndex) \ Ndx + 1	
+180	C:\IG\IG\PRE\FE.frm	Combo1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+181	C:\IG\IG\PRE\FBorrar.frm	DiDominio	3	0	0	0.00%	0	0.00%	Picture1.Line (0, 0)-(Xl, Yl), , B	
+182	C:\IG\IG\PRE\FCF.frm	Check2_Click	4	0	0	0.00%	0	0.00%	Text1(Index) = Ndx	
+183	C:\IG\IG\PRE\FCF.frm	Check2_Click	5	0	0	0.00%	0	0.00%	Case 1	
+184	C:\IG\IG\PRE\FCF.frm	Check2_Click	6	0	0	0.00%	0	0.00%	Text1(Index).Enabled = Not (vbChecked = Check2(Index))	
+185	C:\IG\IG\PRE\FCF.frm	Check2_Click	7	0	0	0.00%	0	0.00%	Text1(Index) = Ndy	
+186	C:\IG\IG\PRE\FCF.frm	Check2_Click	8	0	0	0.00%	0	0.00%	Case 2	
+187	C:\IG\IG\PRE\FE.frm	LlenarC	15	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+188	C:\IG\IG\PRE\FE.frm	LlenarC	16	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+189	C:\IG\IG\PRE\FE.frm	LlenarC	17	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+190	C:\IG\IG\PRE\FE.frm	Check1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+191	C:\IG\IG\PRE\FE.frm	Check1_Click	2	0	0	0.00%	0	0.00%	Frame1.Enabled = (Check1 = vbChecked)	
+192	C:\IG\IG\PRE\FE.frm	Check1_Click	3	0	0	0.00%	0	0.00%	Frame2.Enabled = (Check1 = vbChecked)	
+193	C:\IG\IG\PRE\FCF.frm	Check2_Click	2	0	0	0.00%	0	0.00%	Case 0	
+194	C:\IG\IG\PRE\FE.frm	Check1_Click	5	0	0	0.00%	0	0.00%	Command1.Enabled = (Check1 = vbChecked)	
+195	C:\IG\IG\PRE\FCF.frm	Check2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+196	C:\IG\IG\PRE\FE.frm	Combo1_Change	2	0	0	0.00%	0	0.00%	Combo1.Locked = False	
+197	C:\IG\IG\PRE\FE.frm	Combo1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+198	C:\IG\IG\PRE\FE.frm	Combo1_Click	2	0	0	0.00%	0	0.00%	DiMalla	
+199	C:\IG\IG\PRE\FE.frm	Combo1_Click	3	0	0	0.00%	0	0.00%	caca = True	
+200	C:\IG\IG\PRE\FE.frm	Combo1_Click	4	0	0	0.00%	0	0.00%	Case Option1(0)	
+201	C:\IG\IG\PRE\FE.frm	Combo1_Click	5	0	0	0.00%	0	0.00%	Text1(0) = Xi(1, Combo1.ListIndex + 1)	
+202	C:\IG\IG\PRE\FE.frm	Combo1_Click	6	0	0	0.00%	0	0.00%	Text1(1) = Xi(2, Combo1.ListIndex + 1)	
+203	C:\IG\IG\PRE\FE.frm	Combo1_Click	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(Xi(1, Combo1.ListIndex + 1) + 1), YV(2))-(XU(Xi(2, Combo1.ListIndex + 1) + 2), YV(	
+204	C:\IG\IG\PRE\FE.frm	Combo1_Click	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+205	C:\IG\IG\PRE\FE.frm	Combo1_Click	9	0	0	0.00%	0	0.00%	Text1(0) = Yi(1, Combo1.ListIndex + 1)	
+206	C:\IG\IG\PRE\FE.frm	Combo1_Click	10	0	0	0.00%	0	0.00%	Text1(1) = Yi(2, Combo1.ListIndex + 1)	
+207	C:\IG\IG\PRE\FE.frm	Combo1_Click	11	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(Yi(1, Combo1.ListIndex + 1) + 1))-(XU(2), YV(Yi(2, Combo1.ListIndex + 1) + 	
+208	C:\IG\IG\PRE\FE.frm	Option2_Click	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+209	C:\IG\IG\PRE\FE.frm	Check1_Click	4	0	0	0.00%	0	0.00%	Frame3.Enabled = (Check1 = vbChecked)	
+210	C:\IG\IG\PRE\FCF.frm	Check1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+211	C:\IG\IG\PRE\FBorrar.frm	Text1_Change	3	0	0	0.00%	0	0.00%	S(Index, VScroll1) = Val(Text1(Index))	
+212	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+213	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	2	0	0	0.00%	0	0.00%	If VScroll1 = 0 Then	
+214	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	3	0	0	0.00%	0	0.00%	Text2 = "No hay Solido seleccionado"	
+215	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	4	0	0	0.00%	0	0.00%	DiDominio	
+216	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	5	0	0	0.00%	0	0.00%	DiSolido	
+217	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	6	0	0	0.00%	0	0.00%	For K = 0 To 6	
+218	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	7	0	0	0.00%	0	0.00%	Text1(K) = ""	
+219	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	8	0	0	0.00%	0	0.00%	Text2 = "Solido Nº " & VScroll1	
+220	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	9	0	0	0.00%	0	0.00%	DiDominio	
+221	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	10	0	0	0.00%	0	0.00%	DiSolido	
+222	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	11	0	0	0.00%	0	0.00%	For K = 0 To 6	
+223	C:\IG\IG\PRE\FCF.frm	Check2_Click	3	0	0	0.00%	0	0.00%	Text1(Index).Enabled = Not (vbChecked = Check2(Index))	
+224	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	13	0	0	0.00%	0	0.00%	Picture1.Line (S(0, VScroll1), S(1, VScroll1))-(S(2, VScroll1), S(3, VScroll1)), vbYellow, BF	
+225	C:\IG\IG\PRE\FE.frm	Combo1_Click	13	0	0	0.00%	0	0.00%	Text1(0) = Xs(1, Combo1.ListIndex + 1)	
+226	C:\IG\IG\PRE\FCF.frm	Check1_Click	2	0	0	0.00%	0	0.00%	If Check1 = vbChecked Then	
+227	C:\IG\IG\PRE\FCF.frm	Check1_Click	3	0	0	0.00%	0	0.00%	For I = 0 To 3	
+228	C:\IG\IG\PRE\FCF.frm	Check1_Click	4	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+229	C:\IG\IG\PRE\FCF.frm	Check1_Click	5	0	0	0.00%	0	0.00%	Option1(0) = Not Check1	
+230	C:\IG\IG\PRE\FCF.frm	Check1_Click	6	0	0	0.00%	0	0.00%	For I = 0 To 3	
+231	C:\IG\IG\PRE\FCF.frm	Check1_Click	7	0	0	0.00%	0	0.00%	Option1(I).Enabled = False	
+232	C:\IG\IG\PRE\FCF.frm	Check1_Click	8	0	0	0.00%	0	0.00%	Option1(I) = False	
+233	C:\IG\IG\PRE\FCF.frm	Check1_Click	9	0	0	0.00%	0	0.00%	Check2(I).Enabled = True	
+234	C:\IG\IG\PRE\FCF.frm	Check1_Click	10	0	0	0.00%	0	0.00%	Text1(I).Enabled = Not (vbChecked = Check2(I))	
+235	C:\IG\IG\PRE\FCF.frm	Check1_Click	11	0	0	0.00%	0	0.00%	Simetria = 0	
+236	C:\IG\IG\PRE\FCF.frm	Check1_Click	12	0	0	0.00%	0	0.00%	Command2.Enabled = False	
+237	C:\IG\IG\PRE\FCF.frm	Check1_Click	13	0	0	0.00%	0	0.00%	Command3.Enabled = False	
+238	C:\IG\IG\PRE\FCF.frm	Check1_Click	14	0	0	0.00%	0	0.00%	Command4.Enabled = False	
+239	C:\IG\IG\PRE\FBorrar.frm	VScroll1_Change	12	0	0	0.00%	0	0.00%	Text1(K) = S(K, VScroll1)	
+240	C:\IG\IG\PRE\FMalla.frm	Option4_Click	3	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 2	
+241	C:\IG\IG\PRE\FMalla.frm	Option2_Click	33	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 1	
+242	C:\IG\IG\PRE\FMalla.frm	Option2_Click	34	0	0	0.00%	0	0.00%	Option3 = True	
+243	C:\IG\IG\PRE\FMalla.frm	Option2_Click	35	0	0	0.00%	0	0.00%	PowY(VScroll1) = 1	
+244	C:\IG\IG\PRE\FMalla.frm	Option2_Click	36	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+245	C:\IG\IG\PRE\FMalla.frm	Option2_Click	37	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+246	C:\IG\IG\PRE\FMalla.frm	Option2_Click	38	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), , B	
+247	C:\IG\IG\PRE\FMalla.frm	Option2_Click	39	0	0	0.00%	0	0.00%	Picture1.CurrentX = S(0, K) / 2 + S(2, K) / 2	
+248	C:\IG\IG\PRE\FMalla.frm	Option2_Click	40	0	0	0.00%	0	0.00%	Picture1.CurrentY = S(1, K) / 2 + S(3, K) / 2	
+249	C:\IG\IG\PRE\FMalla.frm	Option3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+250	C:\IG\IG\PRE\FMalla.frm	Option3_Click	2	0	0	0.00%	0	0.00%	If Option1 Then	
+251	C:\IG\IG\PRE\FMalla.frm	Option3_Click	3	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 1	
+252	C:\IG\IG\PRE\FMalla.frm	Option3_Click	4	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 1	
+253	C:\IG\IG\PRE\FE.frm	Option2_Click	6	0	0	0.00%	0	0.00%	Case Option1(0)	
+254	C:\IG\IG\PRE\FMalla.frm	Option4_Click	2	0	0	0.00%	0	0.00%	If Option1 Then	
+255	C:\IG\IG\PRE\FMalla.frm	Option2_Click	30	0	0	0.00%	0	0.00%	Case 5	
+256	C:\IG\IG\PRE\FMalla.frm	Option4_Click	4	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 2	
+257	C:\IG\IG\PRE\FMalla.frm	Option5_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+258	C:\IG\IG\PRE\FMalla.frm	Option5_Click	2	0	0	0.00%	0	0.00%	If Option1 Then	
+259	C:\IG\IG\PRE\FMalla.frm	Option5_Click	3	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 3	
+260	C:\IG\IG\PRE\FMalla.frm	Option5_Click	4	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 3	
+261	C:\IG\IG\PRE\FMalla.frm	Option6_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+262	C:\IG\IG\PRE\FMalla.frm	Option6_Click	2	0	0	0.00%	0	0.00%	If Option1 Then	
+263	C:\IG\IG\PRE\FMalla.frm	Option6_Click	3	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 4	
+264	C:\IG\IG\PRE\FMalla.frm	Option6_Click	4	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 4	
+265	C:\IG\IG\PRE\FMalla.frm	Option7_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+266	C:\IG\IG\PRE\FMalla.frm	Option7_Click	2	0	0	0.00%	0	0.00%	If Option1 Then	
+267	C:\IG\IG\PRE\FMalla.frm	Option7_Click	3	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 5	
+268	C:\IG\IG\PRE\FMalla.frm	Option4_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+269	C:\IG\IG\PRE\FMalla.frm	Option2_Click	17	0	0	0.00%	0	0.00%	Text3 = PowY(VScroll1)	
+270	C:\IG\IG\PRE\FMalla.frm	Option2_Click	3	0	0	0.00%	0	0.00%	VScroll1.Max = 1	
+271	C:\IG\IG\PRE\FMalla.frm	Option2_Click	4	0	0	0.00%	0	0.00%	VScroll1.Min = Ndy	
+272	C:\IG\IG\PRE\FMalla.frm	Option2_Click	5	0	0	0.00%	0	0.00%	VScroll1 = 1	
+273	C:\IG\IG\PRE\FMalla.frm	Option2_Click	6	0	0	0.00%	0	0.00%	Option3.Caption = "Volumenes de control uniforme"	
+274	C:\IG\IG\PRE\FMalla.frm	Option2_Click	7	0	0	0.00%	0	0.00%	Option4.Caption = "Agrupados a los extremos"	
+275	C:\IG\IG\PRE\FMalla.frm	Option2_Click	8	0	0	0.00%	0	0.00%	Option5.Caption = "Agrupados al centro"	
+276	C:\IG\IG\PRE\FMalla.frm	Option2_Click	9	0	0	0.00%	0	0.00%	Option6.Caption = "Agrupados abajo"	
+277	C:\IG\IG\PRE\FMalla.frm	Option2_Click	10	0	0	0.00%	0	0.00%	Option7.Caption = "Agrupados ariba"	
+278	C:\IG\IG\PRE\FMalla.frm	Option2_Click	11	0	0	0.00%	0	0.00%	Old = Picture1.FillStyle	
+279	C:\IG\IG\PRE\FMalla.frm	Option2_Click	12	0	0	0.00%	0	0.00%	OldC = Picture1.FillColor	
+280	C:\IG\IG\PRE\FMalla.frm	Option2_Click	13	0	0	0.00%	0	0.00%	Picture1.FillStyle = 2	
+281	C:\IG\IG\PRE\FMalla.frm	Option2_Click	14	0	0	0.00%	0	0.00%	Picture1.FillColor = QBColor(10)	
+282	C:\IG\IG\PRE\FMalla.frm	Option2_Click	32	0	0	0.00%	0	0.00%	Case Else	
+283	C:\IG\IG\PRE\FMalla.frm	Option2_Click	16	0	0	0.00%	0	0.00%	Text2 = M(VScroll1)	
+284	C:\IG\IG\PRE\FMalla.frm	Option2_Click	31	0	0	0.00%	0	0.00%	Option7 = True	
+285	C:\IG\IG\PRE\FMalla.frm	Option2_Click	18	0	0	0.00%	0	0.00%	Picture1.Line (0, Dy(1, VScroll1) + Dy(0, VScroll1))-(Xl, Dy(0, VScroll1)), , B	
+286	C:\IG\IG\PRE\FMalla.frm	Option2_Click	19	0	0	0.00%	0	0.00%	Picture1.FillStyle = Old	
+287	C:\IG\IG\PRE\FMalla.frm	Option2_Click	20	0	0	0.00%	0	0.00%	Picture1.FillColor = OldC	
+288	C:\IG\IG\PRE\FMalla.frm	Option2_Click	21	0	0	0.00%	0	0.00%	Picture1.Line (0, 0)-(Xl, Yl), , B	
+289	C:\IG\IG\PRE\FMalla.frm	Option2_Click	22	0	0	0.00%	0	0.00%	Case 1	
+290	C:\IG\IG\PRE\FMalla.frm	Option2_Click	23	0	0	0.00%	0	0.00%	Option3 = True	
+291	C:\IG\IG\PRE\FMalla.frm	Option2_Click	24	0	0	0.00%	0	0.00%	Case 2	
+292	C:\IG\IG\PRE\FMalla.frm	Option2_Click	25	0	0	0.00%	0	0.00%	Option4 = True	
+293	C:\IG\IG\PRE\FMalla.frm	Option2_Click	26	0	0	0.00%	0	0.00%	Case 3	
+294	C:\IG\IG\PRE\FMalla.frm	Option2_Click	27	0	0	0.00%	0	0.00%	Option5 = True	
+295	C:\IG\IG\PRE\FMalla.frm	Option2_Click	28	0	0	0.00%	0	0.00%	Case 4	
+296	C:\IG\IG\PRE\FMalla.frm	Option2_Click	29	0	0	0.00%	0	0.00%	Option6 = True	
+297	C:\IG\IG\PRE\FMalla.frm	Text2_Change	2	0	0	0.00%	0	0.00%	If Option1 Then	
+298	C:\IG\IG\PRE\FMalla.frm	Option2_Click	15	0	0	0.00%	0	0.00%	Text1 = BloqY(VScroll1)	
+299	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	38	0	0	0.00%	0	0.00%	Option4 = True	
+300	C:\IG\IG\PRE\FMalla.frm	Option7_Click	4	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 5	
+301	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	25	0	0	0.00%	0	0.00%	Picture1.Line (Dx(1, VScroll1) + Dx(0, VScroll1), 0)-(Dx(0, VScroll1), Yl), , B	
+302	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	26	0	0	0.00%	0	0.00%	Picture1.FillStyle = Old	
+303	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	27	0	0	0.00%	0	0.00%	Picture1.FillColor = OldC	
+304	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	28	0	0	0.00%	0	0.00%	Case False	
+305	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	29	0	0	0.00%	0	0.00%	Text1 = BloqY(VScroll1)	
+306	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	30	0	0	0.00%	0	0.00%	Picture1.FillStyle = 2	
+307	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	31	0	0	0.00%	0	0.00%	Picture1.Line (0, Dy(1, VScroll1) + Dy(0, VScroll1))-(Xl, Dy(0, VScroll1)), , B	
+308	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	32	0	0	0.00%	0	0.00%	Picture1.FillStyle = Old	
+309	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	33	0	0	0.00%	0	0.00%	Picture1.FillColor = OldC	
+310	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	34	0	0	0.00%	0	0.00%	Text2 = M(VScroll1)	
+311	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	35	0	0	0.00%	0	0.00%	Case 1	
+312	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	23	0	0	0.00%	0	0.00%	Text3 = PowX(VScroll1)	
+313	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	37	0	0	0.00%	0	0.00%	Case 2	
+314	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	22	0	0	0.00%	0	0.00%	PowX(VScroll1) = 1	
+315	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	39	0	0	0.00%	0	0.00%	Case 3	
+316	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	40	0	0	0.00%	0	0.00%	Option5 = True	
+317	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	41	0	0	0.00%	0	0.00%	Case 4	
+318	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	42	0	0	0.00%	0	0.00%	Option6 = True	
+319	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	43	0	0	0.00%	0	0.00%	Case 5	
+320	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	44	0	0	0.00%	0	0.00%	Option7 = True	
+321	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	45	0	0	0.00%	0	0.00%	Case Else	
+322	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	46	0	0	0.00%	0	0.00%	Tmy(VScroll1) = 1	
+323	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	47	0	0	0.00%	0	0.00%	Option3 = True	
+324	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	48	0	0	0.00%	0	0.00%	PowY(VScroll1) = 1	
+325	C:\IG\IG\PRE\FV.FRM	LlenarC	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+326	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	50	0	0	0.00%	0	0.00%	Picture1.Line (0, 0)-(Xl, Yl), , B	
+327	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	20	0	0	0.00%	0	0.00%	Label2 = "xmin.= " & XU(Xs(1, Combo1.ListIndex + 1) + 1)	
+328	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	36	0	0	0.00%	0	0.00%	Option3 = True	
+329	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	8	0	0	0.00%	0	0.00%	Text2 = L(VScroll1)	
+330	C:\IG\IG\PRE\FMalla.frm	Option1_Click	40	0	0	0.00%	0	0.00%	Picture1.CurrentY = S(1, K) / 2 + S(3, K) / 2	
+331	C:\IG\IG\PRE\FMalla.frm	Text2_Change	3	0	0	0.00%	0	0.00%	L(VScroll1) = Val(Text2)	
+332	C:\IG\IG\PRE\FMalla.frm	Text2_Change	4	0	0	0.00%	0	0.00%	M(VScroll1) = Val(Text2)	
+333	C:\IG\IG\PRE\FMalla.frm	Text3_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+334	C:\IG\IG\PRE\FMalla.frm	Text3_Change	2	0	0	0.00%	0	0.00%	If Option1 Then	
+335	C:\IG\IG\PRE\FMalla.frm	Text3_Change	3	0	0	0.00%	0	0.00%	PowX(VScroll1) = Val(Text3)	
+336	C:\IG\IG\PRE\FMalla.frm	Text3_Change	4	0	0	0.00%	0	0.00%	PowY(VScroll1) = Val(Text3)	
+337	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+338	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+339	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	3	0	0	0.00%	0	0.00%	Old = Picture1.FillStyle	
+340	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	4	0	0	0.00%	0	0.00%	OldC = Picture1.FillColor	
+341	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	5	0	0	0.00%	0	0.00%	Picture1.FillColor = QBColor(10)	
+342	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	24	0	0	0.00%	0	0.00%	Picture1.FillStyle = 3	
+343	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	7	0	0	0.00%	0	0.00%	Text1 = BloqX(VScroll1)	
+344	C:\IG\IG\PRE\FMalla.frm	Text2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+345	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	9	0	0	0.00%	0	0.00%	Case 1	
+346	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	10	0	0	0.00%	0	0.00%	Option3 = True	
+347	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	11	0	0	0.00%	0	0.00%	Case 2	
+348	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	12	0	0	0.00%	0	0.00%	Option4 = True	
+349	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	13	0	0	0.00%	0	0.00%	Case 3	
+350	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	14	0	0	0.00%	0	0.00%	Option5 = True	
+351	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	15	0	0	0.00%	0	0.00%	Case 4	
+352	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	16	0	0	0.00%	0	0.00%	Option6 = True	
+353	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	17	0	0	0.00%	0	0.00%	Case 5	
+354	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	18	0	0	0.00%	0	0.00%	Option7 = True	
+355	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	19	0	0	0.00%	0	0.00%	Case Else	
+356	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	20	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 1	
+357	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	21	0	0	0.00%	0	0.00%	Option3 = True	
+358	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	6	0	0	0.00%	0	0.00%	Case True	
+359	C:\IG\IG\PRE\FE.frm	Option2_Click	53	0	0	0.00%	0	0.00%	Txs(1, Combo1.ListIndex + 1) = Index	
+360	C:\IG\IG\PRE\FMalla.frm	Form_Activate	7	0	0	0.00%	0	0.00%	BloqY(K) = "Bloque Y " & Str(K)	
+361	C:\IG\IG\PRE\FE.frm	Option2_Click	40	0	0	0.00%	0	0.00%	Label3(0) = "q"	
+362	C:\IG\IG\PRE\FE.frm	Option2_Click	41	0	0	0.00%	0	0.00%	Label3(1).Visible = False	
+363	C:\IG\IG\PRE\FE.frm	Option2_Click	42	0	0	0.00%	0	0.00%	Case Option1(0)	
+364	C:\IG\IG\PRE\FE.frm	Option2_Click	43	0	0	0.00%	0	0.00%	For I = 0 To 1	
+365	C:\IG\IG\PRE\FE.frm	Option2_Click	44	0	0	0.00%	0	0.00%	Text2(I) = Txi(I + 2, Combo1.ListIndex + 1)	
+366	C:\IG\IG\PRE\FE.frm	Option2_Click	45	0	0	0.00%	0	0.00%	Txi(1, Combo1.ListIndex + 1) = Index	
+367	C:\IG\IG\PRE\FE.frm	Option2_Click	46	0	0	0.00%	0	0.00%	Case Option1(1)	
+368	C:\IG\IG\PRE\FE.frm	Option2_Click	47	0	0	0.00%	0	0.00%	For I = 0 To 1	
+369	C:\IG\IG\PRE\FE.frm	Option2_Click	48	0	0	0.00%	0	0.00%	Text2(I) = Tyi(I + 2, Combo1.ListIndex + 1)	
+370	C:\IG\IG\PRE\FE.frm	Option2_Click	49	0	0	0.00%	0	0.00%	Tyi(1, Combo1.ListIndex + 1) = Index	
+371	C:\IG\IG\PRE\FE.frm	Option2_Click	50	0	0	0.00%	0	0.00%	Case Option1(2)	
+372	C:\IG\IG\PRE\FE.frm	Option2_Click	38	0	0	0.00%	0	0.00%	Text2(1).Visible = False	
+373	C:\IG\IG\PRE\FE.frm	Option2_Click	52	0	0	0.00%	0	0.00%	Text2(I) = Txs(I + 2, Combo1.ListIndex + 1)	
+374	C:\IG\IG\PRE\FE.frm	Option2_Click	37	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+375	C:\IG\IG\PRE\FE.frm	Option2_Click	54	0	0	0.00%	0	0.00%	Case Option1(3)	
+376	C:\IG\IG\PRE\FE.frm	Option2_Click	55	0	0	0.00%	0	0.00%	For I = 0 To 1	
+377	C:\IG\IG\PRE\FE.frm	Option2_Click	56	0	0	0.00%	0	0.00%	Text2(I) = Tyd(I + 2, Combo1.ListIndex + 1)	
+378	C:\IG\IG\PRE\FE.frm	Option2_Click	57	0	0	0.00%	0	0.00%	Tyd(1, Combo1.ListIndex + 1) = Index	
+379	C:\IG\IG\PRE\FE.frm	Option2_Click	58	0	0	0.00%	0	0.00%	Case 3	
+380	C:\IG\IG\PRE\FE.frm	Option2_Click	59	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+381	C:\IG\IG\PRE\FMalla.frm	Command1_Click	26	0	0	0.00%	0	0.00%	Me.Hide	
+382	C:\IG\IG\PRE\FMalla.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+383	C:\IG\IG\PRE\FMalla.frm	Form_Activate	2	0	0	0.00%	0	0.00%	CEscala	
+384	C:\IG\IG\PRE\FMalla.frm	Form_Activate	3	0	0	0.00%	0	0.00%	ReDim Preserve Tmx(Ndx), Tmy(Ndy), L(Ndx), M(Ndy), PowX(Ndx),  PowY(Ndy), LL(Ndx), MM(Ndy)	
+385	C:\IG\IG\PRE\FMalla.frm	Form_Activate	4	0	0	0.00%	0	0.00%	For K = 1 To Ndx	
+386	C:\IG\IG\PRE\FMalla.frm	Form_Activate	5	0	0	0.00%	0	0.00%	BloqX(K) = "Bloque X " & Str(K)	
+387	C:\IG\IG\PRE\FMalla.frm	Option2_Click	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+388	C:\IG\IG\PRE\FE.frm	Option2_Click	51	0	0	0.00%	0	0.00%	For I = 0 To 1	
+389	C:\IG\IG\PRE\FE.frm	Option2_Click	23	0	0	0.00%	0	0.00%	Txi(1, Combo1.ListIndex + 1) = Index	
+390	C:\IG\IG\PRE\FE.frm	Option2_Click	9	0	0	0.00%	0	0.00%	Tyi(1, Combo1.ListIndex + 1) = Index	
+391	C:\IG\IG\PRE\FE.frm	Option2_Click	10	0	0	0.00%	0	0.00%	Case Option1(2)	
+392	C:\IG\IG\PRE\FE.frm	Option2_Click	11	0	0	0.00%	0	0.00%	Txs(1, Combo1.ListIndex + 1) = Index	
+393	C:\IG\IG\PRE\FE.frm	Option2_Click	12	0	0	0.00%	0	0.00%	Case Option1(3)	
+394	C:\IG\IG\PRE\FE.frm	Option2_Click	13	0	0	0.00%	0	0.00%	Tyd(1, Combo1.ListIndex + 1) = Index	
+395	C:\IG\IG\PRE\FE.frm	Option2_Click	14	0	0	0.00%	0	0.00%	Case 1	
+396	C:\IG\IG\PRE\FE.frm	Option2_Click	15	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+397	C:\IG\IG\PRE\FE.frm	Option2_Click	16	0	0	0.00%	0	0.00%	Text2(1).Visible = False	
+398	C:\IG\IG\PRE\FE.frm	Option2_Click	17	0	0	0.00%	0	0.00%	Text2(0).Visible = True	
+399	C:\IG\IG\PRE\FE.frm	Option2_Click	18	0	0	0.00%	0	0.00%	Label3(0) = "T"	
+400	C:\IG\IG\PRE\FE.frm	Option2_Click	19	0	0	0.00%	0	0.00%	Label3(1).Visible = False	
+401	C:\IG\IG\PRE\FE.frm	Option2_Click	20	0	0	0.00%	0	0.00%	Case Option1(0)	
+402	C:\IG\IG\PRE\FE.frm	Option2_Click	39	0	0	0.00%	0	0.00%	Text2(0).Visible = True	
+403	C:\IG\IG\PRE\FE.frm	Option2_Click	22	0	0	0.00%	0	0.00%	Text2(I) = Txi(I + 2, Combo1.ListIndex + 1)	
+404	C:\IG\IG\PRE\FMalla.frm	Form_Activate	8	0	0	0.00%	0	0.00%	Picture1.Cls	
+405	C:\IG\IG\PRE\FE.frm	Option2_Click	24	0	0	0.00%	0	0.00%	Case Option1(1)	
+406	C:\IG\IG\PRE\FE.frm	Option2_Click	25	0	0	0.00%	0	0.00%	For I = 0 To 1	
+407	C:\IG\IG\PRE\FE.frm	Option2_Click	26	0	0	0.00%	0	0.00%	Text2(I) = Tyi(I + 2, Combo1.ListIndex + 1)	
+408	C:\IG\IG\PRE\FE.frm	Option2_Click	27	0	0	0.00%	0	0.00%	Tyi(1, Combo1.ListIndex + 1) = Index	
+409	C:\IG\IG\PRE\FE.frm	Option2_Click	28	0	0	0.00%	0	0.00%	Case Option1(2)	
+410	C:\IG\IG\PRE\FE.frm	Option2_Click	29	0	0	0.00%	0	0.00%	For I = 0 To 1	
+411	C:\IG\IG\PRE\FE.frm	Option2_Click	30	0	0	0.00%	0	0.00%	Text2(I) = Txs(I + 2, Combo1.ListIndex + 1)	
+412	C:\IG\IG\PRE\FE.frm	Option2_Click	31	0	0	0.00%	0	0.00%	Txs(1, Combo1.ListIndex + 1) = Index	
+413	C:\IG\IG\PRE\FE.frm	Option2_Click	32	0	0	0.00%	0	0.00%	Case Option1(3)	
+414	C:\IG\IG\PRE\FE.frm	Option2_Click	33	0	0	0.00%	0	0.00%	For I = 0 To 1	
+415	C:\IG\IG\PRE\FE.frm	Option2_Click	34	0	0	0.00%	0	0.00%	Text2(I) = Tyd(I + 2, Combo1.ListIndex + 1)	
+416	C:\IG\IG\PRE\FE.frm	Option2_Click	35	0	0	0.00%	0	0.00%	Tyd(1, Combo1.ListIndex + 1) = Index	
+417	C:\IG\IG\PRE\FE.frm	Option2_Click	36	0	0	0.00%	0	0.00%	Case 2	
+418	C:\IG\IG\PRE\FE.frm	Option2_Click	21	0	0	0.00%	0	0.00%	For I = 0 To 1	
+419	C:\IG\IG\PRE\FMalla.frm	Option1_Click	27	0	0	0.00%	0	0.00%	Option7 = True	
+420	C:\IG\IG\PRE\FMalla.frm	Form_Activate	6	0	0	0.00%	0	0.00%	For K = 1 To Ndy	
+421	C:\IG\IG\PRE\FMalla.frm	Option1_Click	14	0	0	0.00%	0	0.00%	Picture1.FillColor = QBColor(10)	
+422	C:\IG\IG\PRE\FMalla.frm	Option1_Click	15	0	0	0.00%	0	0.00%	Text1 = BloqX(VScroll1)	
+423	C:\IG\IG\PRE\FMalla.frm	Option1_Click	16	0	0	0.00%	0	0.00%	Text2 = L(VScroll1)	
+424	C:\IG\IG\PRE\FMalla.frm	Option1_Click	17	0	0	0.00%	0	0.00%	Text3 = PowX(VScroll1)	
+425	C:\IG\IG\PRE\FMalla.frm	Option1_Click	18	0	0	0.00%	0	0.00%	Case 1	
+426	C:\IG\IG\PRE\FMalla.frm	Option1_Click	19	0	0	0.00%	0	0.00%	Option3 = True	
+427	C:\IG\IG\PRE\FMalla.frm	Option1_Click	20	0	0	0.00%	0	0.00%	Case 2	
+428	C:\IG\IG\PRE\FMalla.frm	Option1_Click	21	0	0	0.00%	0	0.00%	Option4 = True	
+429	C:\IG\IG\PRE\FMalla.frm	Option1_Click	22	0	0	0.00%	0	0.00%	Case 3	
+430	C:\IG\IG\PRE\FMalla.frm	Option1_Click	23	0	0	0.00%	0	0.00%	Option5 = True	
+431	C:\IG\IG\PRE\FMalla.frm	Option1_Click	24	0	0	0.00%	0	0.00%	Case 4	
+432	C:\IG\IG\PRE\FMalla.frm	Option1_Click	12	0	0	0.00%	0	0.00%	OldC = Picture1.FillColor	
+433	C:\IG\IG\PRE\FMalla.frm	Option1_Click	26	0	0	0.00%	0	0.00%	Case 5	
+434	C:\IG\IG\PRE\FMalla.frm	Option1_Click	11	0	0	0.00%	0	0.00%	Old = Picture1.FillStyle	
+435	C:\IG\IG\PRE\FMalla.frm	Option1_Click	28	0	0	0.00%	0	0.00%	Case Else	
+436	C:\IG\IG\PRE\FMalla.frm	Option1_Click	29	0	0	0.00%	0	0.00%	Tmx(VScroll1) = 1	
+437	C:\IG\IG\PRE\FMalla.frm	Option1_Click	30	0	0	0.00%	0	0.00%	Option3 = True	
+438	C:\IG\IG\PRE\FMalla.frm	Option1_Click	31	0	0	0.00%	0	0.00%	PowX(VScroll1) = 1	
+439	C:\IG\IG\PRE\FMalla.frm	Option1_Click	32	0	0	0.00%	0	0.00%	Picture1.Line (Dx(1, VScroll1) + Dx(0, VScroll1), 0)-(Dx(0, VScroll1), Yl), , B	
+440	C:\IG\IG\PRE\FMalla.frm	Option1_Click	33	0	0	0.00%	0	0.00%	Picture1.FillStyle = Old	
+441	C:\IG\IG\PRE\FMalla.frm	Option1_Click	34	0	0	0.00%	0	0.00%	Picture1.FillColor = OldC	
+442	C:\IG\IG\PRE\FMalla.frm	Option1_Click	35	0	0	0.00%	0	0.00%	Picture1.Line (0, 0)-(Xl, Yl), , B	
+443	C:\IG\IG\PRE\FMalla.frm	Option1_Click	36	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+444	C:\IG\IG\PRE\FMalla.frm	Option1_Click	37	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+445	C:\IG\IG\PRE\FMalla.frm	Option1_Click	38	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), , B	
+446	C:\IG\IG\PRE\FMalla.frm	Option1_Click	39	0	0	0.00%	0	0.00%	Picture1.CurrentX = S(0, K) / 2 + S(2, K) / 2	
+447	C:\IG\IG\PRE\FPR.frm	Form_Load	10	0	0	0.00%	0	0.00%	Relax(0) = 1	
+448	C:\IG\IG\PRE\FMalla.frm	Option1_Click	25	0	0	0.00%	0	0.00%	Option6 = True	
+449	C:\IG\IG\PRE\FMalla.frm	Form_Activate	23	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+450	C:\IG\IG\PRE\FMalla.frm	Form_Activate	9	0	0	0.00%	0	0.00%	VScroll1.Max = 1	
+451	C:\IG\IG\PRE\FMalla.frm	Form_Activate	10	0	0	0.00%	0	0.00%	VScroll1.Min = Ndx	
+452	C:\IG\IG\PRE\FMalla.frm	Form_Activate	11	0	0	0.00%	0	0.00%	VScroll1 = 1	
+453	C:\IG\IG\PRE\FMalla.frm	Form_Activate	12	0	0	0.00%	0	0.00%	Old = Picture1.FillStyle	
+454	C:\IG\IG\PRE\FMalla.frm	Form_Activate	13	0	0	0.00%	0	0.00%	OldC = Picture1.FillColor	
+455	C:\IG\IG\PRE\FMalla.frm	Form_Activate	14	0	0	0.00%	0	0.00%	Picture1.FillStyle = 3	
+456	C:\IG\IG\PRE\FMalla.frm	Form_Activate	15	0	0	0.00%	0	0.00%	Picture1.FillColor = QBColor(10)	
+457	C:\IG\IG\PRE\FMalla.frm	Form_Activate	16	0	0	0.00%	0	0.00%	Text1 = BloqX(VScroll1)	
+458	C:\IG\IG\PRE\FMalla.frm	Form_Activate	17	0	0	0.00%	0	0.00%	Picture1.Line (Dx(1, VScroll1) + Dx(0, VScroll1), 0)-(Dx(0, VScroll1), Yl), , B	
+459	C:\IG\IG\PRE\FMalla.frm	Form_Activate	18	0	0	0.00%	0	0.00%	Picture1.FillStyle = Old	
+460	C:\IG\IG\PRE\FMalla.frm	Form_Activate	19	0	0	0.00%	0	0.00%	Picture1.FillColor = OldC	
+461	C:\IG\IG\PRE\FMalla.frm	Form_Activate	20	0	0	0.00%	0	0.00%	Picture1.Line (0, 0)-(Xl, Yl), , B	
+462	C:\IG\IG\PRE\FMalla.frm	Option1_Click	13	0	0	0.00%	0	0.00%	Picture1.FillStyle = 3	
+463	C:\IG\IG\PRE\FMalla.frm	Form_Activate	22	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+464	C:\IG\IG\PRE\FMalla.frm	Option2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+465	C:\IG\IG\PRE\FMalla.frm	Form_Activate	24	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), , B	
+466	C:\IG\IG\PRE\FMalla.frm	Form_Activate	25	0	0	0.00%	0	0.00%	Picture1.CurrentX = S(0, K) / 2 + S(2, K) / 2	
+467	C:\IG\IG\PRE\FMalla.frm	Form_Activate	26	0	0	0.00%	0	0.00%	Picture1.CurrentY = S(1, K) / 2 + S(3, K) / 2	
+468	C:\IG\IG\PRE\FMalla.frm	Option1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+469	C:\IG\IG\PRE\FMalla.frm	Option1_Click	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+470	C:\IG\IG\PRE\FMalla.frm	Option1_Click	3	0	0	0.00%	0	0.00%	VScroll1.Max = 1	
+471	C:\IG\IG\PRE\FMalla.frm	Option1_Click	4	0	0	0.00%	0	0.00%	VScroll1.Min = Ndx	
+472	C:\IG\IG\PRE\FMalla.frm	Option1_Click	5	0	0	0.00%	0	0.00%	VScroll1 = 1	
+473	C:\IG\IG\PRE\FMalla.frm	Option1_Click	6	0	0	0.00%	0	0.00%	Option3.Caption = "Volumenes de control uniforme"	
+474	C:\IG\IG\PRE\FMalla.frm	Option1_Click	7	0	0	0.00%	0	0.00%	Option4.Caption = "Agrupados a los extremos"	
+475	C:\IG\IG\PRE\FMalla.frm	Option1_Click	8	0	0	0.00%	0	0.00%	Option5.Caption = "Agrupados al centro"	
+476	C:\IG\IG\PRE\FMalla.frm	Option1_Click	9	0	0	0.00%	0	0.00%	Option6.Caption = "Agrupados a la izquierda"	
+477	C:\IG\IG\PRE\FMalla.frm	Option1_Click	10	0	0	0.00%	0	0.00%	Option7.Caption = "Agrupados a la derecha"	
+478	C:\IG\IG\PRE\FMalla.frm	Form_Activate	21	0	0	0.00%	0	0.00%	Option1 = True	
+479	C:\IG\IG\PRE\FV.FRM	Option2_Click	9	0	0	0.00%	0	0.00%	Vyi(1, Combo1.ListIndex + 1) = Index	
+480	C:\IG\IG\PRE\FV.FRM	Option1_Click	13	0	0	0.00%	0	0.00%	Option2(1).Enabled = True	
+481	C:\IG\IG\PRE\FV.FRM	Option1_Click	14	0	0	0.00%	0	0.00%	Option2(0).Enabled = True	
+482	C:\IG\IG\PRE\FV.FRM	Option1_Click	15	0	0	0.00%	0	0.00%	Case Option1(3)	
+483	C:\IG\IG\PRE\FV.FRM	Option1_Click	16	0	0	0.00%	0	0.00%	Option2(Vyd(1, Combo1.ListIndex + 1)) = True	
+484	C:\IG\IG\PRE\FV.FRM	Option1_Click	17	0	0	0.00%	0	0.00%	Option2(1).Enabled = False	
+485	C:\IG\IG\PRE\FV.FRM	Option1_Click	18	0	0	0.00%	0	0.00%	Option2(0).Enabled = False	
+486	C:\IG\IG\PRE\FV.FRM	Option2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+487	C:\IG\IG\PRE\FV.FRM	Option2_Click	2	0	0	0.00%	0	0.00%	Case 0	
+488	C:\IG\IG\PRE\FV.FRM	Option2_Click	3	0	0	0.00%	0	0.00%	Frame4.Visible = False	
+489	C:\IG\IG\PRE\FV.FRM	Option2_Click	4	0	0	0.00%	0	0.00%	For I = 0 To 1	
+490	C:\IG\IG\PRE\FV.FRM	Option2_Click	5	0	0	0.00%	0	0.00%	Text2(I).Visible = False	
+491	C:\IG\IG\PRE\FV.FRM	Option2_Click	6	0	0	0.00%	0	0.00%	Case Option1(0)	
+492	C:\IG\IG\PRE\Dominio.frm	Combo1_Click	5	0	0	0.00%	0	0.00%	Text3.Visible = True	
+493	C:\IG\IG\PRE\FV.FRM	Option2_Click	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+494	C:\IG\IG\PRE\FV.FRM	Option1_Click	10	0	0	0.00%	0	0.00%	Option2(0).Enabled = False	
+495	C:\IG\IG\PRE\FV.FRM	Option2_Click	10	0	0	0.00%	0	0.00%	Case Option1(2)	
+496	C:\IG\IG\PRE\FV.FRM	Option2_Click	11	0	0	0.00%	0	0.00%	Vxs(1, Combo1.ListIndex + 1) = Index	
+497	C:\IG\IG\PRE\FV.FRM	Option2_Click	12	0	0	0.00%	0	0.00%	Case Option1(3)	
+498	C:\IG\IG\PRE\FV.FRM	Option2_Click	13	0	0	0.00%	0	0.00%	Vyd(1, Combo1.ListIndex + 1) = Index	
+499	C:\IG\IG\PRE\FV.FRM	Option2_Click	14	0	0	0.00%	0	0.00%	Case 1	
+500	C:\IG\IG\PRE\FV.FRM	Option2_Click	15	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+501	C:\IG\IG\PRE\FV.FRM	Option2_Click	16	0	0	0.00%	0	0.00%	Text2(1).Visible = True	
+502	C:\IG\IG\PRE\FV.FRM	Option2_Click	17	0	0	0.00%	0	0.00%	Text2(0).Visible = True	
+503	C:\IG\IG\PRE\FV.FRM	Option2_Click	18	0	0	0.00%	0	0.00%	Label3(0) = "v ext."	
+504	C:\IG\IG\PRE\FV.FRM	Option2_Click	19	0	0	0.00%	0	0.00%	Label3(1) = "v cen."	
+505	C:\IG\IG\PRE\FV.FRM	Option2_Click	20	0	0	0.00%	0	0.00%	Label3(1).Visible = True	
+506	C:\IG\IG\PRE\FV.FRM	Option2_Click	21	0	0	0.00%	0	0.00%	Case Option1(0)	
+507	C:\IG\IG\PRE\FV.FRM	Option2_Click	7	0	0	0.00%	0	0.00%	Vxi(1, Combo1.ListIndex + 1) = Index	
+508	C:\IG\IG\PRE\FV.FRM	Frame4_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+509	C:\IG\IG\PRE\FV.FRM	Form_Load	8	0	0	0.00%	0	0.00%	Vyi(1, I) = 2	
+510	C:\IG\IG\PRE\FV.FRM	Form_Load	9	0	0	0.00%	0	0.00%	Vyi(2, I) = 0	
+511	C:\IG\IG\PRE\FV.FRM	Form_Load	10	0	0	0.00%	0	0.00%	Vyi(3, I) = 0	
+512	C:\IG\IG\PRE\FV.FRM	Form_Load	11	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+513	C:\IG\IG\PRE\FV.FRM	Form_Load	12	0	0	0.00%	0	0.00%	Vxs(1, I) = 2	
+514	C:\IG\IG\PRE\FV.FRM	Form_Load	13	0	0	0.00%	0	0.00%	Vxs(2, I) = 0	
+515	C:\IG\IG\PRE\FV.FRM	Form_Load	14	0	0	0.00%	0	0.00%	Vxs(3, I) = 0	
+516	C:\IG\IG\PRE\FV.FRM	Form_Load	15	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+517	C:\IG\IG\PRE\FV.FRM	Form_Load	16	0	0	0.00%	0	0.00%	Vyd(1, I) = 2	
+518	C:\IG\IG\PRE\FV.FRM	Form_Load	17	0	0	0.00%	0	0.00%	Vyd(2, I) = 0	
+519	C:\IG\IG\PRE\FV.FRM	Form_Load	18	0	0	0.00%	0	0.00%	Vyd(3, I) = 0	
+520	C:\IG\IG\PRE\FV.FRM	Frame1_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+521	C:\IG\IG\PRE\FV.FRM	Option1_Click	12	0	0	0.00%	0	0.00%	Option2(Vxs(1, Combo1.ListIndex + 1)) = True	
+522	C:\IG\IG\PRE\FV.FRM	Frame3_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+523	C:\IG\IG\PRE\FV.FRM	Option1_Click	11	0	0	0.00%	0	0.00%	Case Option1(2)	
+524	C:\IG\IG\PRE\FV.FRM	Label1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+525	C:\IG\IG\PRE\FV.FRM	Label2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+526	C:\IG\IG\PRE\FV.FRM	Label3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+527	C:\IG\IG\PRE\FV.FRM	Option1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+528	C:\IG\IG\PRE\FV.FRM	Option1_Click	2	0	0	0.00%	0	0.00%	Call LlenarC	
+529	C:\IG\IG\PRE\FV.FRM	Option1_Click	3	0	0	0.00%	0	0.00%	Case Option1(0)	
+530	C:\IG\IG\PRE\FV.FRM	Option1_Click	4	0	0	0.00%	0	0.00%	Option2(Vxi(1, Combo1.ListIndex + 1)) = True	
+531	C:\IG\IG\PRE\FV.FRM	Option1_Click	5	0	0	0.00%	0	0.00%	Option2(1).Enabled = True	
+532	C:\IG\IG\PRE\FV.FRM	Option1_Click	6	0	0	0.00%	0	0.00%	Option2(0).Enabled = True	
+533	C:\IG\IG\PRE\FV.FRM	Option1_Click	7	0	0	0.00%	0	0.00%	Case Option1(1)	
+534	C:\IG\IG\PRE\FV.FRM	Option1_Click	8	0	0	0.00%	0	0.00%	Option2(Vyi(1, Combo1.ListIndex + 1)) = True	
+535	C:\IG\IG\PRE\FV.FRM	Option1_Click	9	0	0	0.00%	0	0.00%	Option2(1).Enabled = False	
+536	C:\IG\IG\PRE\FV.FRM	Option2_Click	24	0	0	0.00%	0	0.00%	Vxi(1, Combo1.ListIndex + 1) = Index	
+537	C:\IG\IG\PRE\FV.FRM	Frame2_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+538	C:\IG\IG\PRE\FV.FRM	Text2_Change	8	0	0	0.00%	0	0.00%	Vyi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+539	C:\IG\IG\PRE\FV.FRM	Option2_Click	22	0	0	0.00%	0	0.00%	For I = 0 To 1	
+540	C:\IG\IG\PRE\FV.FRM	Option2_Click	55	0	0	0.00%	0	0.00%	Case Option1(3)	
+541	C:\IG\IG\PRE\FV.FRM	Option2_Click	56	0	0	0.00%	0	0.00%	For I = 0 To 1	
+542	C:\IG\IG\PRE\FV.FRM	Option2_Click	57	0	0	0.00%	0	0.00%	Text2(I) = Vyd(I + 2, Combo1.ListIndex + 1)	
+543	C:\IG\IG\PRE\FV.FRM	Option2_Click	58	0	0	0.00%	0	0.00%	Vyd(1, Combo1.ListIndex + 1) = Index	
+544	C:\IG\IG\PRE\FV.FRM	Picture1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+545	C:\IG\IG\PRE\FV.FRM	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+546	C:\IG\IG\PRE\FV.FRM	Text2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+547	C:\IG\IG\PRE\FV.FRM	Text2_Change	2	0	0	0.00%	0	0.00%	Case Option1(0)	
+548	C:\IG\IG\PRE\FV.FRM	Text2_Change	3	0	0	0.00%	0	0.00%	If Index = 0 Then	
+549	C:\IG\IG\PRE\FV.FRM	Text2_Change	4	0	0	0.00%	0	0.00%	Vxi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+550	C:\IG\IG\PRE\FV.FRM	Text2_Change	5	0	0	0.00%	0	0.00%	Vxi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+551	C:\IG\IG\PRE\FV.FRM	Option2_Click	53	0	0	0.00%	0	0.00%	Text2(I) = Vxs(I + 2, Combo1.ListIndex + 1)	
+552	C:\IG\IG\PRE\FV.FRM	Text2_Change	7	0	0	0.00%	0	0.00%	If Index = 0 Then	
+553	C:\IG\IG\PRE\FV.FRM	Option2_Click	52	0	0	0.00%	0	0.00%	For I = 0 To 1	
+554	C:\IG\IG\PRE\FV.FRM	Text2_Change	9	0	0	0.00%	0	0.00%	Vyi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+555	C:\IG\IG\PRE\FV.FRM	Text2_Change	10	0	0	0.00%	0	0.00%	Case Option1(2)	
+556	C:\IG\IG\PRE\FV.FRM	Text2_Change	11	0	0	0.00%	0	0.00%	If Index = 0 Then	
+557	C:\IG\IG\PRE\FV.FRM	Text2_Change	12	0	0	0.00%	0	0.00%	Vxs(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+558	C:\IG\IG\PRE\FV.FRM	Text2_Change	13	0	0	0.00%	0	0.00%	Vxs(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+559	C:\IG\IG\PRE\FV.FRM	Text2_Change	14	0	0	0.00%	0	0.00%	Case Option1(3)	
+560	C:\IG\IG\PRE\FV.FRM	Text2_Change	15	0	0	0.00%	0	0.00%	If Index = 0 Then	
+561	C:\IG\IG\PRE\FV.FRM	Text2_Change	16	0	0	0.00%	0	0.00%	Vyd(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+562	C:\IG\IG\PRE\FV.FRM	Text2_Change	17	0	0	0.00%	0	0.00%	Vyd(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+563	C:\IG\IG\PRE\Dominio.frm	Combo1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+564	C:\IG\IG\PRE\Dominio.frm	Combo1_Click	2	0	0	0.00%	0	0.00%	If Combo1.ListIndex = 0 Then	
+565	C:\IG\IG\PRE\Dominio.frm	Combo1_Click	3	0	0	0.00%	0	0.00%	Text3.Visible = False	
+566	C:\IG\IG\PRE\FPR.frm	Form_Load	12	0	0	0.00%	0	0.00%	Relax(2) = 1	
+567	C:\IG\IG\PRE\FV.FRM	Text2_Change	6	0	0	0.00%	0	0.00%	Case Option1(1)	
+568	C:\IG\IG\PRE\FV.FRM	Option2_Click	38	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+569	C:\IG\IG\PRE\FV.FRM	Form_Load	5	0	0	0.00%	0	0.00%	Vxi(2, I) = 0	
+570	C:\IG\IG\PRE\FV.FRM	Option2_Click	25	0	0	0.00%	0	0.00%	Case Option1(1)	
+571	C:\IG\IG\PRE\FV.FRM	Option2_Click	26	0	0	0.00%	0	0.00%	For I = 0 To 1	
+572	C:\IG\IG\PRE\FV.FRM	Option2_Click	27	0	0	0.00%	0	0.00%	Text2(I) = Vyi(I + 2, Combo1.ListIndex + 1)	
+573	C:\IG\IG\PRE\FV.FRM	Option2_Click	28	0	0	0.00%	0	0.00%	Vyi(1, Combo1.ListIndex + 1) = Index	
+574	C:\IG\IG\PRE\FV.FRM	Option2_Click	29	0	0	0.00%	0	0.00%	Case Option1(2)	
+575	C:\IG\IG\PRE\FV.FRM	Option2_Click	30	0	0	0.00%	0	0.00%	For I = 0 To 1	
+576	C:\IG\IG\PRE\FV.FRM	Option2_Click	31	0	0	0.00%	0	0.00%	Text2(I) = Vxs(I + 2, Combo1.ListIndex + 1)	
+577	C:\IG\IG\PRE\FV.FRM	Option2_Click	32	0	0	0.00%	0	0.00%	Vxs(1, Combo1.ListIndex + 1) = Index	
+578	C:\IG\IG\PRE\FV.FRM	Option2_Click	33	0	0	0.00%	0	0.00%	Case Option1(3)	
+579	C:\IG\IG\PRE\FV.FRM	Option2_Click	34	0	0	0.00%	0	0.00%	For I = 0 To 1	
+580	C:\IG\IG\PRE\FV.FRM	Option2_Click	35	0	0	0.00%	0	0.00%	Text2(I) = Vyd(I + 2, Combo1.ListIndex + 1)	
+581	C:\IG\IG\PRE\FV.FRM	Option2_Click	54	0	0	0.00%	0	0.00%	Vxs(1, Combo1.ListIndex + 1) = Index	
+582	C:\IG\IG\PRE\FV.FRM	Option2_Click	37	0	0	0.00%	0	0.00%	Case 2	
+583	C:\IG\IG\PRE\FV.FRM	Option2_Click	23	0	0	0.00%	0	0.00%	Text2(I) = Vxi(I + 2, Combo1.ListIndex + 1)	
+584	C:\IG\IG\PRE\FV.FRM	Option2_Click	39	0	0	0.00%	0	0.00%	Text2(1).Visible = False	
+585	C:\IG\IG\PRE\FV.FRM	Option2_Click	40	0	0	0.00%	0	0.00%	Text2(0).Visible = True	
+586	C:\IG\IG\PRE\FV.FRM	Option2_Click	41	0	0	0.00%	0	0.00%	Label3(0) = "v"	
+587	C:\IG\IG\PRE\FV.FRM	Option2_Click	42	0	0	0.00%	0	0.00%	Label3(1).Visible = False	
+588	C:\IG\IG\PRE\FV.FRM	Option2_Click	43	0	0	0.00%	0	0.00%	Case Option1(0)	
+589	C:\IG\IG\PRE\FV.FRM	Option2_Click	44	0	0	0.00%	0	0.00%	For I = 0 To 1	
+590	C:\IG\IG\PRE\FV.FRM	Option2_Click	45	0	0	0.00%	0	0.00%	Text2(I) = Vxi(I + 2, Combo1.ListIndex + 1)	
+591	C:\IG\IG\PRE\FV.FRM	Option2_Click	46	0	0	0.00%	0	0.00%	Vxi(1, Combo1.ListIndex + 1) = Index	
+592	C:\IG\IG\PRE\FV.FRM	Option2_Click	47	0	0	0.00%	0	0.00%	Case Option1(1)	
+593	C:\IG\IG\PRE\FV.FRM	Option2_Click	48	0	0	0.00%	0	0.00%	For I = 0 To 1	
+594	C:\IG\IG\PRE\FV.FRM	Option2_Click	49	0	0	0.00%	0	0.00%	Text2(I) = Vyi(I + 2, Combo1.ListIndex + 1)	
+595	C:\IG\IG\PRE\FV.FRM	Option2_Click	50	0	0	0.00%	0	0.00%	Vyi(1, Combo1.ListIndex + 1) = Index	
+596	C:\IG\IG\PRE\FV.FRM	Option2_Click	51	0	0	0.00%	0	0.00%	Case Option1(2)	
+597	C:\IG\IG\PRE\FV.FRM	Option2_Click	36	0	0	0.00%	0	0.00%	Vyd(1, Combo1.ListIndex + 1) = Index	
+598	C:\IG\IG\PRE\FV.FRM	Combo1_Click	22	0	0	0.00%	0	0.00%	For I = 0 To 1	
+599	C:\IG\IG\PRE\FV.FRM	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+600	C:\IG\IG\PRE\FV.FRM	Combo1_Click	9	0	0	0.00%	0	0.00%	Text1(0) = Yi(1, Combo1.ListIndex + 1)	
+601	C:\IG\IG\PRE\FV.FRM	Combo1_Click	10	0	0	0.00%	0	0.00%	Text1(1) = Yi(2, Combo1.ListIndex + 1)	
+602	C:\IG\IG\PRE\FV.FRM	Combo1_Click	11	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(Yi(1, Combo1.ListIndex + 1) + 1))-(XU(2), YV(Yi(2, Combo1.ListIndex + 1) + 	
+603	C:\IG\IG\PRE\FV.FRM	Combo1_Click	12	0	0	0.00%	0	0.00%	Case Option1(2)	
+604	C:\IG\IG\PRE\FV.FRM	Combo1_Click	13	0	0	0.00%	0	0.00%	Text1(0) = Xs(1, Combo1.ListIndex + 1)	
+605	C:\IG\IG\PRE\FV.FRM	Combo1_Click	14	0	0	0.00%	0	0.00%	Text1(1) = Xs(2, Combo1.ListIndex + 1)	
+606	C:\IG\IG\PRE\FV.FRM	Combo1_Click	15	0	0	0.00%	0	0.00%	Picture1.Line (XU(Xs(1, Combo1.ListIndex + 1) + 1), YV(M1))-(XU(Xs(2, Combo1.ListIndex + 1) + 2), YV	
+607	C:\IG\IG\PRE\FV.FRM	Combo1_Click	16	0	0	0.00%	0	0.00%	Case Option1(3)	
+608	C:\IG\IG\PRE\FV.FRM	Combo1_Click	17	0	0	0.00%	0	0.00%	Text1(0) = Yd(1, Combo1.ListIndex + 1)	
+609	C:\IG\IG\PRE\FV.FRM	Combo1_Click	18	0	0	0.00%	0	0.00%	Text1(1) = Yd(2, Combo1.ListIndex + 1)	
+610	C:\IG\IG\PRE\FV.FRM	Combo1_Click	19	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(Yd(1, Combo1.ListIndex + 1) + 1))-(XU(L1), YV(Yd(2, Combo1.ListIndex + 1) 	
+611	C:\IG\IG\PRE\FV.FRM	Combo1_Click	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(Xi(1, Combo1.ListIndex + 1) + 1), YV(2))-(XU(Xi(2, Combo1.ListIndex + 1) + 2), YV(	
+612	C:\IG\IG\PRE\FV.FRM	Combo1_Click	21	0	0	0.00%	0	0.00%	Option2(Vxi(1, Combo1.ListIndex + 1)) = True	
+613	C:\IG\IG\PRE\FV.FRM	Combo1_Click	6	0	0	0.00%	0	0.00%	Text1(1) = Xi(2, Combo1.ListIndex + 1)	
+614	C:\IG\IG\PRE\FV.FRM	Combo1_Click	23	0	0	0.00%	0	0.00%	Text2(I) = Vxi(I + 2, Combo1.ListIndex + 1)	
+615	C:\IG\IG\PRE\FV.FRM	Combo1_Click	24	0	0	0.00%	0	0.00%	Case Option1(1)	
+616	C:\IG\IG\PRE\FV.FRM	Combo1_Click	25	0	0	0.00%	0	0.00%	Option2(Vyi(1, Combo1.ListIndex + 1)) = True	
+617	C:\IG\IG\PRE\FV.FRM	Combo1_Click	26	0	0	0.00%	0	0.00%	For I = 0 To 1	
+618	C:\IG\IG\PRE\FV.FRM	Combo1_Click	27	0	0	0.00%	0	0.00%	Text2(I) = Vyi(I + 2, Combo1.ListIndex + 1)	
+619	C:\IG\IG\PRE\FV.FRM	Combo1_Click	28	0	0	0.00%	0	0.00%	Case Option1(2)	
+620	C:\IG\IG\PRE\FV.FRM	Combo1_Click	29	0	0	0.00%	0	0.00%	Option2(Vxs(1, Combo1.ListIndex + 1)) = True	
+621	C:\IG\IG\PRE\FV.FRM	Combo1_Click	30	0	0	0.00%	0	0.00%	For I = 0 To 1	
+622	C:\IG\IG\PRE\FV.FRM	Combo1_Click	31	0	0	0.00%	0	0.00%	Text2(I) = Vxs(I + 2, Combo1.ListIndex + 1)	
+623	C:\IG\IG\PRE\FV.FRM	Combo1_Click	32	0	0	0.00%	0	0.00%	Case Option1(3)	
+624	C:\IG\IG\PRE\FV.FRM	Combo1_Click	33	0	0	0.00%	0	0.00%	Option2(Vyd(1, Combo1.ListIndex + 1)) = True	
+625	C:\IG\IG\PRE\FV.FRM	Combo1_Click	34	0	0	0.00%	0	0.00%	For I = 0 To 1	
+626	C:\IG\IG\PRE\FV.FRM	Form_Load	7	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+627	C:\IG\IG\PRE\FV.FRM	Combo1_Click	20	0	0	0.00%	0	0.00%	Case Option1(0)	
+628	C:\IG\IG\PRE\FV.FRM	LlenarC	16	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+629	C:\IG\IG\PRE\FV.FRM	LlenarC	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+630	C:\IG\IG\PRE\FV.FRM	LlenarC	3	0	0	0.00%	0	0.00%	For J = 0 To 3	
+631	C:\IG\IG\PRE\FV.FRM	LlenarC	4	0	0	0.00%	0	0.00%	If Option1(J) Then	
+632	C:\IG\IG\PRE\FV.FRM	LlenarC	5	0	0	0.00%	0	0.00%	Case 0	
+633	C:\IG\IG\PRE\FV.FRM	LlenarC	6	0	0	0.00%	0	0.00%	For I = 1 To Ndxi	
+634	C:\IG\IG\PRE\FV.FRM	LlenarC	7	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+635	C:\IG\IG\PRE\FV.FRM	LlenarC	8	0	0	0.00%	0	0.00%	Case 1	
+636	C:\IG\IG\PRE\FV.FRM	LlenarC	9	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+637	C:\IG\IG\PRE\FV.FRM	LlenarC	10	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+638	C:\IG\IG\PRE\FV.FRM	LlenarC	11	0	0	0.00%	0	0.00%	Case 2	
+639	C:\IG\IG\PRE\FV.FRM	LlenarC	12	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+640	C:\IG\IG\PRE\FV.FRM	LlenarC	13	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+641	C:\IG\IG\PRE\FV.FRM	Combo1_Click	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+642	C:\IG\IG\PRE\FV.FRM	LlenarC	15	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+643	C:\IG\IG\PRE\FV.FRM	Command1_Click	2	0	0	0.00%	0	0.00%	FTfV.Show (1)	
+644	C:\IG\IG\PRE\FV.FRM	LlenarC	17	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+645	C:\IG\IG\PRE\FV.FRM	Check1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+646	C:\IG\IG\PRE\FV.FRM	Check1_Click	2	0	0	0.00%	0	0.00%	Frame1.Enabled = (Check1 = vbChecked)	
+647	C:\IG\IG\PRE\FV.FRM	Check1_Click	3	0	0	0.00%	0	0.00%	Frame2.Enabled = (Check1 = vbChecked)	
+648	C:\IG\IG\PRE\FV.FRM	Check1_Click	4	0	0	0.00%	0	0.00%	Frame3.Enabled = (Check1 = vbChecked)	
+649	C:\IG\IG\PRE\FV.FRM	Check1_Click	5	0	0	0.00%	0	0.00%	Command1.Enabled = (Check1 = vbChecked)	
+650	C:\IG\IG\PRE\FV.FRM	Combo1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+651	C:\IG\IG\PRE\FV.FRM	Combo1_Change	2	0	0	0.00%	0	0.00%	Combo1.Locked = False	
+652	C:\IG\IG\PRE\FV.FRM	Combo1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+653	C:\IG\IG\PRE\FV.FRM	Combo1_Click	2	0	0	0.00%	0	0.00%	DiMalla	
+654	C:\IG\IG\PRE\FV.FRM	Combo1_Click	3	0	0	0.00%	0	0.00%	caca = True	
+655	C:\IG\IG\PRE\FV.FRM	Combo1_Click	4	0	0	0.00%	0	0.00%	Case Option1(0)	
+656	C:\IG\IG\PRE\FV.FRM	Combo1_Click	5	0	0	0.00%	0	0.00%	Text1(0) = Xi(1, Combo1.ListIndex + 1)	
+657	C:\IG\IG\PRE\FV.FRM	LlenarC	14	0	0	0.00%	0	0.00%	Case 3	
+658	C:\IG\IG\PRE\FV.FRM	DiMalla	11	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), vbMagenta, B	
+659	C:\IG\IG\PRE\FV.FRM	Combo1_Click	35	0	0	0.00%	0	0.00%	Text2(I) = Vyd(I + 2, Combo1.ListIndex + 1)	
+660	C:\IG\IG\PRE\FV.FRM	CEscala	4	0	0	0.00%	0	0.00%	Picture1.ScaleWidth = 2 * Mediaescala	
+661	C:\IG\IG\PRE\FV.FRM	CEscala	5	0	0	0.00%	0	0.00%	Picture1.ScaleLeft = -Mediaescala + Xl / 2	
+662	C:\IG\IG\PRE\FV.FRM	CEscala	6	0	0	0.00%	0	0.00%	Picture1.ScaleTop = Yl / 2 + Mediaescala	
+663	C:\IG\IG\PRE\FV.FRM	DiMalla	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+664	C:\IG\IG\PRE\FV.FRM	DiMalla	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+665	C:\IG\IG\PRE\FV.FRM	DiMalla	3	0	0	0.00%	0	0.00%	For I = 2 To L2	
+666	C:\IG\IG\PRE\FV.FRM	DiMalla	4	0	0	0.00%	0	0.00%	For J = 2 To M2	
+667	C:\IG\IG\PRE\FV.FRM	DiMalla	5	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I), YV(J + 1)), QBColor(8)	
+668	C:\IG\IG\PRE\FV.FRM	DiMalla	6	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I + 1), YV(J)), QBColor(8)	
+669	C:\IG\IG\PRE\FV.FRM	DiMalla	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), QBColor(8)	
+670	C:\IG\IG\PRE\FV.FRM	DiMalla	8	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(M1))-(XU(L1), YV(M1)), QBColor(8)	
+671	C:\IG\IG\PRE\FV.FRM	CEscala	2	0	0	0.00%	0	0.00%	Mediaescala = (EscalaXY * 1.1) / 2	
+672	C:\IG\IG\PRE\FV.FRM	DiMalla	10	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+673	C:\IG\IG\PRE\FV.FRM	CEscala	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+674	C:\IG\IG\PRE\FV.FRM	DiMalla	12	0	0	0.00%	0	0.00%	Case 1	
+675	C:\IG\IG\PRE\FV.FRM	DiMalla	13	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(2))-(XU(L1), YV(2)), vbCyan	
+676	C:\IG\IG\PRE\FV.FRM	DiMalla	14	0	0	0.00%	0	0.00%	Case 2	
+677	C:\IG\IG\PRE\FV.FRM	DiMalla	15	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(2))-(XU(2), YV(M1)), vbCyan	
+678	C:\IG\IG\PRE\FV.FRM	DiMalla	16	0	0	0.00%	0	0.00%	Case 3	
+679	C:\IG\IG\PRE\FV.FRM	DiMalla	17	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(2), YV(M1)), vbCyan	
+680	C:\IG\IG\PRE\FV.FRM	DiMalla	18	0	0	0.00%	0	0.00%	Case 4	
+681	C:\IG\IG\PRE\FV.FRM	DiMalla	19	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), vbCyan	
+682	C:\IG\IG\PRE\FV.FRM	Form_Load	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+683	C:\IG\IG\PRE\FV.FRM	Form_Load	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+684	C:\IG\IG\PRE\FV.FRM	Form_Load	3	0	0	0.00%	0	0.00%	For I = 1 To Ndxi	
+685	C:\IG\IG\PRE\FV.FRM	Form_Load	4	0	0	0.00%	0	0.00%	Vxi(1, I) = 2	
+686	C:\IG\IG\PRE\Dominio.frm	Combo1_Click	6	0	0	0.00%	0	0.00%	Label4.Visible = True	
+687	C:\IG\IG\PRE\FV.FRM	DiMalla	9	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+688	C:\IG\IG\PRE\FV.FRM	Form_Activate	8	0	0	0.00%	0	0.00%	For I = 0 To 3	
+689	C:\IG\IG\PRE\FV.FRM	Command1_Click	3	0	0	0.00%	0	0.00%	For I = 0 To 3	
+690	C:\IG\IG\PRE\FV.FRM	Command1_Click	4	0	0	0.00%	0	0.00%	Option1(I) = False	
+691	C:\IG\IG\PRE\FV.FRM	Command1_Click	5	0	0	0.00%	0	0.00%	For I = 0 To 2	
+692	C:\IG\IG\PRE\FV.FRM	Command1_Click	6	0	0	0.00%	0	0.00%	Option2(I) = False	
+693	C:\IG\IG\PRE\FV.FRM	Command1_Click	7	0	0	0.00%	0	0.00%	Frame4.Visible = False	
+694	C:\IG\IG\PRE\FV.FRM	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+695	C:\IG\IG\PRE\FV.FRM	Command2_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+696	C:\IG\IG\PRE\FV.FRM	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+697	C:\IG\IG\PRE\FV.FRM	Form_Activate	2	0	0	0.00%	0	0.00%	CEscala	
+698	C:\IG\IG\PRE\FV.FRM	Form_Activate	3	0	0	0.00%	0	0.00%	Picture1.AutoRedraw = True	
+699	C:\IG\IG\PRE\FV.FRM	Form_Activate	4	0	0	0.00%	0	0.00%	DiMalla	
+700	C:\IG\IG\PRE\FV.FRM	Form_Activate	5	0	0	0.00%	0	0.00%	For I = 0 To 3	
+701	C:\IG\IG\PRE\FV.FRM	CEscala	3	0	0	0.00%	0	0.00%	Picture1.ScaleHeight = -2 * Mediaescala	
+702	C:\IG\IG\PRE\FV.FRM	Form_Activate	7	0	0	0.00%	0	0.00%	Case 0	
+703	C:\IG\IG\PRE\FV.FRM	Form_Load	6	0	0	0.00%	0	0.00%	Vxi(3, I) = 0	
+704	C:\IG\IG\PRE\FV.FRM	Form_Activate	9	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+705	C:\IG\IG\PRE\FV.FRM	Form_Activate	10	0	0	0.00%	0	0.00%	Case Else	
+706	C:\IG\IG\PRE\FV.FRM	Form_Activate	11	0	0	0.00%	0	0.00%	Option1(Simetria - 1).Enabled = False	
+707	C:\IG\IG\PRE\FV.FRM	Form_Activate	12	0	0	0.00%	0	0.00%	Option1(Simetria - 1) = False	
+708	C:\IG\IG\PRE\FV.FRM	Form_Activate	13	0	0	0.00%	0	0.00%	Combo1 = ""	
+709	C:\IG\IG\PRE\FV.FRM	Form_Activate	14	0	0	0.00%	0	0.00%	Text1(0) = ""	
+710	C:\IG\IG\PRE\FV.FRM	Form_Activate	15	0	0	0.00%	0	0.00%	Text1(1) = ""	
+711	C:\IG\IG\PRE\FV.FRM	Form_Activate	16	0	0	0.00%	0	0.00%	Text2(0) = ""	
+712	C:\IG\IG\PRE\FV.FRM	Form_Activate	17	0	0	0.00%	0	0.00%	Text2(1) = ""	
+713	C:\IG\IG\PRE\FV.FRM	Form_Activate	18	0	0	0.00%	0	0.00%	For I = 0 To 3	
+714	C:\IG\IG\PRE\FV.FRM	Form_Activate	19	0	0	0.00%	0	0.00%	Option1(I) = False	
+715	C:\IG\IG\PRE\FV.FRM	Form_Activate	20	0	0	0.00%	0	0.00%	For I = 0 To 2	
+716	C:\IG\IG\PRE\FV.FRM	Form_Activate	21	0	0	0.00%	0	0.00%	Option2(I) = False	
+717	C:\IG\IG\PRE\FV.FRM	Form_Activate	6	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+718	C:\IG\IG\PRE\FE.frm	Text2_Change	4	0	0	0.00%	0	0.00%	Txi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+719	C:\IG\IG\PRE\FE.frm	Option2_Click	95	0	0	0.00%	0	0.00%	Tyi(1, Combo1.ListIndex + 1) = Index	
+720	C:\IG\IG\PRE\FE.frm	Option2_Click	96	0	0	0.00%	0	0.00%	Case Option1(2)	
+721	C:\IG\IG\PRE\FE.frm	Option2_Click	97	0	0	0.00%	0	0.00%	For I = 0 To 1	
+722	C:\IG\IG\PRE\FE.frm	Option2_Click	98	0	0	0.00%	0	0.00%	Text2(I) = Txs(I + 2, Combo1.ListIndex + 1)	
+723	C:\IG\IG\PRE\FE.frm	Option2_Click	99	0	0	0.00%	0	0.00%	Txs(1, Combo1.ListIndex + 1) = Index	
+724	C:\IG\IG\PRE\FE.frm	Option2_Click	100	0	0	0.00%	0	0.00%	Case Option1(3)	
+725	C:\IG\IG\PRE\FE.frm	Option2_Click	101	0	0	0.00%	0	0.00%	For I = 0 To 1	
+726	C:\IG\IG\PRE\FE.frm	Option2_Click	102	0	0	0.00%	0	0.00%	Text2(I) = Tyd(I + 2, Combo1.ListIndex + 1)	
+727	C:\IG\IG\PRE\FE.frm	Option2_Click	103	0	0	0.00%	0	0.00%	Tyd(1, Combo1.ListIndex + 1) = Index	
+728	C:\IG\IG\PRE\FE.frm	Picture1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+729	C:\IG\IG\PRE\FE.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+730	C:\IG\IG\PRE\FE.frm	Text2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+731	C:\IG\IG\PRE\Dominio.frm	Combo1_Click	4	0	0	0.00%	0	0.00%	Label4.Visible = False	
+732	C:\IG\IG\PRE\FE.frm	Text2_Change	3	0	0	0.00%	0	0.00%	If Index = 0 Then	
+733	C:\IG\IG\PRE\FE.frm	Option2_Click	92	0	0	0.00%	0	0.00%	Case Option1(1)	
+734	C:\IG\IG\PRE\FE.frm	Text2_Change	5	0	0	0.00%	0	0.00%	Txi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+735	C:\IG\IG\PRE\FE.frm	Text2_Change	6	0	0	0.00%	0	0.00%	Case Option1(1)	
+736	C:\IG\IG\PRE\FE.frm	Text2_Change	7	0	0	0.00%	0	0.00%	If Index = 0 Then	
+737	C:\IG\IG\PRE\FE.frm	Text2_Change	8	0	0	0.00%	0	0.00%	Tyi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+738	C:\IG\IG\PRE\FE.frm	Text2_Change	9	0	0	0.00%	0	0.00%	Tyi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+739	C:\IG\IG\PRE\FE.frm	Text2_Change	10	0	0	0.00%	0	0.00%	Case Option1(2)	
+740	C:\IG\IG\PRE\FE.frm	Text2_Change	11	0	0	0.00%	0	0.00%	If Index = 0 Then	
+741	C:\IG\IG\PRE\FE.frm	Text2_Change	12	0	0	0.00%	0	0.00%	Txs(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+742	C:\IG\IG\PRE\FE.frm	Text2_Change	13	0	0	0.00%	0	0.00%	Txs(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+743	C:\IG\IG\PRE\FE.frm	Text2_Change	14	0	0	0.00%	0	0.00%	Case Option1(3)	
+744	C:\IG\IG\PRE\FE.frm	Text2_Change	15	0	0	0.00%	0	0.00%	If Index = 0 Then	
+745	C:\IG\IG\PRE\FE.frm	Text2_Change	16	0	0	0.00%	0	0.00%	Tyd(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+746	C:\IG\IG\PRE\FE.frm	Text2_Change	2	0	0	0.00%	0	0.00%	Case Option1(0)	
+747	C:\IG\IG\PRE\FE.frm	Option2_Click	79	0	0	0.00%	0	0.00%	Text2(I) = Tyd(I + 2, Combo1.ListIndex + 1)	
+748	C:\IG\IG\PRE\FE.frm	Option2_Click	65	0	0	0.00%	0	0.00%	Case Option1(0)	
+749	C:\IG\IG\PRE\FE.frm	Option2_Click	66	0	0	0.00%	0	0.00%	For I = 0 To 1	
+750	C:\IG\IG\PRE\FE.frm	Option2_Click	67	0	0	0.00%	0	0.00%	Text2(I) = Txi(I + 2, Combo1.ListIndex + 1)	
+751	C:\IG\IG\PRE\FE.frm	Option2_Click	68	0	0	0.00%	0	0.00%	Txi(1, Combo1.ListIndex + 1) = Index	
+752	C:\IG\IG\PRE\FE.frm	Option2_Click	69	0	0	0.00%	0	0.00%	Case Option1(1)	
+753	C:\IG\IG\PRE\FE.frm	Option2_Click	70	0	0	0.00%	0	0.00%	For I = 0 To 1	
+754	C:\IG\IG\PRE\FE.frm	Option2_Click	71	0	0	0.00%	0	0.00%	Text2(I) = Tyi(I + 2, Combo1.ListIndex + 1)	
+755	C:\IG\IG\PRE\FE.frm	Option2_Click	72	0	0	0.00%	0	0.00%	Tyi(1, Combo1.ListIndex + 1) = Index	
+756	C:\IG\IG\PRE\FE.frm	Option2_Click	73	0	0	0.00%	0	0.00%	Case Option1(2)	
+757	C:\IG\IG\PRE\FE.frm	Option2_Click	74	0	0	0.00%	0	0.00%	For I = 0 To 1	
+758	C:\IG\IG\PRE\FE.frm	Option2_Click	75	0	0	0.00%	0	0.00%	Text2(I) = Txs(I + 2, Combo1.ListIndex + 1)	
+759	C:\IG\IG\PRE\FE.frm	Option2_Click	76	0	0	0.00%	0	0.00%	Txs(1, Combo1.ListIndex + 1) = Index	
+760	C:\IG\IG\PRE\FE.frm	Option2_Click	94	0	0	0.00%	0	0.00%	Text2(I) = Tyi(I + 2, Combo1.ListIndex + 1)	
+761	C:\IG\IG\PRE\FE.frm	Option2_Click	78	0	0	0.00%	0	0.00%	For I = 0 To 1	
+762	C:\IG\IG\PRE\FE.frm	Option2_Click	93	0	0	0.00%	0	0.00%	For I = 0 To 1	
+763	C:\IG\IG\PRE\FE.frm	Option2_Click	80	0	0	0.00%	0	0.00%	Tyd(1, Combo1.ListIndex + 1) = Index	
+764	C:\IG\IG\PRE\FE.frm	Option2_Click	81	0	0	0.00%	0	0.00%	Case 4	
+765	C:\IG\IG\PRE\FE.frm	Option2_Click	82	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+766	C:\IG\IG\PRE\FE.frm	Option2_Click	83	0	0	0.00%	0	0.00%	For I = 0 To 1	
+767	C:\IG\IG\PRE\FE.frm	Option2_Click	84	0	0	0.00%	0	0.00%	Text2(I).Visible = True	
+768	C:\IG\IG\PRE\FE.frm	Option2_Click	85	0	0	0.00%	0	0.00%	Label3(0) = "Ti"	
+769	C:\IG\IG\PRE\FE.frm	Option2_Click	86	0	0	0.00%	0	0.00%	Label3(1) = "Ts"	
+770	C:\IG\IG\PRE\FE.frm	Option2_Click	87	0	0	0.00%	0	0.00%	Label3(1).Visible = True	
+771	C:\IG\IG\PRE\FE.frm	Option2_Click	88	0	0	0.00%	0	0.00%	Case Option1(0)	
+772	C:\IG\IG\PRE\FE.frm	Option2_Click	89	0	0	0.00%	0	0.00%	For I = 0 To 1	
+773	C:\IG\IG\PRE\FE.frm	Option2_Click	90	0	0	0.00%	0	0.00%	Text2(I) = Txi(I + 2, Combo1.ListIndex + 1)	
+774	C:\IG\IG\PRE\FE.frm	Option2_Click	91	0	0	0.00%	0	0.00%	Txi(1, Combo1.ListIndex + 1) = Index	
+775	C:\IG\IG\PRE\FMalla.frm	CEscala	2	0	0	0.00%	0	0.00%	Mediaescala = (EscalaXY * 1.1) / 2	
+776	C:\IG\IG\PRE\FE.frm	Option2_Click	77	0	0	0.00%	0	0.00%	Case Option1(3)	
+777	C:\IG\IG\PRE\FPR.frm	Form_Activate	19	0	0	0.00%	0	0.00%	Text3(3).Visible = (FV.Check1 = vbChecked)	
+778	C:\IG\IG\PRE\FE.frm	Text2_Change	17	0	0	0.00%	0	0.00%	Tyd(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+779	C:\IG\IG\PRE\FPR.frm	Form_Activate	6	0	0	0.00%	0	0.00%	Label3(1).Visible = (FE.Check1 = vbChecked)	
+780	C:\IG\IG\PRE\FPR.frm	Form_Activate	7	0	0	0.00%	0	0.00%	Text3(1).Visible = (FE.Check1 = vbChecked)	
+781	C:\IG\IG\PRE\FPR.frm	Form_Activate	8	0	0	0.00%	0	0.00%	Label1(1).Visible = (FU.Check1 = vbChecked)	
+782	C:\IG\IG\PRE\FPR.frm	Form_Activate	9	0	0	0.00%	0	0.00%	Text1(1).Visible = (FU.Check1 = vbChecked)	
+783	C:\IG\IG\PRE\FPR.frm	Form_Activate	10	0	0	0.00%	0	0.00%	Label2(1).Visible = (FU.Check1 = vbChecked)	
+784	C:\IG\IG\PRE\FPR.frm	Form_Activate	11	0	0	0.00%	0	0.00%	Text2(1).Visible = (FU.Check1 = vbChecked)	
+785	C:\IG\IG\PRE\FPR.frm	Form_Activate	12	0	0	0.00%	0	0.00%	Label3(2).Visible = (FU.Check1 = vbChecked)	
+786	C:\IG\IG\PRE\FPR.frm	Form_Activate	13	0	0	0.00%	0	0.00%	Text3(2).Visible = (FU.Check1 = vbChecked)	
+787	C:\IG\IG\PRE\FPR.frm	Form_Activate	14	0	0	0.00%	0	0.00%	Label1(2).Visible = (FV.Check1 = vbChecked)	
+788	C:\IG\IG\PRE\FPR.frm	Form_Activate	15	0	0	0.00%	0	0.00%	Text1(2).Visible = (FV.Check1 = vbChecked)	
+789	C:\IG\IG\PRE\FPR.frm	Form_Activate	16	0	0	0.00%	0	0.00%	Label2(2).Visible = (FV.Check1 = vbChecked)	
+790	C:\IG\IG\PRE\FMalla.frm	Command1_Click	25	0	0	0.00%	0	0.00%	Call Cadicio	
+791	C:\IG\IG\PRE\FPR.frm	Form_Activate	18	0	0	0.00%	0	0.00%	Label3(3).Visible = (FV.Check1 = vbChecked)	
+792	C:\IG\IG\PRE\FMalla.frm	Command1_Click	24	0	0	0.00%	0	0.00%	Call Expone(False, I, PowY(I), Tmy(I))	
+793	C:\IG\IG\PRE\FPR.frm	Form_Activate	20	0	0	0.00%	0	0.00%	Label2(3).Visible = (FU.Check1 = vbChecked) Or (FV.Check1 = vbChecked)	
+794	C:\IG\IG\PRE\FPR.frm	Form_Activate	21	0	0	0.00%	0	0.00%	Text2(3).Visible = (FU.Check1 = vbChecked) Or (FV.Check1 = vbChecked)	
+795	C:\IG\IG\PRE\FPR.frm	Form_Activate	22	0	0	0.00%	0	0.00%	Label3(4).Visible = (FU.Check1 = vbChecked) Or (FV.Check1 = vbChecked)	
+796	C:\IG\IG\PRE\FPR.frm	Form_Activate	23	0	0	0.00%	0	0.00%	Text3(4).Visible = (FU.Check1 = vbChecked) Or (FV.Check1 = vbChecked)	
+797	C:\IG\IG\PRE\FPR.frm	Form_Load	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+798	C:\IG\IG\PRE\FPR.frm	Form_Load	2	0	0	0.00%	0	0.00%	NTime(0) = 2	
+799	C:\IG\IG\PRE\FPR.frm	Form_Load	3	0	0	0.00%	0	0.00%	NTime(1) = 1	
+800	C:\IG\IG\PRE\FPR.frm	Form_Load	4	0	0	0.00%	0	0.00%	NTime(2) = 1	
+801	C:\IG\IG\PRE\FPR.frm	Form_Load	5	0	0	0.00%	0	0.00%	NTime(3) = 1	
+802	C:\IG\IG\PRE\FPR.frm	Form_Load	6	0	0	0.00%	0	0.00%	NTime(4) = 1	
+803	C:\IG\IG\PRE\FPR.frm	Form_Load	7	0	0	0.00%	0	0.00%	VI(0) = 0	
+804	C:\IG\IG\PRE\FPR.frm	Form_Load	8	0	0	0.00%	0	0.00%	VI(1) = 0	
+805	C:\IG\IG\PRE\FPR.frm	Form_Load	9	0	0	0.00%	0	0.00%	VI(2) = 0	
+806	C:\IG\IG\PRE\FPR.frm	Form_Activate	17	0	0	0.00%	0	0.00%	Text2(2).Visible = (FV.Check1 = vbChecked)	
+807	C:\IG\IG\PRE\FMalla.frm	Command1_Click	10	0	0	0.00%	0	0.00%	For K = 1 To Ndy	
+808	C:\IG\IG\PRE\FE.frm	Option2_Click	62	0	0	0.00%	0	0.00%	Label3(0) = "T inf"	
+809	C:\IG\IG\PRE\FMalla.frm	CEscala	3	0	0	0.00%	0	0.00%	.ScaleHeight = -2 * Mediaescala	
+810	C:\IG\IG\PRE\FMalla.frm	CEscala	4	0	0	0.00%	0	0.00%	.ScaleWidth = 2 * Mediaescala	
+811	C:\IG\IG\PRE\FMalla.frm	CEscala	5	0	0	0.00%	0	0.00%	.ScaleLeft = -Mediaescala + Xl / 2	
+812	C:\IG\IG\PRE\FMalla.frm	CEscala	6	0	0	0.00%	0	0.00%	.ScaleTop = Yl / 2 + Mediaescala	
+813	C:\IG\IG\PRE\FMalla.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+814	C:\IG\IG\PRE\FMalla.frm	Command1_Click	2	0	0	0.00%	0	0.00%	M3 = 0	
+815	C:\IG\IG\PRE\FMalla.frm	Command1_Click	3	0	0	0.00%	0	0.00%	L3 = 0	
+816	C:\IG\IG\PRE\FMalla.frm	Command1_Click	4	0	0	0.00%	0	0.00%	LL(1) = L(1)	
+817	C:\IG\IG\PRE\FMalla.frm	Command1_Click	5	0	0	0.00%	0	0.00%	MM(1) = M(1)	
+818	C:\IG\IG\PRE\FMalla.frm	Command1_Click	6	0	0	0.00%	0	0.00%	LL(0) = 2	
+819	C:\IG\IG\PRE\FMalla.frm	Command1_Click	7	0	0	0.00%	0	0.00%	MM(0) = 2	
+820	C:\IG\IG\PRE\FPR.frm	Form_Activate	5	0	0	0.00%	0	0.00%	Text2(0).Visible = (FE.Check1 = vbChecked)	
+821	C:\IG\IG\PRE\FMalla.frm	Command1_Click	9	0	0	0.00%	0	0.00%	L3 = L3 + L(K)	
+822	C:\IG\IG\PRE\FMalla.frm	CEscala	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+823	C:\IG\IG\PRE\FMalla.frm	Command1_Click	11	0	0	0.00%	0	0.00%	M3 = M3 + M(K)	
+824	C:\IG\IG\PRE\FMalla.frm	Command1_Click	12	0	0	0.00%	0	0.00%	For K = 1 To Ndx	
+825	C:\IG\IG\PRE\FMalla.frm	Command1_Click	13	0	0	0.00%	0	0.00%	LL(K) = LL(K - 1) + L(K)	
+826	C:\IG\IG\PRE\FMalla.frm	Command1_Click	14	0	0	0.00%	0	0.00%	For K = 1 To Ndy	
+827	C:\IG\IG\PRE\FMalla.frm	Command1_Click	15	0	0	0.00%	0	0.00%	MM(K) = MM(K - 1) + M(K)	
+828	C:\IG\IG\PRE\FMalla.frm	Command1_Click	16	0	0	0.00%	0	0.00%	L2 = L3 + 1	
+829	C:\IG\IG\PRE\FMalla.frm	Command1_Click	17	0	0	0.00%	0	0.00%	M2 = M3 + 1	
+830	C:\IG\IG\PRE\FMalla.frm	Command1_Click	18	0	0	0.00%	0	0.00%	L1 = L2 + 1	
+831	C:\IG\IG\PRE\FMalla.frm	Command1_Click	19	0	0	0.00%	0	0.00%	M1 = M2 + 1	
+832	C:\IG\IG\PRE\FMalla.frm	Command1_Click	20	0	0	0.00%	0	0.00%	ReDim Preserve XU(L1), YV(M1), X(L1), Y(M1), XDif(L1), YDif(M1), XCV(L1), YCV(M1)	
+833	C:\IG\IG\PRE\FMalla.frm	Command1_Click	21	0	0	0.00%	0	0.00%	For I = 1 To Ndx	
+834	C:\IG\IG\PRE\FMalla.frm	Command1_Click	22	0	0	0.00%	0	0.00%	Call Expone(True, I, PowX(I), Tmx(I))	
+835	C:\IG\IG\PRE\FMalla.frm	Command1_Click	23	0	0	0.00%	0	0.00%	For I = 1 To Ndy	
+836	C:\IG\IG\PRE\FMalla.frm	Command1_Click	8	0	0	0.00%	0	0.00%	For K = 1 To Ndx	
+837	C:\IG\IG\PRE\FCF.frm	Check2_Click	10	0	0	0.00%	0	0.00%	Text1(Index) = Ndx	
+838	C:\IG\IG\PRE\FCF.frm	Command1_Click	8	0	0	0.00%	0	0.00%	Command4.Enabled = True	
+839	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	9	0	0	0.00%	0	0.00%	If II >= VScroll1 Then	
+840	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	10	0	0	0.00%	0	0.00%	For Ji = 0 To 6	
+841	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	11	0	0	0.00%	0	0.00%	S(Ji, II) = S(Ji, II + 1)	
+842	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	12	0	0	0.00%	0	0.00%	Ns = Ns - 1	
+843	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	13	0	0	0.00%	0	0.00%	ReDim Preserve S(6, Ns)	
+844	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	14	0	0	0.00%	0	0.00%	DiDominio	
+845	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	15	0	0	0.00%	0	0.00%	DiSolido	
+846	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	16	0	0	0.00%	0	0.00%	VScroll1.Max = Ns	
+847	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	17	0	0	0.00%	0	0.00%	VScroll1.Min = 0	
+848	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	18	0	0	0.00%	0	0.00%	VScroll1.Value = 0	
+849	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+850	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	7	0	0	0.00%	0	0.00%	If re = vbYes Then	
+851	C:\IG\IG\PRE\FCF.frm	Check2_Click	9	0	0	0.00%	0	0.00%	Text1(Index).Enabled = Not (vbChecked = Check2(Index))	
+852	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	6	0	0	0.00%	0	0.00%	re = MsgBox(Mensa$, vbYesNo + vbApplicationModal + vbQuestion, "Comfirmación")	
+853	C:\IG\IG\PRE\FCF.frm	Check2_Click	11	0	0	0.00%	0	0.00%	Case 3	
+854	C:\IG\IG\PRE\FCF.frm	Check2_Click	12	0	0	0.00%	0	0.00%	Text1(Index).Enabled = Not (vbChecked = Check2(Index))	
+855	C:\IG\IG\PRE\FCF.frm	Check2_Click	13	0	0	0.00%	0	0.00%	Text1(Index) = Ndy	
+856	C:\IG\IG\PRE\FCF.frm	Check2_Click	14	0	0	0.00%	0	0.00%	Command2.Enabled = False	
+857	C:\IG\IG\PRE\FCF.frm	Check2_Click	15	0	0	0.00%	0	0.00%	Command3.Enabled = False	
+858	C:\IG\IG\PRE\FCF.frm	Check2_Click	16	0	0	0.00%	0	0.00%	Command4.Enabled = False	
+859	C:\IG\IG\PRE\FCF.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+860	C:\IG\IG\PRE\FCF.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Call ObtenerE	
+861	C:\IG\IG\PRE\FCF.frm	Command1_Click	3	0	0	0.00%	0	0.00%	For I = 0 To 3	
+862	C:\IG\IG\PRE\FCF.frm	Command1_Click	4	0	0	0.00%	0	0.00%	If Not (Check2(I).Value = vbChecked) And Val(Text1(I)) > 1 Then	
+863	C:\IG\IG\PRE\FCF.frm	Command1_Click	5	0	0	0.00%	0	0.00%	Exit For	
+864	C:\IG\IG\PRE\FCF.frm	Command1_Click	6	0	0	0.00%	0	0.00%	Command2.Enabled = True	
+865	C:\IG\IG\PRE\FE.frm	Option2_Click	64	0	0	0.00%	0	0.00%	Label3(1).Visible = True	
+866	C:\IG\IG\PRE\FBorrar.frm	Form_Activate	2	0	0	0.00%	0	0.00%	Command1.Caption = "Seguir"	
+867	C:\IG\IG\PRE\Funcio.bas	DP	5	0	0	0.00%	0	0.00%	As Single, Ex2 As Single, XX As Single) As Single	
+868	C:\IG\IG\PRE\Dominio.frm	Command1_Click	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+869	C:\IG\IG\PRE\Dominio.frm	Command1_Click	3	0	0	0.00%	1	2.44%	Yl = Val(Text2)	
+870	C:\IG\IG\PRE\Dominio.frm	Command1_Click	4	0	0	0.00%	1	2.44%	Mode = 1	
+871	C:\IG\IG\PRE\Dominio.frm	Command1_Click	6	0	0	0.00%	0	0.00%	Mode = 2	
+872	C:\IG\IG\PRE\Dominio.frm	Command1_Click	7	0	0	0.00%	0	0.00%	R1 = Val(Text3)	
+873	C:\IG\IG\PRE\Dominio.frm	Command1_Click	8	0	0	0.00%	1	2.44%	If Xl <= 0 Or Yl <= 0 Then	
+874	C:\IG\IG\PRE\Dominio.frm	Command1_Click	9	0	0	0.00%	0	0.00%	Mensa$ = "Xl o Yl no puede ser igual o menor que 0"	
+875	C:\IG\IG\PRE\Dominio.frm	Command1_Click	10	0	0	0.00%	0	0.00%	re = MsgBox(Mensa$, vbOKOnly + vbApplicationModal + vbInformation, "Error")	
+876	C:\IG\IG\PRE\Dominio.frm	Command1_Click	11	0	0	0.00%	1	2.44%	EscalaXY = Xl / Yl	
+877	C:\IG\IG\PRE\Funcio.bas	DL	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+878	C:\IG\IG\PRE\Funcio.bas	DL	2	0	0	0.00%	0	0.00%	M = (Vs - VI) / (Ex2 - Ex1)	
+879	C:\IG\IG\PRE\Funcio.bas	DL	3	0	0	0.00%	0	0.00%	N = VI - Ex1 * M	
+880	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	8	0	0	0.00%	0	0.00%	For II = 1 To Ns - 1	
+881	C:\IG\IG\PRE\Funcio.bas	DP	4	0	0	0.00%	0	0.00%	>>Entry Point<<	
+882	C:\IG\IG\PRE\FCF.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+883	C:\IG\IG\PRE\Funcio.bas	DP	6	0	0	0.00%	0	0.00%	AA = 4 * (VExt - VCent) / ((Ex2 - Ex1) * (Ex2 - Ex1))	
+884	C:\IG\IG\PRE\Funcio.bas	DP	7	0	0	0.00%	0	0.00%	BB = (VExt - VCent) * 2 / (Ex2 - Ex1)  - (3 * Ex2 + Ex1) / 2 * AA	
+885	C:\IG\IG\PRE\Funcio.bas	DP	8	0	0	0.00%	0	0.00%	GG = VCent - (((Ex1 + Ex2)) * ((Ex1 + Ex2)) * AA / 4  + ((Ex2 + Ex1) / 2 * BB))	
+886	C:\IG\IG\PRE\Funcio.bas	Maximo	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+887	C:\IG\IG\PRE\Funcio.bas	Maximo	2	0	0	0.00%	0	0.00%	If A > B Then Maximo = A Else Maximo = B	
+888	C:\IG\IG\PRE\FBorrar.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+889	C:\IG\IG\PRE\FBorrar.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+890	C:\IG\IG\PRE\FBorrar.frm	Command1_Click	3	0	0	0.00%	0	0.00%	Bl = False	
+891	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+892	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	2	0	0	0.00%	0	0.00%	If VScroll1 = 0 Then	
+893	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	3	0	0	0.00%	0	0.00%	Mensa$ = "No hay  Solido seleccionado!!"	
+894	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	4	0	0	0.00%	0	0.00%	re = MsgBox(Mensa$, vbOKOnly + vbApplicationModal + vbCritical, "Advertencia")	
+895	C:\IG\IG\PRE\FBorrar.frm	Command2_Click	5	0	0	0.00%	0	0.00%	Mensa$ = "Estas seguro de Borrar el Solido Nº " & VScroll1 & " ?"	
+896	C:\IG\IG\PRE\Funcio.bas	DL	4	0	0	0.00%	0	0.00%	DL = M * XX + N	
+897	C:\IG\IG\PRE\FE.frm	LlenarC	4	0	0	0.00%	0	0.00%	If Option1(J) Then	
+898	C:\IG\IG\PRE\FCF.frm	Command1_Click	7	0	0	0.00%	0	0.00%	Command3.Enabled = True	
+899	C:\IG\IG\PRE\FCF.frm	Text1_Change	3	0	0	0.00%	0	0.00%	Ndxi = Val(Text1(Index))	
+900	C:\IG\IG\PRE\FCF.frm	Text1_Change	4	0	0	0.00%	0	0.00%	Case 1	
+901	C:\IG\IG\PRE\FCF.frm	Text1_Change	5	0	0	0.00%	0	0.00%	Ndyi = Val(Text1(Index))	
+902	C:\IG\IG\PRE\FCF.frm	Text1_Change	6	0	0	0.00%	0	0.00%	Case 2	
+903	C:\IG\IG\PRE\FCF.frm	Text1_Change	7	0	0	0.00%	0	0.00%	Ndxs = Val(Text1(Index))	
+904	C:\IG\IG\PRE\FCF.frm	Text1_Change	8	0	0	0.00%	0	0.00%	Case 3	
+905	C:\IG\IG\PRE\FCF.frm	Text1_Change	9	0	0	0.00%	0	0.00%	Ndyd = Val(Text1(Index))	
+906	C:\IG\IG\PRE\FCF.frm	Text1_Change	10	0	0	0.00%	0	0.00%	Command2.Enabled = False	
+907	C:\IG\IG\PRE\FCF.frm	Text1_Change	11	0	0	0.00%	0	0.00%	Command3.Enabled = False	
+908	C:\IG\IG\PRE\FCF.frm	Text1_Change	12	0	0	0.00%	0	0.00%	Command4.Enabled = False	
+909	C:\IG\IG\PRE\FE.frm	LlenarC	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+910	C:\IG\IG\PRE\FCF.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+911	C:\IG\IG\PRE\FE.frm	LlenarC	3	0	0	0.00%	0	0.00%	For J = 0 To 3	
+912	C:\IG\IG\PRE\FCF.frm	Option1_Click	14	0	0	0.00%	0	0.00%	Simetria = 0	
+913	C:\IG\IG\PRE\FE.frm	LlenarC	5	0	0	0.00%	0	0.00%	Case 0	
+914	C:\IG\IG\PRE\FE.frm	LlenarC	6	0	0	0.00%	0	0.00%	For I = 1 To Ndxi	
+915	C:\IG\IG\PRE\FE.frm	LlenarC	7	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+916	C:\IG\IG\PRE\FE.frm	LlenarC	8	0	0	0.00%	0	0.00%	Case 1	
+917	C:\IG\IG\PRE\FE.frm	LlenarC	9	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+918	C:\IG\IG\PRE\FE.frm	LlenarC	10	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+919	C:\IG\IG\PRE\FE.frm	LlenarC	11	0	0	0.00%	0	0.00%	Case 2	
+920	C:\IG\IG\PRE\FE.frm	LlenarC	12	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+921	C:\IG\IG\PRE\FE.frm	LlenarC	13	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+922	C:\IG\IG\PRE\FE.frm	LlenarC	14	0	0	0.00%	0	0.00%	Case 3	
+923	C:\IG\IG\PRE\FE.frm	Option2_Click	60	0	0	0.00%	0	0.00%	For I = 0 To 1	
+924	C:\IG\IG\PRE\FE.frm	Option2_Click	61	0	0	0.00%	0	0.00%	Text2(I).Visible = True	
+925	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	51	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+926	C:\IG\IG\PRE\FE.frm	LlenarC	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+927	C:\IG\IG\PRE\FCF.frm	Label1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+928	C:\IG\IG\PRE\FCF.frm	Command2_Click	2	0	0	0.00%	0	0.00%	FE.Show (1)	
+929	C:\IG\IG\PRE\FCF.frm	Command3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+930	C:\IG\IG\PRE\FCF.frm	Command3_Click	2	0	0	0.00%	0	0.00%	FU.Show (1)	
+931	C:\IG\IG\PRE\FCF.frm	Command4_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+932	C:\IG\IG\PRE\FCF.frm	Command4_Click	2	0	0	0.00%	0	0.00%	FV.Show (1)	
+933	C:\IG\IG\PRE\FCF.frm	Command5_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+934	C:\IG\IG\PRE\FCF.frm	Command5_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+935	C:\IG\IG\PRE\FCF.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+936	C:\IG\IG\PRE\FCF.frm	Form_Activate	2	0	0	0.00%	0	0.00%	ReDim Preserve TFE(2, Ndx * Ndy) As Single	
+937	C:\IG\IG\PRE\FCF.frm	Form_Load	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+938	C:\IG\IG\PRE\FCF.frm	Form_Load	2	0	0	0.00%	0	0.00%	Ndxi = 1	
+939	C:\IG\IG\PRE\FCF.frm	Form_Load	3	0	0	0.00%	0	0.00%	Ndxs = 1	
+940	C:\IG\IG\PRE\FCF.frm	Text1_Change	2	0	0	0.00%	0	0.00%	Case 0	
+941	C:\IG\IG\PRE\FCF.frm	Form_Load	5	0	0	0.00%	0	0.00%	Ndyd = 1	
+942	C:\IG\IG\PRE\FE.frm	Option2_Click	63	0	0	0.00%	0	0.00%	Label3(1) = "h inf"	
+943	C:\IG\IG\PRE\FCF.frm	Option1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+944	C:\IG\IG\PRE\FCF.frm	Option1_Click	2	0	0	0.00%	0	0.00%	For J = 0 To 3	
+945	C:\IG\IG\PRE\FCF.frm	Option1_Click	3	0	0	0.00%	0	0.00%	Text1(J).Enabled = True	
+946	C:\IG\IG\PRE\FCF.frm	Option1_Click	4	0	0	0.00%	0	0.00%	Check2(J).Enabled = True	
+947	C:\IG\IG\PRE\FCF.frm	Option1_Click	5	0	0	0.00%	0	0.00%	Check2(Index) = 0	
+948	C:\IG\IG\PRE\FCF.frm	Option1_Click	6	0	0	0.00%	0	0.00%	Text1(Index).Enabled = Not Option1(Index)	
+949	C:\IG\IG\PRE\FCF.frm	Option1_Click	7	0	0	0.00%	0	0.00%	Check2(Index).Enabled = Not Option1(Index)	
+950	C:\IG\IG\PRE\FCF.frm	Option1_Click	8	0	0	0.00%	0	0.00%	Text1(Index) = 1	
+951	C:\IG\IG\PRE\FCF.frm	Option1_Click	9	0	0	0.00%	0	0.00%	Command2.Enabled = False	
+952	C:\IG\IG\PRE\FCF.frm	Option1_Click	10	0	0	0.00%	0	0.00%	Command3.Enabled = False	
+953	C:\IG\IG\PRE\FCF.frm	Option1_Click	11	0	0	0.00%	0	0.00%	Command4.Enabled = False	
+954	C:\IG\IG\PRE\FCF.frm	Option1_Click	12	0	0	0.00%	0	0.00%	If Option1(Index) Then	
+955	C:\IG\IG\PRE\FCF.frm	Option1_Click	13	0	0	0.00%	0	0.00%	Simetria = Index + 1	
+956	C:\IG\IG\PRE\FCF.frm	Form_Load	4	0	0	0.00%	0	0.00%	Ndyi = 1	
+957	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	12	0	0	0.00%	0	0.00%	Uxs(1, I) = 2: Uxs(2, I) = 0: Uxs(3, I) = 0	
+958	C:\IG\IG\PRE\View.frm	Form_Load	4	0	0	0.00%	1	2.44%	CEscala	
+959	C:\IG\IG\PRE\View.frm	Form_Load	5	0	0	0.00%	1	2.44%	DiDominio	
+960	C:\IG\IG\PRE\View.frm	Form_Unload	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+961	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+962	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	2	0	0	0.00%	0	0.00%	ReDim Preserve Xi(2, Ndxi), Yi(2, Ndyi),  Xs(2, Ndxs), Yd(2, Ndyd)	
+963	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	3	0	0	0.00%	0	0.00%	ReDim Preserve Txi(3, Ndxi), Txs(3, Ndxs),  Tyi(3, Ndyi), Tyd(3, Ndyd)	
+964	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	4	0	0	0.00%	0	0.00%	ReDim Preserve Vxi(3, Ndxi), Vxs(3, Ndxs),  Uyi(3, Ndyi), Uyd(3, Ndyd)	
+965	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	5	0	0	0.00%	0	0.00%	ReDim Preserve Uxi(3, Ndxi), Uxs(3, Ndxs),  Vyi(3, Ndyi), Vyd(3, Ndyd)	
+966	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	6	0	0	0.00%	0	0.00%	Txi(1, I) = 0: Txi(2, I) = 0: Txi(3, I) = 0	
+967	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	7	0	0	0.00%	0	0.00%	Vxi(1, I) = 2: Vxi(2, I) = 0: Vxi(3, I) = 0	
+968	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	8	0	0	0.00%	0	0.00%	Uxi(1, I) = 2: Uxi(2, I) = 0: Uxi(3, I) = 0	
+969	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	9	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+970	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	31	0	0	0.00%	0	0.00%	VScroll2.Max = M1 + (Combo1.ListIndex + 1) - Ndyd	
+971	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	11	0	0	0.00%	0	0.00%	Vxs(1, I) = 2: Vxs(2, I) = 0: Vxs(3, I) = 0	
+972	C:\IG\IG\PRE\View.frm	Form_Load	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+973	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	13	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+974	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	14	0	0	0.00%	0	0.00%	Tyi(1, I) = 0: Tyi(2, I) = 0: Tyi(3, I) = 0	
+975	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	21	0	0	0.00%	0	0.00%	tep = Xs(2, Combo1.ListIndex + 1) + 2	
+976	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	22	0	0	0.00%	0	0.00%	VScroll2.Min = Xs(1, Combo1.ListIndex + 1) + 2	
+977	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	23	0	0	0.00%	0	0.00%	VScroll2.Max = L1 + (Combo1.ListIndex + 1) - Ndxs	
+978	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	24	0	0	0.00%	0	0.00%	If tep < VScroll2.Min Then tep = VScroll2.Min	
+979	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	25	0	0	0.00%	0	0.00%	VScroll2 = tep	
+980	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	26	0	0	0.00%	0	0.00%	Label1 = "xmax.= "	
+981	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	27	0	0	0.00%	0	0.00%	Case Option1(3)	
+982	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	28	0	0	0.00%	0	0.00%	Label2 = "ymin.= " & YV(Yd(1, Combo1.ListIndex + 1) + 1)	
+983	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	29	0	0	0.00%	0	0.00%	tep = Yd(2, Combo1.ListIndex + 1) + 2	
+984	C:\IG\IG\PRE\View.frm	Command8_Click	34	0	0	0.00%	0	0.00%	For I = 1 To L1	
+985	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	10	0	0	0.00%	0	0.00%	Txs(1, I) = 0: Txs(2, I) = 0: Txs(3, I) = 0	
+986	C:\IG\IG\PRE\View.frm	Command8_Click	168	0	0	0.00%	0	0.00%	Print #1, 0	
+987	C:\IG\IG\PRE\View.frm	Command8_Click	154	0	0	0.00%	0	0.00%	Print #1, 1	
+988	C:\IG\IG\PRE\View.frm	Command8_Click	155	0	0	0.00%	0	0.00%	Print #1, 0	
+989	C:\IG\IG\PRE\View.frm	Command8_Click	156	0	0	0.00%	0	0.00%	Print #1, 0	
+990	C:\IG\IG\PRE\View.frm	Command8_Click	157	0	0	0.00%	0	0.00%	Case 1	
+991	C:\IG\IG\PRE\View.frm	Command8_Click	158	0	0	0.00%	0	0.00%	Print #1, 0	
+992	C:\IG\IG\PRE\View.frm	Command8_Click	159	0	0	0.00%	0	0.00%	Print #1, 0	
+993	C:\IG\IG\PRE\View.frm	Command8_Click	160	0	0	0.00%	0	0.00%	Print #1, 0	
+994	C:\IG\IG\PRE\View.frm	Command8_Click	161	0	0	0.00%	0	0.00%	Case 2	
+995	C:\IG\IG\PRE\View.frm	Command8_Click	162	0	0	0.00%	0	0.00%	Print #1, 1	
+996	C:\IG\IG\PRE\View.frm	Command8_Click	163	0	0	0.00%	0	0.00%	Print #1, Tyd(2, J)	
+997	C:\IG\IG\PRE\View.frm	Command8_Click	164	0	0	0.00%	0	0.00%	Print #1, 0	
+998	C:\IG\IG\PRE\View.frm	Command8_Click	165	0	0	0.00%	0	0.00%	Case 4	
+999	C:\IG\IG\PRE\View.frm	Form_Load	3	0	0	0.00%	4	9.76%	Pro(kk) = 0.1	
+1000	C:\IG\IG\PRE\View.frm	Command8_Click	167	0	0	0.00%	0	0.00%	Print #1, 0	
+1001	C:\IG\IG\PRE\View.frm	Form_Load	2	0	0	0.00%	4	9.76%	For kk = 0 To 3	
+1002	C:\IG\IG\PRE\View.frm	Command8_Click	169	0	0	0.00%	0	0.00%	Case 3	
+1003	C:\IG\IG\PRE\View.frm	Command8_Click	170	0	0	0.00%	0	0.00%	Print #1, 4	
+1004	C:\IG\IG\PRE\View.frm	Command8_Click	171	0	0	0.00%	0	0.00%	Print #1, Tyd(2, J)	
+1005	C:\IG\IG\PRE\View.frm	Command8_Click	172	0	0	0.00%	0	0.00%	Print #1, Tyd(3, J)	
+1006	C:\IG\IG\PRE\View.frm	Command8_Click	173	0	0	0.00%	0	0.00%	If Uyd(1, J) = 0 Then Print #1, 1 Else Print #1, 0	
+1007	C:\IG\IG\PRE\View.frm	Command8_Click	174	0	0	0.00%	0	0.00%	Close #1	
+1008	C:\IG\IG\PRE\View.frm	Command8_Click	175	0	0	0.00%	0	0.00%	id = Shell("Igs.exe", vbNormalFocus)	
+1009	C:\IG\IG\PRE\View.frm	Command9_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1010	C:\IG\IG\PRE\View.frm	Command9_Click	2	0	0	0.00%	0	0.00%	q = Shell("pre", vbNormalFocus)	
+1011	C:\IG\IG\PRE\View.frm	Form_Activate	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+1012	C:\IG\IG\PRE\View.frm	Form_Activate	4	0	0	0.00%	1	2.44%	If Mode = 2 Then Label1 = Label1 & "    R(1) = " & R1 & "    " & Chr$(13)	
+1013	C:\IG\IG\PRE\View.frm	Form_Activate	6	0	0	0.00%	1	2.44%	Label1 = Label1 & "    M1 = " & M1 & "    "	
+1014	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	32	0	0	0.00%	0	0.00%	If tep < VScroll2.Min Then tep = VScroll2.Min	
+1015	C:\IG\IG\PRE\View.frm	Command8_Click	166	0	0	0.00%	0	0.00%	Print #1, 0	
+1016	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	15	0	0	0.00%	0	0.00%	Text2 = XU(VScroll2)	
+1017	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1018	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	2	0	0	0.00%	0	0.00%	caca = True	
+1019	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	3	0	0	0.00%	0	0.00%	Case Option1(0)	
+1020	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	4	0	0	0.00%	0	0.00%	Label2 = "xmin.= " & XU(Xi(1, Combo1.ListIndex + 1) + 1)	
+1021	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	5	0	0	0.00%	0	0.00%	Text2 = XU(VScroll2)	
+1022	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	6	0	0	0.00%	0	0.00%	Xi(2, Combo1.ListIndex + 1) = VScroll2 - 2	
+1023	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	7	0	0	0.00%	0	0.00%	Xi(1, Combo1.ListIndex + 2) = VScroll2 - 1	
+1024	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+1025	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	9	0	0	0.00%	0	0.00%	Label2 = "ymin.= " & YV(Yi(1, Combo1.ListIndex + 1) + 1)	
+1026	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	10	0	0	0.00%	0	0.00%	Text2 = YV(VScroll2)	
+1027	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	11	0	0	0.00%	0	0.00%	Yi(2, Combo1.ListIndex + 1) = VScroll2 - 2	
+1028	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	12	0	0	0.00%	0	0.00%	Yi(1, Combo1.ListIndex + 2) = VScroll2 - 1	
+1029	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	30	0	0	0.00%	0	0.00%	VScroll2.Min = Yd(1, Combo1.ListIndex + 1) + 2	
+1030	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	14	0	0	0.00%	0	0.00%	Label2 = "xmin.= " & XU(Xs(1, Combo1.ListIndex + 1) + 1)	
+1031	C:\IG\IG\PRE\FRegion.frm	Option1_Click	18	0	0	0.00%	0	0.00%	For I = 1 To Ndyd - 1	
+1032	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	16	0	0	0.00%	0	0.00%	Xs(2, Combo1.ListIndex + 1) = VScroll2 - 2	
+1033	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	17	0	0	0.00%	0	0.00%	Xs(1, Combo1.ListIndex + 2) = VScroll2 - 1	
+1034	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	18	0	0	0.00%	0	0.00%	Case Option1(3)	
+1035	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	19	0	0	0.00%	0	0.00%	Label2 = "ymin.= " & YV(Yd(1, Combo1.ListIndex + 1) + 1)	
+1036	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	20	0	0	0.00%	0	0.00%	Label1 = "ymax.= "	
+1037	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	21	0	0	0.00%	0	0.00%	Text2 = YV(VScroll2)	
+1038	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	22	0	0	0.00%	0	0.00%	Yd(2, Combo1.ListIndex + 1) = VScroll2 - 2	
+1039	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	23	0	0	0.00%	0	0.00%	Yd(1, Combo1.ListIndex + 2) = VScroll2 - 1	
+1040	C:\IG\IG\PRE\inicial.frm	Frame1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1041	C:\IG\IG\PRE\inicial.frm	Frame1_Click	2	0	0	0.00%	0	0.00%	Unload Me	
+1042	C:\IG\IG\PRE\inicial.frm	Timer1_Timer	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+1043	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	15	0	0	0.00%	0	0.00%	Uyi(1, I) = 2: Uyi(2, I) = 0: Uyi(3, I) = 0	
+1044	C:\IG\IG\PRE\FRegion.frm	VScroll2_Change	13	0	0	0.00%	0	0.00%	Case Option1(2)	
+1045	C:\IG\IG\PRE\FRegion.frm	Option1_Click	5	0	0	0.00%	0	0.00%	Case 0	
+1046	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	33	0	0	0.00%	0	0.00%	VScroll2 = tep	
+1047	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	34	0	0	0.00%	0	0.00%	Label1 = "ymax.= "	
+1048	C:\IG\IG\PRE\FRegion.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1049	C:\IG\IG\PRE\FRegion.frm	Command2_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+1050	C:\IG\IG\PRE\FRegion.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1051	C:\IG\IG\PRE\FRegion.frm	Form_Activate	2	0	0	0.00%	0	0.00%	For kk = 3 To 0 Step -1	
+1052	C:\IG\IG\PRE\FRegion.frm	Form_Activate	3	0	0	0.00%	0	0.00%	Option1(kk).Enabled = Not (FCF.Check2(kk).Value = vbChecked) And Val(FCF.Text1(kk)) > 1	
+1053	C:\IG\IG\PRE\FRegion.frm	Form_Activate	4	0	0	0.00%	0	0.00%	Option1(kk) = Not (FCF.Check2(kk).Value = vbChecked) And Val(FCF.Text1(kk)) > 1	
+1054	C:\IG\IG\PRE\FRegion.frm	Form_QueryUnload	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1055	C:\IG\IG\PRE\FRegion.frm	Form_QueryUnload	2	0	0	0.00%	0	0.00%	Cancel = True	
+1056	C:\IG\IG\PRE\FRegion.frm	Option1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1057	C:\IG\IG\PRE\FRegion.frm	Option1_Click	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+1058	C:\IG\IG\PRE\FRegion.frm	Option1_Click	20	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+1059	C:\IG\IG\PRE\FRegion.frm	Option1_Click	4	0	0	0.00%	0	0.00%	If Option1(J) Then	
+1060	C:\IG\IG\PRE\FRegion.frm	Option1_Click	19	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1061	C:\IG\IG\PRE\FRegion.frm	Option1_Click	6	0	0	0.00%	0	0.00%	For I = 1 To Ndxi - 1	
+1062	C:\IG\IG\PRE\FRegion.frm	Option1_Click	7	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1063	C:\IG\IG\PRE\FRegion.frm	Option1_Click	8	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+1064	C:\IG\IG\PRE\FRegion.frm	Option1_Click	9	0	0	0.00%	0	0.00%	Case 1	
+1065	C:\IG\IG\PRE\FRegion.frm	Option1_Click	10	0	0	0.00%	0	0.00%	For I = 1 To Ndyi - 1	
+1066	C:\IG\IG\PRE\FRegion.frm	Option1_Click	11	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1067	C:\IG\IG\PRE\FRegion.frm	Option1_Click	12	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+1068	C:\IG\IG\PRE\FRegion.frm	Option1_Click	13	0	0	0.00%	0	0.00%	Case 2	
+1069	C:\IG\IG\PRE\FRegion.frm	Option1_Click	14	0	0	0.00%	0	0.00%	For I = 1 To Ndxs - 1	
+1070	C:\IG\IG\PRE\FRegion.frm	Option1_Click	15	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1071	C:\IG\IG\PRE\FRegion.frm	Option1_Click	16	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+1072	C:\IG\IG\PRE\FRegion.frm	Option1_Click	17	0	0	0.00%	0	0.00%	Case 3	
+1073	C:\IG\IG\PRE\View.frm	Command8_Click	151	0	0	0.00%	0	0.00%	For I = 1 To 2	
+1074	C:\IG\IG\PRE\FRegion.frm	Option1_Click	3	0	0	0.00%	0	0.00%	For J = 0 To 3	
+1075	C:\IG\IG\PRE\View.frm	Command8_Click	79	0	0	0.00%	0	0.00%	For I = 1 To 2	
+1076	C:\IG\IG\PRE\View.frm	Command8_Click	65	0	0	0.00%	0	0.00%	Close #1	
+1077	C:\IG\IG\PRE\View.frm	Command8_Click	66	0	0	0.00%	0	0.00%	Open "rho.el" For Output As #1	
+1078	C:\IG\IG\PRE\View.frm	Command8_Click	67	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1079	C:\IG\IG\PRE\View.frm	Command8_Click	68	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1080	C:\IG\IG\PRE\View.frm	Command8_Click	69	0	0	0.00%	0	0.00%	Print #1, RHO(I, J)	
+1081	C:\IG\IG\PRE\View.frm	Command8_Click	70	0	0	0.00%	0	0.00%	Close #1	
+1082	C:\IG\IG\PRE\View.frm	Command8_Click	71	0	0	0.00%	0	0.00%	Open "termi.el" For Output As #1	
+1083	C:\IG\IG\PRE\View.frm	Command8_Click	72	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1084	C:\IG\IG\PRE\View.frm	Command8_Click	73	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1085	C:\IG\IG\PRE\View.frm	Command8_Click	74	0	0	0.00%	0	0.00%	Print #1, TSc(I, J), TSp(I, J)	
+1086	C:\IG\IG\PRE\View.frm	Command8_Click	75	0	0	0.00%	0	0.00%	Close #1	
+1087	C:\IG\IG\PRE\View.frm	Command8_Click	76	0	0	0.00%	0	0.00%	Open "contor.el" For Output As #1	
+1088	C:\IG\IG\PRE\View.frm	Command8_Click	153	0	0	0.00%	0	0.00%	Case 0	
+1089	C:\IG\IG\PRE\View.frm	Command8_Click	78	0	0	0.00%	0	0.00%	For J = 1 To Ndxi	
+1090	C:\IG\IG\PRE\View.frm	Command8_Click	62	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1091	C:\IG\IG\PRE\View.frm	Command8_Click	80	0	0	0.00%	0	0.00%	Print #1, Xi(I, J)	
+1092	C:\IG\IG\PRE\View.frm	Command8_Click	81	0	0	0.00%	0	0.00%	Case 0	
+1093	C:\IG\IG\PRE\View.frm	Command8_Click	82	0	0	0.00%	0	0.00%	Print #1, 1	
+1094	C:\IG\IG\PRE\View.frm	Command8_Click	83	0	0	0.00%	0	0.00%	Print #1, 0	
+1095	C:\IG\IG\PRE\View.frm	Command8_Click	84	0	0	0.00%	0	0.00%	Print #1, 0	
+1096	C:\IG\IG\PRE\View.frm	Command8_Click	85	0	0	0.00%	0	0.00%	Case 1	
+1097	C:\IG\IG\PRE\View.frm	Command8_Click	86	0	0	0.00%	0	0.00%	Print #1, 0	
+1098	C:\IG\IG\PRE\View.frm	Command8_Click	87	0	0	0.00%	0	0.00%	Print #1, 0	
+1099	C:\IG\IG\PRE\View.frm	Command8_Click	88	0	0	0.00%	0	0.00%	Print #1, 0	
+1100	C:\IG\IG\PRE\View.frm	Command8_Click	89	0	0	0.00%	0	0.00%	Case 2	
+1101	C:\IG\IG\PRE\View.frm	Command8_Click	90	0	0	0.00%	0	0.00%	Print #1, 1	
+1102	C:\IG\IG\PRE\View.frm	Command8_Click	91	0	0	0.00%	0	0.00%	Print #1, Txi(2, J)	
+1103	C:\IG\IG\PRE\View.frm	Command8_Click	77	0	0	0.00%	0	0.00%	Print #1, Ndxi, Ndyi, Ndxs, Ndyd	
+1104	C:\IG\IG\PRE\View.frm	Command8_Click	49	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1105	C:\IG\IG\PRE\View.frm	Command8_Click	35	0	0	0.00%	0	0.00%	Print #1, T(I, J)	
+1106	C:\IG\IG\PRE\View.frm	Command8_Click	36	0	0	0.00%	0	0.00%	Close #1	
+1107	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	53	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), , B	
+1108	C:\IG\IG\PRE\View.frm	Command8_Click	38	0	0	0.00%	0	0.00%	For J = 2 To M1	
+1109	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	49	0	0	0.00%	0	0.00%	Text3 = PowY(VScroll1)	
+1110	C:\IG\IG\PRE\View.frm	Command8_Click	40	0	0	0.00%	0	0.00%	Print #1, V(I, J)	
+1111	C:\IG\IG\PRE\View.frm	Command8_Click	41	0	0	0.00%	0	0.00%	Close #1	
+1112	C:\IG\IG\PRE\View.frm	Command8_Click	42	0	0	0.00%	0	0.00%	Open "u.el" For Output As #1	
+1113	C:\IG\IG\PRE\View.frm	Command8_Click	43	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1114	C:\IG\IG\PRE\View.frm	Command8_Click	44	0	0	0.00%	0	0.00%	For I = 2 To L1	
+1115	C:\IG\IG\PRE\View.frm	Command8_Click	45	0	0	0.00%	0	0.00%	Print #1, U(I, J)	
+1116	C:\IG\IG\PRE\View.frm	Command8_Click	46	0	0	0.00%	0	0.00%	Close #1	
+1117	C:\IG\IG\PRE\View.frm	Command8_Click	64	0	0	0.00%	0	0.00%	Print #1, GBY(I, J)	
+1118	C:\IG\IG\PRE\View.frm	Command8_Click	48	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1119	C:\IG\IG\PRE\View.frm	Command8_Click	63	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1120	C:\IG\IG\PRE\View.frm	Command8_Click	50	0	0	0.00%	0	0.00%	Print #1, 0	
+1121	C:\IG\IG\PRE\View.frm	Command8_Click	51	0	0	0.00%	0	0.00%	Close #1	
+1122	C:\IG\IG\PRE\View.frm	Command8_Click	52	0	0	0.00%	0	0.00%	Open "gama.el" For Output As #1	
+1123	C:\IG\IG\PRE\View.frm	Command8_Click	53	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1124	C:\IG\IG\PRE\View.frm	Command8_Click	54	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1125	C:\IG\IG\PRE\View.frm	Command8_Click	55	0	0	0.00%	0	0.00%	Print #1, rK(I, J), CP(I, J)	
+1126	C:\IG\IG\PRE\View.frm	Command8_Click	56	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1127	C:\IG\IG\PRE\View.frm	Command8_Click	57	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1128	C:\IG\IG\PRE\View.frm	Command8_Click	58	0	0	0.00%	0	0.00%	Print #1, Be(I, J)	
+1129	C:\IG\IG\PRE\View.frm	Command8_Click	59	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1130	C:\IG\IG\PRE\View.frm	Command8_Click	60	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1131	C:\IG\IG\PRE\View.frm	Command8_Click	61	0	0	0.00%	0	0.00%	Print #1, GBX(I, J)	
+1132	C:\IG\IG\PRE\View.frm	Command8_Click	94	0	0	0.00%	0	0.00%	Print #1, 0	
+1133	C:\IG\IG\PRE\View.frm	Command8_Click	47	0	0	0.00%	0	0.00%	Open "p.el" For Output As #1	
+1134	C:\IG\IG\PRE\View.frm	Command8_Click	138	0	0	0.00%	0	0.00%	Print #1, 1	
+1135	C:\IG\IG\PRE\View.frm	Command8_Click	92	0	0	0.00%	0	0.00%	Print #1, 0	
+1136	C:\IG\IG\PRE\View.frm	Command8_Click	125	0	0	0.00%	0	0.00%	If Uyi(1, J) = 0 Then Print #1, 1 Else Print #1, 0	
+1137	C:\IG\IG\PRE\View.frm	Command8_Click	126	0	0	0.00%	0	0.00%	For J = 1 To Ndxs	
+1138	C:\IG\IG\PRE\View.frm	Command8_Click	127	0	0	0.00%	0	0.00%	For I = 1 To 2	
+1139	C:\IG\IG\PRE\View.frm	Command8_Click	128	0	0	0.00%	0	0.00%	Print #1, Xs(I, J)	
+1140	C:\IG\IG\PRE\View.frm	Command8_Click	129	0	0	0.00%	0	0.00%	Case 0	
+1141	C:\IG\IG\PRE\View.frm	Command8_Click	130	0	0	0.00%	0	0.00%	Print #1, 1	
+1142	C:\IG\IG\PRE\View.frm	Command8_Click	131	0	0	0.00%	0	0.00%	Print #1, 0	
+1143	C:\IG\IG\PRE\View.frm	Command8_Click	132	0	0	0.00%	0	0.00%	Print #1, 0	
+1144	C:\IG\IG\PRE\View.frm	Command8_Click	133	0	0	0.00%	0	0.00%	Case 1	
+1145	C:\IG\IG\PRE\View.frm	Command8_Click	134	0	0	0.00%	0	0.00%	Print #1, 0	
+1146	C:\IG\IG\PRE\View.frm	Command8_Click	135	0	0	0.00%	0	0.00%	Print #1, 0	
+1147	C:\IG\IG\PRE\View.frm	Command8_Click	123	0	0	0.00%	0	0.00%	Print #1, Tyi(2, J)	
+1148	C:\IG\IG\PRE\View.frm	Command8_Click	137	0	0	0.00%	0	0.00%	Case 2	
+1149	C:\IG\IG\PRE\View.frm	Command8_Click	122	0	0	0.00%	0	0.00%	Print #1, 4	
+1150	C:\IG\IG\PRE\View.frm	Command8_Click	139	0	0	0.00%	0	0.00%	Print #1, Txs(2, J)	
+1151	C:\IG\IG\PRE\View.frm	Command8_Click	140	0	0	0.00%	0	0.00%	Print #1, 0	
+1152	C:\IG\IG\PRE\View.frm	Command8_Click	141	0	0	0.00%	0	0.00%	Case 4	
+1153	C:\IG\IG\PRE\View.frm	Command8_Click	142	0	0	0.00%	0	0.00%	Print #1, 0	
+1154	C:\IG\IG\PRE\View.frm	Command8_Click	143	0	0	0.00%	0	0.00%	Print #1, 0	
+1155	C:\IG\IG\PRE\View.frm	Command8_Click	144	0	0	0.00%	0	0.00%	Print #1, 0	
+1156	C:\IG\IG\PRE\View.frm	Command8_Click	145	0	0	0.00%	0	0.00%	Case 3	
+1157	C:\IG\IG\PRE\View.frm	Command8_Click	146	0	0	0.00%	0	0.00%	Print #1, 4	
+1158	C:\IG\IG\PRE\View.frm	Command8_Click	147	0	0	0.00%	0	0.00%	Print #1, Txs(2, J)	
+1159	C:\IG\IG\PRE\View.frm	Command8_Click	148	0	0	0.00%	0	0.00%	Print #1, Txs(3, J)	
+1160	C:\IG\IG\PRE\View.frm	Command8_Click	149	0	0	0.00%	0	0.00%	If Vxs(1, J) = 0 Then Print #1, 1 Else Print #1, 0	
+1161	C:\IG\IG\PRE\View.frm	Command8_Click	150	0	0	0.00%	0	0.00%	For J = 1 To Ndyd	
+1162	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	18	0	0	0.00%	0	0.00%	Tyd(1, I) = 0: Tyd(2, I) = 0: Tyd(3, I) = 0	
+1163	C:\IG\IG\PRE\View.frm	Command8_Click	136	0	0	0.00%	0	0.00%	Print #1, 0	
+1164	C:\IG\IG\PRE\View.frm	Command8_Click	108	0	0	0.00%	0	0.00%	Print #1, 0	
+1165	C:\IG\IG\PRE\View.frm	Command8_Click	152	0	0	0.00%	0	0.00%	Print #1, Yd(I, J)	
+1166	C:\IG\IG\PRE\View.frm	Command8_Click	95	0	0	0.00%	0	0.00%	Print #1, 0	
+1167	C:\IG\IG\PRE\View.frm	Command8_Click	96	0	0	0.00%	0	0.00%	Print #1, 0	
+1168	C:\IG\IG\PRE\View.frm	Command8_Click	97	0	0	0.00%	0	0.00%	Case 3	
+1169	C:\IG\IG\PRE\View.frm	Command8_Click	98	0	0	0.00%	0	0.00%	Print #1, 4	
+1170	C:\IG\IG\PRE\View.frm	Command8_Click	99	0	0	0.00%	0	0.00%	Print #1, Txi(2, J)	
+1171	C:\IG\IG\PRE\View.frm	Command8_Click	100	0	0	0.00%	0	0.00%	Print #1, Txi(3, J)	
+1172	C:\IG\IG\PRE\View.frm	Command8_Click	101	0	0	0.00%	0	0.00%	If Vxi(1, J) = 0 Then Print #1, 1 Else Print #1, 0	
+1173	C:\IG\IG\PRE\View.frm	Command8_Click	102	0	0	0.00%	0	0.00%	For J = 1 To Ndyi	
+1174	C:\IG\IG\PRE\View.frm	Command8_Click	103	0	0	0.00%	0	0.00%	For I = 1 To 2	
+1175	C:\IG\IG\PRE\View.frm	Command8_Click	104	0	0	0.00%	0	0.00%	Print #1, Yi(I, J)	
+1176	C:\IG\IG\PRE\View.frm	Command8_Click	105	0	0	0.00%	0	0.00%	Case 0	
+1177	C:\IG\IG\PRE\View.frm	Command8_Click	124	0	0	0.00%	0	0.00%	Print #1, Tyi(3, J)	
+1178	C:\IG\IG\PRE\View.frm	Command8_Click	107	0	0	0.00%	0	0.00%	Print #1, 0	
+1179	C:\IG\IG\PRE\View.frm	Command8_Click	93	0	0	0.00%	0	0.00%	Case 4	
+1180	C:\IG\IG\PRE\View.frm	Command8_Click	109	0	0	0.00%	0	0.00%	Case 1	
+1181	C:\IG\IG\PRE\View.frm	Command8_Click	110	0	0	0.00%	0	0.00%	Print #1, 0	
+1182	C:\IG\IG\PRE\View.frm	Command8_Click	111	0	0	0.00%	0	0.00%	Print #1, 0	
+1183	C:\IG\IG\PRE\View.frm	Command8_Click	112	0	0	0.00%	0	0.00%	Print #1, 0	
+1184	C:\IG\IG\PRE\View.frm	Command8_Click	113	0	0	0.00%	0	0.00%	Case 2	
+1185	C:\IG\IG\PRE\View.frm	Command8_Click	114	0	0	0.00%	0	0.00%	Print #1, 1	
+1186	C:\IG\IG\PRE\View.frm	Command8_Click	115	0	0	0.00%	0	0.00%	Print #1, Tyi(2, J)	
+1187	C:\IG\IG\PRE\View.frm	Command8_Click	116	0	0	0.00%	0	0.00%	Print #1, 0	
+1188	C:\IG\IG\PRE\View.frm	Command8_Click	117	0	0	0.00%	0	0.00%	Case 4	
+1189	C:\IG\IG\PRE\View.frm	Command8_Click	118	0	0	0.00%	0	0.00%	Print #1, 0	
+1190	C:\IG\IG\PRE\View.frm	Command8_Click	119	0	0	0.00%	0	0.00%	Print #1, 0	
+1191	C:\IG\IG\PRE\View.frm	Command8_Click	120	0	0	0.00%	0	0.00%	Print #1, 0	
+1192	C:\IG\IG\PRE\View.frm	Command8_Click	121	0	0	0.00%	0	0.00%	Case 3	
+1193	C:\IG\IG\PRE\View.frm	Command8_Click	106	0	0	0.00%	0	0.00%	Print #1, 1	
+1194	C:\IG\IG\PRE\Rutinas.bas	Expone	90	0	0	0.00%	0	0.00%	For Jk = 1 To Mm1	
+1195	C:\IG\IG\PRE\Rutinas.bas	Expone	76	0	0	0.00%	0	0.00%	YV(MM(Bloq) - Jk) = YV(MM(Bloq)) - Frac	
+1196	C:\IG\IG\PRE\Rutinas.bas	Expone	77	0	0	0.00%	0	0.00%	Case 4	
+1197	C:\IG\IG\PRE\Rutinas.bas	Expone	78	0	0	0.00%	0	0.00%	YV(MM(Bloq - 1)) = Dy(0, Bloq)	
+1198	C:\IG\IG\PRE\Rutinas.bas	Expone	79	0	0	0.00%	0	0.00%	YV(MM(Bloq)) = Dy(0, Bloq) + Dy(1, Bloq)	
+1199	C:\IG\IG\PRE\Rutinas.bas	Expone	80	0	0	0.00%	0	0.00%	Mm1 = M(Bloq)	
+1200	C:\IG\IG\PRE\Rutinas.bas	Expone	81	0	0	0.00%	0	0.00%	Yl2 = Dy(1, Bloq)	
+1201	C:\IG\IG\PRE\Rutinas.bas	Expone	82	0	0	0.00%	0	0.00%	For Jk = 1 To Mm1	
+1202	C:\IG\IG\PRE\Rutinas.bas	Expone	83	0	0	0.00%	0	0.00%	Frac = Yl2 * (Jk / Mm1) ^ Pow	
+1203	C:\IG\IG\PRE\Rutinas.bas	Expone	84	0	0	0.00%	0	0.00%	YV(Jk + MM(Bloq - 1)) = YV(MM(Bloq - 1)) + Frac	
+1204	C:\IG\IG\PRE\Rutinas.bas	Expone	85	0	0	0.00%	0	0.00%	Case 5	
+1205	C:\IG\IG\PRE\Rutinas.bas	Expone	86	0	0	0.00%	0	0.00%	YV(MM(Bloq - 1)) = Dy(0, Bloq)	
+1206	C:\IG\IG\PRE\Rutinas.bas	Expone	87	0	0	0.00%	0	0.00%	YV(MM(Bloq)) = Dy(0, Bloq) + Dy(1, Bloq)	
+1207	C:\IG\IG\PRE\Rutinas.bas	Expone	45	0	0	0.00%	0	0.00%	For Ik = 1 To Ll1	
+1208	C:\IG\IG\PRE\Rutinas.bas	Expone	89	0	0	0.00%	0	0.00%	Yl2 = Dy(1, Bloq)	
+1209	C:\IG\IG\PRE\Rutinas.bas	Expone	73	0	0	0.00%	0	0.00%	For Jk = 1 To Mm1	
+1210	C:\IG\IG\PRE\Rutinas.bas	Expone	91	0	0	0.00%	0	0.00%	Frac = Yl2 * (Jk / Mm1) ^ Pow	
+1211	C:\IG\IG\PRE\Rutinas.bas	Expone	92	0	0	0.00%	0	0.00%	YV(MM(Bloq) - Jk) = YV(MM(Bloq)) - Frac	
+1212	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1213	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	2	0	0	0.00%	0	0.00%	Nss = 2 * Ns + 2	
+1214	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	3	0	0	0.00%	0	0.00%	ReDim Sx(Nss), Sy(Nss)	
+1215	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	4	0	0	0.00%	0	0.00%	Sx(1) = 0	
+1216	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	5	0	0	0.00%	0	0.00%	Sy(1) = 0	
+1217	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	6	0	0	0.00%	0	0.00%	Sx(Nss) = Xl	
+1218	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	7	0	0	0.00%	0	0.00%	Sy(Nss) = Yl	
+1219	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	8	0	0	0.00%	0	0.00%	For K = 2 To Nss - 2 Step 2	
+1220	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	9	0	0	0.00%	0	0.00%	Sx(K) = S(0, K \ 2)	
+1221	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	10	0	0	0.00%	0	0.00%	Sx(K + 1) = S(2, K \ 2)	
+1222	C:\IG\IG\PRE\Rutinas.bas	Expone	88	0	0	0.00%	0	0.00%	Mm1 = M(Bloq)	
+1223	C:\IG\IG\PRE\Rutinas.bas	Expone	60	0	0	0.00%	0	0.00%	YV(MM(Bloq - 1)) = Dy(0, Bloq)	
+1224	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	16	0	0	0.00%	0	0.00%	Vyi(1, I) = 2: Vyi(2, I) = 0: Vyi(3, I) = 0	
+1225	C:\IG\IG\PRE\Rutinas.bas	Expone	47	0	0	0.00%	0	0.00%	XU(LL(Bloq) - Ik) = XU(LL(Bloq)) - Frac	
+1226	C:\IG\IG\PRE\Rutinas.bas	Expone	48	0	0	0.00%	0	0.00%	Case False	
+1227	C:\IG\IG\PRE\Rutinas.bas	Expone	49	0	0	0.00%	0	0.00%	Case 1	
+1228	C:\IG\IG\PRE\Rutinas.bas	Expone	50	0	0	0.00%	0	0.00%	Pow = 1	
+1229	C:\IG\IG\PRE\Rutinas.bas	Expone	51	0	0	0.00%	0	0.00%	YV(MM(Bloq - 1)) = Dy(0, Bloq)	
+1230	C:\IG\IG\PRE\Rutinas.bas	Expone	52	0	0	0.00%	0	0.00%	YV(MM(Bloq)) = Dy(0, Bloq) + Dy(1, Bloq)	
+1231	C:\IG\IG\PRE\Rutinas.bas	Expone	53	0	0	0.00%	0	0.00%	Mm1 = M(Bloq) / 2	
+1232	C:\IG\IG\PRE\Rutinas.bas	Expone	54	0	0	0.00%	0	0.00%	Yl2 = Dy(1, Bloq) / 2	
+1233	C:\IG\IG\PRE\Rutinas.bas	Expone	55	0	0	0.00%	0	0.00%	For Jk = 1 To Mm1	
+1234	C:\IG\IG\PRE\Rutinas.bas	Expone	56	0	0	0.00%	0	0.00%	Frac = Yl2 * (Jk / Mm1) ^ Pow	
+1235	C:\IG\IG\PRE\Rutinas.bas	Expone	57	0	0	0.00%	0	0.00%	YV(Jk + MM(Bloq - 1)) = YV(MM(Bloq - 1)) + Frac	
+1236	C:\IG\IG\PRE\Rutinas.bas	Expone	75	0	0	0.00%	0	0.00%	YV(Jk + MM(Bloq - 1)) = YV(MM(Bloq - 1)) + Frac	
+1237	C:\IG\IG\PRE\Rutinas.bas	Expone	59	0	0	0.00%	0	0.00%	Case 2	
+1238	C:\IG\IG\PRE\Rutinas.bas	Expone	74	0	0	0.00%	0	0.00%	Frac = Yl2 * (Jk / Mm1) ^ (1 / Pow)	
+1239	C:\IG\IG\PRE\Rutinas.bas	Expone	61	0	0	0.00%	0	0.00%	YV(MM(Bloq)) = Dy(0, Bloq) + Dy(1, Bloq)	
+1240	C:\IG\IG\PRE\Rutinas.bas	Expone	62	0	0	0.00%	0	0.00%	Mm1 = M(Bloq) / 2	
+1241	C:\IG\IG\PRE\Rutinas.bas	Expone	63	0	0	0.00%	0	0.00%	Yl2 = Dy(1, Bloq) / 2	
+1242	C:\IG\IG\PRE\Rutinas.bas	Expone	64	0	0	0.00%	0	0.00%	For Jk = 1 To Mm1	
+1243	C:\IG\IG\PRE\Rutinas.bas	Expone	65	0	0	0.00%	0	0.00%	Frac = Yl2 * (Jk / Mm1) ^ Pow	
+1244	C:\IG\IG\PRE\Rutinas.bas	Expone	66	0	0	0.00%	0	0.00%	YV(Jk + MM(Bloq - 1)) = YV(MM(Bloq - 1)) + Frac	
+1245	C:\IG\IG\PRE\Rutinas.bas	Expone	67	0	0	0.00%	0	0.00%	YV(MM(Bloq) - Jk) = YV(MM(Bloq)) - Frac	
+1246	C:\IG\IG\PRE\Rutinas.bas	Expone	68	0	0	0.00%	0	0.00%	Case 3	
+1247	C:\IG\IG\PRE\Rutinas.bas	Expone	69	0	0	0.00%	0	0.00%	YV(MM(Bloq - 1)) = Dy(0, Bloq)	
+1248	C:\IG\IG\PRE\Rutinas.bas	Expone	70	0	0	0.00%	0	0.00%	YV(MM(Bloq)) = Dy(0, Bloq) + Dy(1, Bloq)	
+1249	C:\IG\IG\PRE\Rutinas.bas	Expone	71	0	0	0.00%	0	0.00%	Mm1 = M(Bloq) / 2	
+1250	C:\IG\IG\PRE\Rutinas.bas	Expone	72	0	0	0.00%	0	0.00%	Yl2 = Dy(1, Bloq) / 2	
+1251	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	13	0	0	0.00%	0	0.00%	OrdenaS Sx	
+1252	C:\IG\IG\PRE\Rutinas.bas	Expone	58	0	0	0.00%	0	0.00%	YV(MM(Bloq) - Jk) = YV(MM(Bloq)) - Frac	
+1253	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	6	0	0	0.00%	0	0.00%	VScroll2.Min = Xi(1, Combo1.ListIndex + 1) + 2	
+1254	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	11	0	0	0.00%	0	0.00%	Sy(K) = S(1, K \ 2)	
+1255	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	5	0	0	0.00%	0	0.00%	For I = LL(Bloq - 1) + 1 To LL(Bloq) - 1	
+1256	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	6	0	0	0.00%	0	0.00%	XU(I) = (I - LL(Bloq - 1)) / (L(Bloq)) * Dx(1, Bloq) + XU(LL(Bloq - 1))	
+1257	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	7	0	0	0.00%	0	0.00%	Case False	
+1258	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	8	0	0	0.00%	0	0.00%	YV(MM(Bloq - 1)) = Dy(0, Bloq)	
+1259	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	9	0	0	0.00%	0	0.00%	YV(MM(Bloq)) = Dy(0, Bloq) + Dy(1, Bloq)	
+1260	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	10	0	0	0.00%	0	0.00%	For I = MM(Bloq - 1) + 1 To MM(Bloq) - 1	
+1261	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	11	0	0	0.00%	0	0.00%	YV(I) = (I - MM(Bloq - 1)) / (M(Bloq)) * Dy(1, Bloq) + YV(MM(Bloq - 1))	
+1262	C:\IG\IG\PRE\FRegion.frm	Combo1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1263	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1264	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	2	0	0	0.00%	0	0.00%	caca = True	
+1265	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	3	0	0	0.00%	0	0.00%	Case Option1(0)	
+1266	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	3	0	0	0.00%	0	0.00%	XU(LL(Bloq - 1)) = Dx(0, Bloq)	
+1267	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	5	0	0	0.00%	0	0.00%	tep = Xi(2, Combo1.ListIndex + 1) + 2	
+1268	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	2	0	0	0.00%	0	0.00%	Case True	
+1269	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	7	0	0	0.00%	0	0.00%	VScroll2.Max = L1 + (Combo1.ListIndex + 1) - Ndxi	
+1270	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	8	0	0	0.00%	0	0.00%	If tep < VScroll2.Min Then tep = VScroll2.Min	
+1271	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	9	0	0	0.00%	0	0.00%	VScroll2 = tep	
+1272	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	10	0	0	0.00%	0	0.00%	Label1 = "xmax.= "	
+1273	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	11	0	0	0.00%	0	0.00%	Case Option1(1)	
+1274	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	12	0	0	0.00%	0	0.00%	Label2 = "ymin.= " & YV(Yi(1, Combo1.ListIndex + 1) + 1)	
+1275	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	13	0	0	0.00%	0	0.00%	tep = Yi(2, Combo1.ListIndex + 1) + 2	
+1276	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	14	0	0	0.00%	0	0.00%	VScroll2.Min = Yi(1, Combo1.ListIndex + 1) + 2	
+1277	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	15	0	0	0.00%	0	0.00%	VScroll2.Max = M1 + (Combo1.ListIndex + 1) - Ndyi	
+1278	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	16	0	0	0.00%	0	0.00%	If tep < VScroll2.Min Then tep = VScroll2.Min	
+1279	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	17	0	0	0.00%	0	0.00%	VScroll2 = tep	
+1280	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	18	0	0	0.00%	0	0.00%	Label1 = "ymax.= "	
+1281	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	19	0	0	0.00%	0	0.00%	Case Option1(2)	
+1282	C:\IG\IG\PRE\FRegion.frm	Combo1_Click	4	0	0	0.00%	0	0.00%	Label2 = "xmin.= " & XU(Xi(1, Combo1.ListIndex + 1) + 1)	
+1283	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	27	0	0	0.00%	0	0.00%	Dy(1, Ndy) = Sy(K + 1) - Sy(K)	
+1284	C:\IG\IG\PRE\Rutinas.bas	Expone	44	0	0	0.00%	0	0.00%	Xl2 = Dx(1, Bloq)	
+1285	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	14	0	0	0.00%	0	0.00%	OrdenaS Sy	
+1286	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	15	0	0	0.00%	0	0.00%	Ndx = 0	
+1287	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	16	0	0	0.00%	0	0.00%	Ndy = 0	
+1288	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	17	0	0	0.00%	0	0.00%	For K = 1 To Nss - 1	
+1289	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	18	0	0	0.00%	0	0.00%	If Sx(K + 1) <> Sx(K) Then	
+1290	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	19	0	0	0.00%	0	0.00%	Ndx = Ndx + 1	
+1291	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	20	0	0	0.00%	0	0.00%	ReDim Preserve Dx(1, Ndx)	
+1292	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	21	0	0	0.00%	0	0.00%	Dx(1, Ndx) = Sx(K + 1) - Sx(K)	
+1293	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	22	0	0	0.00%	0	0.00%	Dx(0, Ndx) = Sx(K)	
+1294	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	23	0	0	0.00%	0	0.00%	For K = 1 To Nss - 1	
+1295	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	24	0	0	0.00%	0	0.00%	If Sy(K + 1) <> Sy(K) Then	
+1296	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	4	0	0	0.00%	0	0.00%	XU(LL(Bloq)) = Dx(0, Bloq) + Dx(1, Bloq)	
+1297	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	26	0	0	0.00%	0	0.00%	ReDim Preserve Dy(1, Ndy)	
+1298	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	12	0	0	0.00%	0	0.00%	Sy(K + 1) = S(3, K \ 2)	
+1299	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	28	0	0	0.00%	0	0.00%	Dy(0, Ndy) = Sy(K)	
+1300	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1301	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	2	0	0	0.00%	0	0.00%	NumeroDeEntradas = UBound(Ass)	
+1302	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	3	0	0	0.00%	0	0.00%	Increm = NumeroDeEntradas \ 2	
+1303	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	4	0	0	0.00%	0	0.00%	Do Until Increm < 1	
+1304	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	5	0	0	0.00%	0	0.00%	For II = Increm + 1 To NumeroDeEntradas                 '	
+1305	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	6	0	0	0.00%	0	0.00%	Temp = Ass(II)                                      '	
+1306	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	7	0	0	0.00%	0	0.00%	For JJ = II - Increm To 1 Step -Increm              '	
+1307	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	8	0	0	0.00%	0	0.00%	If Temp >= Ass(JJ) Then Exit For                '	
+1308	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	9	0	0	0.00%	0	0.00%	Ass(JJ + Increm) = Ass(JJ)                      '	
+1309	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	10	0	0	0.00%	0	0.00%	Ass(JJ + Increm) = Temp                             '	
+1310	C:\IG\IG\PRE\Rutinas.bas	OrdenaS	11	0	0	0.00%	0	0.00%	Increm = Increm \ 2                                     '	
+1311	C:\IG\IG\PRE\Rutinas.bas	VCUniforme	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1312	C:\IG\IG\PRE\Rutinas.bas	ObtenerS	25	0	0	0.00%	0	0.00%	Ndy = Ndy + 1	
+1313	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	62	0	0	0.00%	0	0.00%	Xs(1, 1) = 1	
+1314	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	48	0	0	0.00%	0	0.00%	Xi(1, 1) = 1	
+1315	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	49	0	0	0.00%	0	0.00%	Xi(2, 1) = LL(1) - 2	
+1316	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	50	0	0	0.00%	0	0.00%	For I = 2 To Ndxi	
+1317	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	51	0	0	0.00%	0	0.00%	Xi(1, I) = Xi(2, I - 1) + 1	
+1318	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	52	0	0	0.00%	0	0.00%	Xi(2, I) = LL(I) - 2	
+1319	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	53	0	0	0.00%	0	0.00%	Xi(2, Ndxi) = L3	
+1320	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	54	0	0	0.00%	0	0.00%	Case 1	
+1321	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	55	0	0	0.00%	0	0.00%	Yi(1, 1) = 1	
+1322	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	56	0	0	0.00%	0	0.00%	Yi(2, 1) = MM(1) - 2	
+1323	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	57	0	0	0.00%	0	0.00%	For I = 2 To Ndyi	
+1324	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	58	0	0	0.00%	0	0.00%	Yi(1, I) = Yi(2, I - 1) + 1	
+1325	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	59	0	0	0.00%	0	0.00%	Yi(2, I) = MM(I) - 2	
+1326	C:\IG\IG\PRE\Rutinas.bas	Expone	46	0	0	0.00%	0	0.00%	Frac = Xl2 * (Ik / Ll1) ^ Pow	
+1327	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	61	0	0	0.00%	0	0.00%	Case 2	
+1328	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	45	0	0	0.00%	0	0.00%	For J = 0 To 3	
+1329	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	63	0	0	0.00%	0	0.00%	Xs(2, 1) = LL(1) - 2	
+1330	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	64	0	0	0.00%	0	0.00%	For I = 2 To Ndxs	
+1331	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	65	0	0	0.00%	0	0.00%	Xs(1, I) = Xs(2, I - 1) + 1	
+1332	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	66	0	0	0.00%	0	0.00%	Xs(2, I) = LL(I) - 2	
+1333	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	67	0	0	0.00%	0	0.00%	Xs(2, Ndxs) = L3	
+1334	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	68	0	0	0.00%	0	0.00%	Case 3	
+1335	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	69	0	0	0.00%	0	0.00%	Yd(1, 1) = 1	
+1336	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	70	0	0	0.00%	0	0.00%	Yd(2, 1) = MM(1) - 2	
+1337	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	71	0	0	0.00%	0	0.00%	For I = 2 To Ndyd	
+1338	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	72	0	0	0.00%	0	0.00%	Yd(1, I) = Yd(2, I - 1) + 1	
+1339	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	73	0	0	0.00%	0	0.00%	Yd(2, I) = MM(I) - 2	
+1340	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	74	0	0	0.00%	0	0.00%	Yd(2, Ndyd) = M3	
+1341	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	60	0	0	0.00%	0	0.00%	Yi(2, Ndyi) = M3	
+1342	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	32	0	0	0.00%	0	0.00%	Xs(2, Ndxs) = L3	
+1343	C:\IG\IG\PRE\View.frm	Command8_Click	37	0	0	0.00%	0	0.00%	Open "v.el" For Output As #1	
+1344	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	19	0	0	0.00%	0	0.00%	Uyd(1, I) = 2: Uyd(2, I) = 0: Uyd(3, I) = 0	
+1345	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	20	0	0	0.00%	0	0.00%	Vyd(1, I) = 2: Vyd(2, I) = 0: Vyd(3, I) = 0	
+1346	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	21	0	0	0.00%	0	0.00%	Xi(1, 1) = 1	
+1347	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	22	0	0	0.00%	0	0.00%	Xi(2, 1) = L3 \ Ndxi	
+1348	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	23	0	0	0.00%	0	0.00%	For I = 2 To Ndxi	
+1349	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	24	0	0	0.00%	0	0.00%	Xi(1, I) = Xi(2, I - 1) + 1	
+1350	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	25	0	0	0.00%	0	0.00%	Xi(2, I) = Xi(1, I) + L3 \ Ndxi - 1	
+1351	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	26	0	0	0.00%	0	0.00%	Xi(2, Ndxi) = L3	
+1352	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	27	0	0	0.00%	0	0.00%	Xs(1, 1) = 1	
+1353	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	28	0	0	0.00%	0	0.00%	Xs(2, 1) = L3 \ Ndxs	
+1354	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	29	0	0	0.00%	0	0.00%	For I = 2 To Ndxs	
+1355	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	47	0	0	0.00%	0	0.00%	Case 0	
+1356	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	31	0	0	0.00%	0	0.00%	Xs(2, I) = Xs(1, I) + L3 \ Ndxs - 1	
+1357	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	46	0	0	0.00%	0	0.00%	If FCF.Check2(J) = vbChecked Then	
+1358	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	33	0	0	0.00%	0	0.00%	Yi(1, 1) = 1	
+1359	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	34	0	0	0.00%	0	0.00%	Yi(2, 1) = M3 \ Ndyi	
+1360	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	35	0	0	0.00%	0	0.00%	For I = 2 To Ndyi	
+1361	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	36	0	0	0.00%	0	0.00%	Yi(1, I) = Yi(2, I - 1) + 1	
+1362	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	37	0	0	0.00%	0	0.00%	Yi(2, I) = Yi(1, I) + M3 \ Ndyi - 1	
+1363	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	38	0	0	0.00%	0	0.00%	Yi(2, Ndyi) = M3	
+1364	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	39	0	0	0.00%	0	0.00%	Yd(1, 1) = 1	
+1365	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	40	0	0	0.00%	0	0.00%	Yd(2, 1) = M3 \ Ndyd	
+1366	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	41	0	0	0.00%	0	0.00%	For I = 2 To Ndyd	
+1367	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	42	0	0	0.00%	0	0.00%	Yd(1, I) = Yd(2, I - 1) + 1	
+1368	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	43	0	0	0.00%	0	0.00%	Yd(2, I) = Yd(1, I) + M3 \ Ndyd - 1	
+1369	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	44	0	0	0.00%	0	0.00%	Yd(2, Ndyd) = M3	
+1370	C:\IG\IG\PRE\Rutinas.bas	Cadicio	3	0	0	0.00%	0	0.00%	M2 = M1 - 1	
+1371	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	30	0	0	0.00%	0	0.00%	Xs(1, I) = Xs(2, I - 1) + 1	
+1372	C:\IG\IG\PRE\Rutinas.bas	Expone	30	0	0	0.00%	0	0.00%	XU(Ik + LL(Bloq - 1)) = XU(LL(Bloq - 1)) + Frac	
+1373	C:\IG\IG\PRE\Rutinas.bas	Cadicio	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1374	C:\IG\IG\PRE\Rutinas.bas	Expone	17	0	0	0.00%	0	0.00%	Ll1 = L(Bloq) / 2	
+1375	C:\IG\IG\PRE\Rutinas.bas	Expone	18	0	0	0.00%	0	0.00%	Xl2 = Dx(1, Bloq) / 2	
+1376	C:\IG\IG\PRE\Rutinas.bas	Expone	19	0	0	0.00%	0	0.00%	For Ik = 1 To Ll1	
+1377	C:\IG\IG\PRE\Rutinas.bas	Expone	20	0	0	0.00%	0	0.00%	Frac = Xl2 * (Ik / Ll1) ^ Pow	
+1378	C:\IG\IG\PRE\Rutinas.bas	Expone	21	0	0	0.00%	0	0.00%	XU(Ik + LL(Bloq - 1)) = XU(LL(Bloq - 1)) + Frac	
+1379	C:\IG\IG\PRE\Rutinas.bas	Expone	22	0	0	0.00%	0	0.00%	XU(LL(Bloq) - Ik) = XU(LL(Bloq)) - Frac	
+1380	C:\IG\IG\PRE\Rutinas.bas	Expone	23	0	0	0.00%	0	0.00%	Case 3	
+1381	C:\IG\IG\PRE\Rutinas.bas	Expone	24	0	0	0.00%	0	0.00%	XU(LL(Bloq - 1)) = Dx(0, Bloq)	
+1382	C:\IG\IG\PRE\Rutinas.bas	Expone	25	0	0	0.00%	0	0.00%	XU(LL(Bloq)) = Dx(0, Bloq) + Dx(1, Bloq)	
+1383	C:\IG\IG\PRE\Rutinas.bas	Expone	26	0	0	0.00%	0	0.00%	Ll1 = L(Bloq) / 2	
+1384	C:\IG\IG\PRE\Rutinas.bas	Expone	27	0	0	0.00%	0	0.00%	Xl2 = Dx(1, Bloq) / 2	
+1385	C:\IG\IG\PRE\Rutinas.bas	Expone	15	0	0	0.00%	0	0.00%	XU(LL(Bloq - 1)) = Dx(0, Bloq)	
+1386	C:\IG\IG\PRE\Rutinas.bas	Expone	29	0	0	0.00%	0	0.00%	Frac = Xl2 * (Ik / Ll1) ^ (1 / Pow)	
+1387	C:\IG\IG\PRE\Rutinas.bas	Expone	14	0	0	0.00%	0	0.00%	Case 2	
+1388	C:\IG\IG\PRE\Rutinas.bas	Expone	31	0	0	0.00%	0	0.00%	XU(LL(Bloq) - Ik) = XU(LL(Bloq)) - Frac	
+1389	C:\IG\IG\PRE\Rutinas.bas	Expone	32	0	0	0.00%	0	0.00%	Case 4	
+1390	C:\IG\IG\PRE\Rutinas.bas	Expone	33	0	0	0.00%	0	0.00%	XU(LL(Bloq - 1)) = Dx(0, Bloq)	
+1391	C:\IG\IG\PRE\Rutinas.bas	Expone	34	0	0	0.00%	0	0.00%	XU(LL(Bloq)) = Dx(0, Bloq) + Dx(1, Bloq)	
+1392	C:\IG\IG\PRE\Rutinas.bas	Expone	35	0	0	0.00%	0	0.00%	Ll1 = L(Bloq)	
+1393	C:\IG\IG\PRE\Rutinas.bas	Expone	36	0	0	0.00%	0	0.00%	Xl2 = Dx(1, Bloq)	
+1394	C:\IG\IG\PRE\Rutinas.bas	Expone	37	0	0	0.00%	0	0.00%	For Ik = 1 To Ll1	
+1395	C:\IG\IG\PRE\Rutinas.bas	Expone	38	0	0	0.00%	0	0.00%	Frac = Xl2 * (Ik / Ll1) ^ Pow	
+1396	C:\IG\IG\PRE\Rutinas.bas	Expone	39	0	0	0.00%	0	0.00%	XU(Ik + LL(Bloq - 1)) = XU(LL(Bloq - 1)) + Frac	
+1397	C:\IG\IG\PRE\Rutinas.bas	Expone	40	0	0	0.00%	0	0.00%	Case 5	
+1398	C:\IG\IG\PRE\Rutinas.bas	Expone	41	0	0	0.00%	0	0.00%	XU(LL(Bloq - 1)) = Dx(0, Bloq)	
+1399	C:\IG\IG\PRE\Rutinas.bas	Expone	42	0	0	0.00%	0	0.00%	XU(LL(Bloq)) = Dx(0, Bloq) + Dx(1, Bloq)	
+1400	C:\IG\IG\PRE\Rutinas.bas	Expone	43	0	0	0.00%	0	0.00%	Ll1 = L(Bloq)	
+1401	C:\IG\IG\PRE\Rutinas.bas	Expone	28	0	0	0.00%	0	0.00%	For Ik = 1 To Ll1	
+1402	C:\IG\IG\PRE\Rutinas.bas	Cadicio	17	0	0	0.00%	0	0.00%	YDif(J) = Y(J) - Y(J - 1)	
+1403	C:\IG\IG\PRE\Rutinas.bas	ObtenerE	17	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+1404	C:\IG\IG\PRE\Rutinas.bas	Cadicio	4	0	0	0.00%	0	0.00%	L3 = L2 - 1	
+1405	C:\IG\IG\PRE\Rutinas.bas	Cadicio	5	0	0	0.00%	0	0.00%	M3 = M2 - 1	
+1406	C:\IG\IG\PRE\Rutinas.bas	Cadicio	6	0	0	0.00%	0	0.00%	X(L1) = Xl	
+1407	C:\IG\IG\PRE\Rutinas.bas	Cadicio	7	0	0	0.00%	0	0.00%	Y(M1) = Yl	
+1408	C:\IG\IG\PRE\Rutinas.bas	Cadicio	8	0	0	0.00%	0	0.00%	For I = 2 To L2	
+1409	C:\IG\IG\PRE\Rutinas.bas	Cadicio	9	0	0	0.00%	0	0.00%	X(I) = (XU(I + 1) + XU(I)) / 2	
+1410	C:\IG\IG\PRE\Rutinas.bas	Cadicio	10	0	0	0.00%	0	0.00%	XCV(I) = -XU(I) + XU(I + 1)	
+1411	C:\IG\IG\PRE\Rutinas.bas	Cadicio	11	0	0	0.00%	0	0.00%	For J = 2 To M2	
+1412	C:\IG\IG\PRE\Rutinas.bas	Cadicio	12	0	0	0.00%	0	0.00%	Y(J) = (YV(J + 1) + YV(J)) / 2	
+1413	C:\IG\IG\PRE\Rutinas.bas	Cadicio	13	0	0	0.00%	0	0.00%	YCV(J) = -YV(J) + YV(J + 1)	
+1414	C:\IG\IG\PRE\Rutinas.bas	Cadicio	14	0	0	0.00%	0	0.00%	For I = 2 To L1	
+1415	C:\IG\IG\PRE\Rutinas.bas	Expone	16	0	0	0.00%	0	0.00%	XU(LL(Bloq)) = Dx(0, Bloq) + Dx(1, Bloq)	
+1416	C:\IG\IG\PRE\Rutinas.bas	Cadicio	16	0	0	0.00%	0	0.00%	For J = 2 To M1	
+1417	C:\IG\IG\PRE\Rutinas.bas	Cadicio	2	0	0	0.00%	0	0.00%	L2 = L1 - 1	
+1418	C:\IG\IG\PRE\Rutinas.bas	Expone	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1419	C:\IG\IG\PRE\Rutinas.bas	Expone	2	0	0	0.00%	0	0.00%	Ik As Long, Jk As Long, Frac As Single	
+1420	C:\IG\IG\PRE\Rutinas.bas	Expone	3	0	0	0.00%	0	0.00%	Case True	
+1421	C:\IG\IG\PRE\Rutinas.bas	Expone	4	0	0	0.00%	0	0.00%	Case 1	
+1422	C:\IG\IG\PRE\Rutinas.bas	Expone	5	0	0	0.00%	0	0.00%	Pow = 1	
+1423	C:\IG\IG\PRE\Rutinas.bas	Expone	6	0	0	0.00%	0	0.00%	XU(LL(Bloq - 1)) = Dx(0, Bloq)	
+1424	C:\IG\IG\PRE\Rutinas.bas	Expone	7	0	0	0.00%	0	0.00%	XU(LL(Bloq)) = Dx(0, Bloq) + Dx(1, Bloq)	
+1425	C:\IG\IG\PRE\Rutinas.bas	Expone	8	0	0	0.00%	0	0.00%	Ll1 = L(Bloq) / 2	
+1426	C:\IG\IG\PRE\Rutinas.bas	Expone	9	0	0	0.00%	0	0.00%	Xl2 = Dx(1, Bloq) / 2	
+1427	C:\IG\IG\PRE\Rutinas.bas	Expone	10	0	0	0.00%	0	0.00%	For Ik = 1 To Ll1	
+1428	C:\IG\IG\PRE\Rutinas.bas	Expone	11	0	0	0.00%	0	0.00%	Frac = Xl2 * (Ik / Ll1) ^ Pow	
+1429	C:\IG\IG\PRE\Rutinas.bas	Expone	12	0	0	0.00%	0	0.00%	XU(Ik + LL(Bloq - 1)) = XU(LL(Bloq - 1)) + Frac	
+1430	C:\IG\IG\PRE\Rutinas.bas	Expone	13	0	0	0.00%	0	0.00%	XU(LL(Bloq) - Ik) = XU(LL(Bloq)) - Frac	
+1431	C:\IG\IG\PRE\Rutinas.bas	Cadicio	15	0	0	0.00%	0	0.00%	XDif(I) = X(I) - X(I - 1)	
+1432	C:\IG\IG\PRE\FU.frm	Label1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1433	C:\IG\IG\PRE\FU.frm	Option1_Click	12	0	0	0.00%	0	0.00%	Option2(Uxs(1, Combo1.ListIndex + 1)) = True	
+1434	C:\IG\IG\PRE\FU.frm	Form_Load	10	0	0	0.00%	0	0.00%	Uyi(3, I) = 0	
+1435	C:\IG\IG\PRE\FU.frm	Form_Load	11	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+1436	C:\IG\IG\PRE\FU.frm	Form_Load	12	0	0	0.00%	0	0.00%	Uxs(1, I) = 2	
+1437	C:\IG\IG\PRE\FU.frm	Form_Load	13	0	0	0.00%	0	0.00%	Uxs(2, I) = 0	
+1438	C:\IG\IG\PRE\FU.frm	Form_Load	14	0	0	0.00%	0	0.00%	Uxs(3, I) = 0	
+1439	C:\IG\IG\PRE\FU.frm	Form_Load	15	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+1440	C:\IG\IG\PRE\FU.frm	Form_Load	16	0	0	0.00%	0	0.00%	Uyd(1, I) = 2	
+1441	C:\IG\IG\PRE\FU.frm	Form_Load	17	0	0	0.00%	0	0.00%	Uyd(2, I) = 0	
+1442	C:\IG\IG\PRE\FU.frm	Form_Load	18	0	0	0.00%	0	0.00%	Uyd(3, I) = 0	
+1443	C:\IG\IG\PRE\FU.frm	Frame1_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1444	C:\IG\IG\PRE\FU.frm	Frame2_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1445	C:\IG\IG\PRE\FU.frm	Form_Load	8	0	0	0.00%	0	0.00%	Uyi(1, I) = 2	
+1446	C:\IG\IG\PRE\FU.frm	Frame4_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1447	C:\IG\IG\PRE\FU.frm	Form_Load	7	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+1448	C:\IG\IG\PRE\FU.frm	Label2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1449	C:\IG\IG\PRE\FU.frm	Label3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1450	C:\IG\IG\PRE\FU.frm	Option1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1451	C:\IG\IG\PRE\FU.frm	Option1_Click	2	0	0	0.00%	0	0.00%	Call LlenarC	
+1452	C:\IG\IG\PRE\FU.frm	Option1_Click	3	0	0	0.00%	0	0.00%	Case Option1(0)	
+1453	C:\IG\IG\PRE\FU.frm	Option1_Click	4	0	0	0.00%	0	0.00%	Option2(Uxi(1, Combo1.ListIndex + 1)) = True	
+1454	C:\IG\IG\PRE\FU.frm	Option1_Click	5	0	0	0.00%	0	0.00%	Option2(1).Enabled = False	
+1455	C:\IG\IG\PRE\FU.frm	Option1_Click	6	0	0	0.00%	0	0.00%	Option2(0).Enabled = False	
+1456	C:\IG\IG\PRE\FU.frm	Option1_Click	7	0	0	0.00%	0	0.00%	Case Option1(1)	
+1457	C:\IG\IG\PRE\FU.frm	Option1_Click	8	0	0	0.00%	0	0.00%	Option2(Uyi(1, Combo1.ListIndex + 1)) = True	
+1458	C:\IG\IG\PRE\FU.frm	Option1_Click	9	0	0	0.00%	0	0.00%	Option2(1).Enabled = True	
+1459	C:\IG\IG\PRE\FU.frm	Option1_Click	10	0	0	0.00%	0	0.00%	Option2(0).Enabled = True	
+1460	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	54	0	0	0.00%	0	0.00%	Picture1.CurrentX = S(0, K) / 2 + S(2, K) / 2	
+1461	C:\IG\IG\PRE\FU.frm	Frame3_DragDrop	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1462	C:\IG\IG\PRE\FU.frm	DiMalla	12	0	0	0.00%	0	0.00%	Case 1	
+1463	C:\IG\IG\PRE\FU.frm	CEscala	4	0	0	0.00%	0	0.00%	Picture1.ScaleWidth = 2 * Mediaescala	
+1464	C:\IG\IG\PRE\FU.frm	CEscala	5	0	0	0.00%	0	0.00%	Picture1.ScaleLeft = -Mediaescala + Xl / 2	
+1465	C:\IG\IG\PRE\FU.frm	CEscala	6	0	0	0.00%	0	0.00%	Picture1.ScaleTop = Yl / 2 + Mediaescala	
+1466	C:\IG\IG\PRE\FU.frm	DiMalla	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1467	C:\IG\IG\PRE\FU.frm	DiMalla	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+1468	C:\IG\IG\PRE\FU.frm	DiMalla	3	0	0	0.00%	0	0.00%	For I = 2 To L2	
+1469	C:\IG\IG\PRE\FU.frm	DiMalla	4	0	0	0.00%	0	0.00%	For J = 2 To M2	
+1470	C:\IG\IG\PRE\FU.frm	DiMalla	5	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I), YV(J + 1)), QBColor(8)	
+1471	C:\IG\IG\PRE\FU.frm	DiMalla	6	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I + 1), YV(J)), QBColor(8)	
+1472	C:\IG\IG\PRE\FU.frm	DiMalla	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), QBColor(8)	
+1473	C:\IG\IG\PRE\FU.frm	DiMalla	8	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(M1))-(XU(L1), YV(M1)), QBColor(8)	
+1474	C:\IG\IG\PRE\FU.frm	DiMalla	9	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+1475	C:\IG\IG\PRE\FU.frm	Form_Load	9	0	0	0.00%	0	0.00%	Uyi(2, I) = 0	
+1476	C:\IG\IG\PRE\FU.frm	DiMalla	11	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), vbMagenta, B	
+1477	C:\IG\IG\PRE\FU.frm	Option1_Click	13	0	0	0.00%	0	0.00%	Option2(1).Enabled = False	
+1478	C:\IG\IG\PRE\FU.frm	DiMalla	13	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(2))-(XU(L1), YV(2)), vbCyan	
+1479	C:\IG\IG\PRE\FU.frm	DiMalla	14	0	0	0.00%	0	0.00%	Case 2	
+1480	C:\IG\IG\PRE\FU.frm	DiMalla	15	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(2))-(XU(2), YV(M1)), vbCyan	
+1481	C:\IG\IG\PRE\FU.frm	DiMalla	16	0	0	0.00%	0	0.00%	Case 3	
+1482	C:\IG\IG\PRE\FU.frm	DiMalla	17	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(2), YV(M1)), vbCyan	
+1483	C:\IG\IG\PRE\FU.frm	DiMalla	18	0	0	0.00%	0	0.00%	Case 4	
+1484	C:\IG\IG\PRE\FU.frm	DiMalla	19	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), vbCyan	
+1485	C:\IG\IG\PRE\FU.frm	Form_Load	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1486	C:\IG\IG\PRE\FU.frm	Form_Load	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+1487	C:\IG\IG\PRE\FU.frm	Form_Load	3	0	0	0.00%	0	0.00%	For I = 1 To Ndxi	
+1488	C:\IG\IG\PRE\FU.frm	Form_Load	4	0	0	0.00%	0	0.00%	Uxi(1, I) = 2	
+1489	C:\IG\IG\PRE\FU.frm	Form_Load	5	0	0	0.00%	0	0.00%	Uxi(2, I) = 0	
+1490	C:\IG\IG\PRE\FU.frm	Form_Load	6	0	0	0.00%	0	0.00%	Uxi(3, I) = 0	
+1491	C:\IG\IG\PRE\FU.frm	DiMalla	10	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+1492	C:\IG\IG\PRE\FU.frm	Option2_Click	40	0	0	0.00%	0	0.00%	Text2(0).Visible = True	
+1493	C:\IG\IG\PRE\FU.frm	Option1_Click	11	0	0	0.00%	0	0.00%	Case Option1(2)	
+1494	C:\IG\IG\PRE\FU.frm	Option2_Click	27	0	0	0.00%	0	0.00%	Text2(I) = Uyi(I + 2, Combo1.ListIndex + 1)	
+1495	C:\IG\IG\PRE\FU.frm	Option2_Click	28	0	0	0.00%	0	0.00%	Uyi(1, Combo1.ListIndex + 1) = Index	
+1496	C:\IG\IG\PRE\FU.frm	Option2_Click	29	0	0	0.00%	0	0.00%	Case Option1(2)	
+1497	C:\IG\IG\PRE\FU.frm	Option2_Click	30	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1498	C:\IG\IG\PRE\FU.frm	Option2_Click	31	0	0	0.00%	0	0.00%	Text2(I) = Uxs(I + 2, Combo1.ListIndex + 1)	
+1499	C:\IG\IG\PRE\FU.frm	Option2_Click	32	0	0	0.00%	0	0.00%	Uxs(1, Combo1.ListIndex + 1) = Index	
+1500	C:\IG\IG\PRE\FU.frm	Option2_Click	33	0	0	0.00%	0	0.00%	Case Option1(3)	
+1501	C:\IG\IG\PRE\FU.frm	Option2_Click	34	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1502	C:\IG\IG\PRE\FU.frm	Option2_Click	35	0	0	0.00%	0	0.00%	Text2(I) = Uyd(I + 2, Combo1.ListIndex + 1)	
+1503	C:\IG\IG\PRE\FU.frm	Option2_Click	36	0	0	0.00%	0	0.00%	Uyd(1, Combo1.ListIndex + 1) = Index	
+1504	C:\IG\IG\PRE\FU.frm	Option2_Click	37	0	0	0.00%	0	0.00%	Case 2	
+1505	C:\IG\IG\PRE\FU.frm	Option2_Click	25	0	0	0.00%	0	0.00%	Case Option1(1)	
+1506	C:\IG\IG\PRE\FU.frm	Option2_Click	39	0	0	0.00%	0	0.00%	Text2(1).Visible = False	
+1507	C:\IG\IG\PRE\FU.frm	Option2_Click	24	0	0	0.00%	0	0.00%	Uxi(1, Combo1.ListIndex + 1) = Index	
+1508	C:\IG\IG\PRE\FU.frm	Option2_Click	41	0	0	0.00%	0	0.00%	Label3(0) = "u"	
+1509	C:\IG\IG\PRE\FU.frm	Option2_Click	42	0	0	0.00%	0	0.00%	Label3(1).Visible = False	
+1510	C:\IG\IG\PRE\FU.frm	Option2_Click	43	0	0	0.00%	0	0.00%	Case Option1(0)	
+1511	C:\IG\IG\PRE\FU.frm	Option2_Click	44	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1512	C:\IG\IG\PRE\FU.frm	Option2_Click	45	0	0	0.00%	0	0.00%	Text2(I) = Uxi(I + 2, Combo1.ListIndex + 1)	
+1513	C:\IG\IG\PRE\FU.frm	Option2_Click	46	0	0	0.00%	0	0.00%	Uxi(1, Combo1.ListIndex + 1) = Index	
+1514	C:\IG\IG\PRE\FU.frm	Option2_Click	47	0	0	0.00%	0	0.00%	Case Option1(1)	
+1515	C:\IG\IG\PRE\FU.frm	Option2_Click	48	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1516	C:\IG\IG\PRE\FU.frm	Option2_Click	49	0	0	0.00%	0	0.00%	Text2(I) = Uyi(I + 2, Combo1.ListIndex + 1)	
+1517	C:\IG\IG\PRE\FU.frm	Option2_Click	50	0	0	0.00%	0	0.00%	Uyi(1, Combo1.ListIndex + 1) = Index	
+1518	C:\IG\IG\PRE\FMalla.frm	VScroll1_Change	55	0	0	0.00%	0	0.00%	Picture1.CurrentY = S(1, K) / 2 + S(3, K) / 2	
+1519	C:\IG\IG\PRE\View.frm	Command8_Click	39	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1520	C:\IG\IG\PRE\FPR.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1521	C:\IG\IG\PRE\FU.frm	Option2_Click	38	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+1522	C:\IG\IG\PRE\FU.frm	Option2_Click	10	0	0	0.00%	0	0.00%	Case Option1(2)	
+1523	C:\IG\IG\PRE\FU.frm	Option1_Click	14	0	0	0.00%	0	0.00%	Option2(0).Enabled = False	
+1524	C:\IG\IG\PRE\FU.frm	Option1_Click	15	0	0	0.00%	0	0.00%	Case Option1(3)	
+1525	C:\IG\IG\PRE\FU.frm	Option1_Click	16	0	0	0.00%	0	0.00%	Option2(Uyd(1, Combo1.ListIndex + 1)) = True	
+1526	C:\IG\IG\PRE\FU.frm	Option1_Click	17	0	0	0.00%	0	0.00%	Option2(1).Enabled = True	
+1527	C:\IG\IG\PRE\FU.frm	Option1_Click	18	0	0	0.00%	0	0.00%	Option2(0).Enabled = True	
+1528	C:\IG\IG\PRE\FU.frm	Option2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1529	C:\IG\IG\PRE\FU.frm	Option2_Click	2	0	0	0.00%	0	0.00%	Case 0	
+1530	C:\IG\IG\PRE\FU.frm	Option2_Click	3	0	0	0.00%	0	0.00%	Frame4.Visible = False	
+1531	C:\IG\IG\PRE\FU.frm	Option2_Click	4	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1532	C:\IG\IG\PRE\FU.frm	Option2_Click	5	0	0	0.00%	0	0.00%	Text2(I).Visible = False	
+1533	C:\IG\IG\PRE\FU.frm	Option2_Click	6	0	0	0.00%	0	0.00%	Case Option1(0)	
+1534	C:\IG\IG\PRE\FU.frm	Option2_Click	7	0	0	0.00%	0	0.00%	Uxi(1, Combo1.ListIndex + 1) = Index	
+1535	C:\IG\IG\PRE\FU.frm	Option2_Click	26	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1536	C:\IG\IG\PRE\FU.frm	Option2_Click	9	0	0	0.00%	0	0.00%	Uyi(1, Combo1.ListIndex + 1) = Index	
+1537	C:\IG\IG\PRE\FU.frm	CEscala	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1538	C:\IG\IG\PRE\FU.frm	Option2_Click	11	0	0	0.00%	0	0.00%	Uxs(1, Combo1.ListIndex + 1) = Index	
+1539	C:\IG\IG\PRE\FU.frm	Option2_Click	12	0	0	0.00%	0	0.00%	Case Option1(3)	
+1540	C:\IG\IG\PRE\FU.frm	Option2_Click	13	0	0	0.00%	0	0.00%	Uyd(1, Combo1.ListIndex + 1) = Index	
+1541	C:\IG\IG\PRE\FU.frm	Option2_Click	14	0	0	0.00%	0	0.00%	Case 1	
+1542	C:\IG\IG\PRE\FU.frm	Option2_Click	15	0	0	0.00%	0	0.00%	Frame4.Visible = True	
+1543	C:\IG\IG\PRE\FU.frm	Option2_Click	16	0	0	0.00%	0	0.00%	Text2(1).Visible = True	
+1544	C:\IG\IG\PRE\FU.frm	Option2_Click	17	0	0	0.00%	0	0.00%	Text2(0).Visible = True	
+1545	C:\IG\IG\PRE\FU.frm	Option2_Click	18	0	0	0.00%	0	0.00%	Label3(0) = "u ext."	
+1546	C:\IG\IG\PRE\FU.frm	Option2_Click	19	0	0	0.00%	0	0.00%	Label3(1) = "u cen."	
+1547	C:\IG\IG\PRE\FU.frm	Option2_Click	20	0	0	0.00%	0	0.00%	Label3(1).Visible = True	
+1548	C:\IG\IG\PRE\FU.frm	Option2_Click	21	0	0	0.00%	0	0.00%	Case Option1(0)	
+1549	C:\IG\IG\PRE\FU.frm	Option2_Click	22	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1550	C:\IG\IG\PRE\FU.frm	Option2_Click	23	0	0	0.00%	0	0.00%	Text2(I) = Uxi(I + 2, Combo1.ListIndex + 1)	
+1551	C:\IG\IG\PRE\FU.frm	Option2_Click	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+1552	C:\IG\IG\PRE\FU.frm	LlenarC	16	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1553	C:\IG\IG\PRE\FU.frm	CEscala	3	0	0	0.00%	0	0.00%	Picture1.ScaleHeight = -2 * Mediaescala	
+1554	C:\IG\IG\PRE\FU.frm	LlenarC	3	0	0	0.00%	0	0.00%	For J = 0 To 3	
+1555	C:\IG\IG\PRE\FU.frm	LlenarC	4	0	0	0.00%	0	0.00%	If Option1(J) Then	
+1556	C:\IG\IG\PRE\FU.frm	LlenarC	5	0	0	0.00%	0	0.00%	Case 0	
+1557	C:\IG\IG\PRE\FU.frm	LlenarC	6	0	0	0.00%	0	0.00%	For I = 1 To Ndxi	
+1558	C:\IG\IG\PRE\FU.frm	LlenarC	7	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1559	C:\IG\IG\PRE\FU.frm	LlenarC	8	0	0	0.00%	0	0.00%	Case 1	
+1560	C:\IG\IG\PRE\FU.frm	LlenarC	9	0	0	0.00%	0	0.00%	For I = 1 To Ndyi	
+1561	C:\IG\IG\PRE\FU.frm	LlenarC	10	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1562	C:\IG\IG\PRE\FU.frm	LlenarC	11	0	0	0.00%	0	0.00%	Case 2	
+1563	C:\IG\IG\PRE\FU.frm	LlenarC	12	0	0	0.00%	0	0.00%	For I = 1 To Ndxs	
+1564	C:\IG\IG\PRE\FU.frm	LlenarC	13	0	0	0.00%	0	0.00%	Combo1.AddItem (I)	
+1565	C:\IG\IG\PRE\FU.frm	LlenarC	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1566	C:\IG\IG\PRE\FU.frm	LlenarC	15	0	0	0.00%	0	0.00%	For I = 1 To Ndyd	
+1567	C:\IG\IG\PRE\FTfV.frm	Text1_Change	2	0	0	0.00%	0	0.00%	Gy = Val(Text1)	
+1568	C:\IG\IG\PRE\FU.frm	LlenarC	17	0	0	0.00%	0	0.00%	Combo1.ListIndex = 0	
+1569	C:\IG\IG\PRE\FU.frm	Check1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1570	C:\IG\IG\PRE\FU.frm	Check1_Click	2	0	0	0.00%	0	0.00%	Frame1.Enabled = (Check1 = vbChecked)	
+1571	C:\IG\IG\PRE\FU.frm	Check1_Click	3	0	0	0.00%	0	0.00%	Frame2.Enabled = (Check1 = vbChecked)	
+1572	C:\IG\IG\PRE\FU.frm	Check1_Click	4	0	0	0.00%	0	0.00%	Frame3.Enabled = (Check1 = vbChecked)	
+1573	C:\IG\IG\PRE\FU.frm	Check1_Click	5	0	0	0.00%	0	0.00%	Command1.Enabled = (Check1 = vbChecked)	
+1574	C:\IG\IG\PRE\FU.frm	Combo1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1575	C:\IG\IG\PRE\FU.frm	Combo1_Change	2	0	0	0.00%	0	0.00%	Combo1.Locked = False	
+1576	C:\IG\IG\PRE\FU.frm	Combo1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1577	C:\IG\IG\PRE\FU.frm	Combo1_Click	2	0	0	0.00%	0	0.00%	DiMalla	
+1578	C:\IG\IG\PRE\FU.frm	Combo1_Click	3	0	0	0.00%	0	0.00%	caca = True	
+1579	C:\IG\IG\PRE\FU.frm	Combo1_Click	4	0	0	0.00%	0	0.00%	Case Option1(0)	
+1580	C:\IG\IG\PRE\FU.frm	Combo1_Click	5	0	0	0.00%	0	0.00%	Text1(0) = Xi(1, Combo1.ListIndex + 1)	
+1581	C:\IG\IG\PRE\FU.frm	LlenarC	14	0	0	0.00%	0	0.00%	Case 3	
+1582	C:\IG\IG\PRE\FTfE.frm	DiMalla	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), QBColor(8)	
+1583	C:\IG\IG\PRE\FPR.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+1584	C:\IG\IG\PRE\FPR.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1585	C:\IG\IG\PRE\FPR.frm	Form_Activate	2	0	0	0.00%	0	0.00%	Label1(0).Visible = (FE.Check1 = vbChecked)	
+1586	C:\IG\IG\PRE\FPR.frm	Form_Activate	3	0	0	0.00%	0	0.00%	Text1(0).Visible = (FE.Check1 = vbChecked)	
+1587	C:\IG\IG\PRE\FPR.frm	Form_Activate	4	0	0	0.00%	0	0.00%	Label2(0).Visible = (FE.Check1 = vbChecked)	
+1588	C:\IG\IG\PRE\FTfE.frm	CEscala	4	0	0	0.00%	0	0.00%	.ScaleWidth = 2 * Mediaescala	
+1589	C:\IG\IG\PRE\FTfE.frm	CEscala	5	0	0	0.00%	0	0.00%	.ScaleLeft = -Mediaescala + Xl / 2	
+1590	C:\IG\IG\PRE\FTfE.frm	CEscala	6	0	0	0.00%	0	0.00%	.ScaleTop = Yl / 2 + Mediaescala	
+1591	C:\IG\IG\PRE\FTfE.frm	DiMalla	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1592	C:\IG\IG\PRE\FTfE.frm	DiMalla	2	0	0	0.00%	0	0.00%	Picture1.Cls	
+1593	C:\IG\IG\PRE\FTfE.frm	DiMalla	3	0	0	0.00%	0	0.00%	For I = 2 To L2	
+1594	C:\IG\IG\PRE\FTfE.frm	DiMalla	4	0	0	0.00%	0	0.00%	For J = 2 To M2	
+1595	C:\IG\IG\PRE\FU.frm	LlenarC	2	0	0	0.00%	0	0.00%	Combo1.Clear	
+1596	C:\IG\IG\PRE\FTfE.frm	DiMalla	6	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I + 1), YV(J)), QBColor(8)	
+1597	C:\IG\IG\PRE\FU.frm	Combo1_Click	8	0	0	0.00%	0	0.00%	Case Option1(1)	
+1598	C:\IG\IG\PRE\FTfE.frm	DiMalla	8	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(M1))-(XU(L1), YV(M1)), QBColor(8)	
+1599	C:\IG\IG\PRE\FTfE.frm	DiMalla	9	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+1600	C:\IG\IG\PRE\FTfE.frm	DiMalla	10	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+1601	C:\IG\IG\PRE\FTfE.frm	DiMalla	11	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), vbMagenta, B	
+1602	C:\IG\IG\PRE\FTfE.frm	Text2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1603	C:\IG\IG\PRE\FTfE.frm	Text2_Change	2	0	0	0.00%	0	0.00%	TFE(Index + 1, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1604	C:\IG\IG\PRE\FTfU.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1605	C:\IG\IG\PRE\FTfU.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+1606	C:\IG\IG\PRE\FTfU.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1607	C:\IG\IG\PRE\FTfU.frm	Text1_Change	2	0	0	0.00%	0	0.00%	Gx = Val(Text1)	
+1608	C:\IG\IG\PRE\FTfV.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1609	C:\IG\IG\PRE\FTfV.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+1610	C:\IG\IG\PRE\FTfV.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1611	C:\IG\IG\PRE\FTfE.frm	DiMalla	5	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I), YV(J + 1)), QBColor(8)	
+1612	C:\IG\IG\PRE\FU.frm	Form_Activate	9	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+1613	C:\IG\IG\PRE\FU.frm	Command1_Click	4	0	0	0.00%	0	0.00%	Option1(I) = False	
+1614	C:\IG\IG\PRE\FU.frm	Command1_Click	5	0	0	0.00%	0	0.00%	For I = 0 To 2	
+1615	C:\IG\IG\PRE\FU.frm	Command1_Click	6	0	0	0.00%	0	0.00%	Option2(I) = False	
+1616	C:\IG\IG\PRE\FU.frm	Command1_Click	7	0	0	0.00%	0	0.00%	Frame4.Visible = False	
+1617	C:\IG\IG\PRE\FU.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1618	C:\IG\IG\PRE\FU.frm	Command2_Click	2	0	0	0.00%	0	0.00%	Me.Hide	
+1619	C:\IG\IG\PRE\FU.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1620	C:\IG\IG\PRE\FU.frm	Form_Activate	2	0	0	0.00%	0	0.00%	CEscala	
+1621	C:\IG\IG\PRE\FU.frm	Form_Activate	3	0	0	0.00%	0	0.00%	Picture1.AutoRedraw = True	
+1622	C:\IG\IG\PRE\FU.frm	Form_Activate	4	0	0	0.00%	0	0.00%	DiMalla	
+1623	C:\IG\IG\PRE\FU.frm	Form_Activate	5	0	0	0.00%	0	0.00%	For I = 0 To 3	
+1624	C:\IG\IG\PRE\FU.frm	Form_Activate	6	0	0	0.00%	0	0.00%	Option1(I).Enabled = True	
+1625	C:\IG\IG\PRE\FU.frm	Combo1_Click	6	0	0	0.00%	0	0.00%	Text1(1) = Xi(2, Combo1.ListIndex + 1)	
+1626	C:\IG\IG\PRE\FU.frm	Form_Activate	8	0	0	0.00%	0	0.00%	For I = 0 To 3	
+1627	C:\IG\IG\PRE\FU.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1628	C:\IG\IG\PRE\FU.frm	Form_Activate	10	0	0	0.00%	0	0.00%	Case Else	
+1629	C:\IG\IG\PRE\FU.frm	Form_Activate	11	0	0	0.00%	0	0.00%	Option1(Simetria - 1).Enabled = False	
+1630	C:\IG\IG\PRE\FU.frm	Form_Activate	12	0	0	0.00%	0	0.00%	Option1(Simetria - 1) = False	
+1631	C:\IG\IG\PRE\FU.frm	Form_Activate	13	0	0	0.00%	0	0.00%	Combo1 = ""	
+1632	C:\IG\IG\PRE\FU.frm	Form_Activate	14	0	0	0.00%	0	0.00%	Text1(0) = ""	
+1633	C:\IG\IG\PRE\FU.frm	Form_Activate	15	0	0	0.00%	0	0.00%	Text1(1) = ""	
+1634	C:\IG\IG\PRE\FU.frm	Form_Activate	16	0	0	0.00%	0	0.00%	Text2(0) = ""	
+1635	C:\IG\IG\PRE\FU.frm	Form_Activate	17	0	0	0.00%	0	0.00%	Text2(1) = ""	
+1636	C:\IG\IG\PRE\FU.frm	Form_Activate	18	0	0	0.00%	0	0.00%	For I = 0 To 3	
+1637	C:\IG\IG\PRE\FU.frm	Form_Activate	19	0	0	0.00%	0	0.00%	Option1(I) = False	
+1638	C:\IG\IG\PRE\FU.frm	Form_Activate	20	0	0	0.00%	0	0.00%	For I = 0 To 2	
+1639	C:\IG\IG\PRE\FU.frm	Form_Activate	21	0	0	0.00%	0	0.00%	Option2(I) = False	
+1640	C:\IG\IG\PRE\View.frm	Command8_Click	33	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1641	C:\IG\IG\PRE\FU.frm	Form_Activate	7	0	0	0.00%	0	0.00%	Case 0	
+1642	C:\IG\IG\PRE\FU.frm	Combo1_Click	23	0	0	0.00%	0	0.00%	Text2(I) = Uxi(I + 2, Combo1.ListIndex + 1)	
+1643	C:\IG\IG\PRE\FU.frm	CEscala	2	0	0	0.00%	0	0.00%	Mediaescala = (EscalaXY * 1.1) / 2	
+1644	C:\IG\IG\PRE\FU.frm	Combo1_Click	9	0	0	0.00%	0	0.00%	Text1(0) = Yi(1, Combo1.ListIndex + 1)	
+1645	C:\IG\IG\PRE\FU.frm	Combo1_Click	10	0	0	0.00%	0	0.00%	Text1(1) = Yi(2, Combo1.ListIndex + 1)	
+1646	C:\IG\IG\PRE\FU.frm	Combo1_Click	11	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(Yi(1, Combo1.ListIndex + 1) + 1))-(XU(2), YV(Yi(2, Combo1.ListIndex + 1) + 	
+1647	C:\IG\IG\PRE\FU.frm	Combo1_Click	12	0	0	0.00%	0	0.00%	Case Option1(2)	
+1648	C:\IG\IG\PRE\FU.frm	Combo1_Click	13	0	0	0.00%	0	0.00%	Text1(0) = Xs(1, Combo1.ListIndex + 1)	
+1649	C:\IG\IG\PRE\FU.frm	Combo1_Click	14	0	0	0.00%	0	0.00%	Text1(1) = Xs(2, Combo1.ListIndex + 1)	
+1650	C:\IG\IG\PRE\FU.frm	Combo1_Click	15	0	0	0.00%	0	0.00%	Picture1.Line (XU(Xs(1, Combo1.ListIndex + 1) + 1), YV(M1))-(XU(Xs(2, Combo1.ListIndex + 1) + 2), YV	
+1651	C:\IG\IG\PRE\FU.frm	Combo1_Click	16	0	0	0.00%	0	0.00%	Case Option1(3)	
+1652	C:\IG\IG\PRE\FU.frm	Combo1_Click	17	0	0	0.00%	0	0.00%	Text1(0) = Yd(1, Combo1.ListIndex + 1)	
+1653	C:\IG\IG\PRE\FU.frm	Combo1_Click	18	0	0	0.00%	0	0.00%	Text1(1) = Yd(2, Combo1.ListIndex + 1)	
+1654	C:\IG\IG\PRE\FU.frm	Combo1_Click	19	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(Yd(1, Combo1.ListIndex + 1) + 1))-(XU(L1), YV(Yd(2, Combo1.ListIndex + 1) 	
+1655	C:\IG\IG\PRE\FU.frm	Combo1_Click	20	0	0	0.00%	0	0.00%	Case Option1(0)	
+1656	C:\IG\IG\PRE\FU.frm	Command1_Click	3	0	0	0.00%	0	0.00%	For I = 0 To 3	
+1657	C:\IG\IG\PRE\FU.frm	Combo1_Click	29	0	0	0.00%	0	0.00%	Option2(Uxs(1, Combo1.ListIndex + 1)) = True	
+1658	C:\IG\IG\PRE\FU.frm	Combo1_Click	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(Xi(1, Combo1.ListIndex + 1) + 1), YV(2))-(XU(Xi(2, Combo1.ListIndex + 1) + 2), YV(	
+1659	C:\IG\IG\PRE\FU.frm	Combo1_Click	35	0	0	0.00%	0	0.00%	Text2(I) = Uyd(I + 2, Combo1.ListIndex + 1)	
+1660	C:\IG\IG\PRE\FU.frm	Combo1_Click	34	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1661	C:\IG\IG\PRE\FU.frm	Combo1_Click	33	0	0	0.00%	0	0.00%	Option2(Uyd(1, Combo1.ListIndex + 1)) = True	
+1662	C:\IG\IG\PRE\FU.frm	Combo1_Click	32	0	0	0.00%	0	0.00%	Case Option1(3)	
+1663	C:\IG\IG\PRE\FU.frm	Combo1_Click	21	0	0	0.00%	0	0.00%	Option2(Uxi(1, Combo1.ListIndex + 1)) = True	
+1664	C:\IG\IG\PRE\FU.frm	Combo1_Click	30	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1665	C:\IG\IG\PRE\FU.frm	Combo1_Click	22	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1666	C:\IG\IG\PRE\FU.frm	Combo1_Click	28	0	0	0.00%	0	0.00%	Case Option1(2)	
+1667	C:\IG\IG\PRE\FU.frm	Combo1_Click	27	0	0	0.00%	0	0.00%	Text2(I) = Uyi(I + 2, Combo1.ListIndex + 1)	
+1668	C:\IG\IG\PRE\FU.frm	Combo1_Click	26	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1669	C:\IG\IG\PRE\FU.frm	Combo1_Click	25	0	0	0.00%	0	0.00%	Option2(Uyi(1, Combo1.ListIndex + 1)) = True	
+1670	C:\IG\IG\PRE\FU.frm	Combo1_Click	24	0	0	0.00%	0	0.00%	Case Option1(1)	
+1671	C:\IG\IG\PRE\FU.frm	Command1_Click	2	0	0	0.00%	0	0.00%	FTfU.Show (1)	
+1672	C:\IG\IG\PRE\FU.frm	Combo1_Click	31	0	0	0.00%	0	0.00%	Text2(I) = Uxs(I + 2, Combo1.ListIndex + 1)	
+1673	C:\IG\IG\PRE\View.frm	OTUV	63	0	0	0.00%	0	0.00%	V(1, I) = Vyi(2, K)	
+1674	C:\IG\IG\PRE\Solido.frm	Form_Activate	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1675	C:\IG\IG\PRE\View.frm	OTUV	50	0	0	0.00%	0	0.00%	For I = Yi(1, K) + 1 To Yi(2, K) + 1	
+1676	C:\IG\IG\PRE\View.frm	OTUV	51	0	0	0.00%	0	0.00%	T(1, I) = Tyi(2, K)	
+1677	C:\IG\IG\PRE\View.frm	OTUV	52	0	0	0.00%	0	0.00%	If Tyi(1, K) = 4 Then	
+1678	C:\IG\IG\PRE\View.frm	OTUV	53	0	0	0.00%	0	0.00%	For I = Yi(1, K) + 1 To Yi(2, K) + 1	
+1679	C:\IG\IG\PRE\View.frm	OTUV	54	0	0	0.00%	0	0.00%	T(1, I) = DL(Tyi(3, K), Tyi(2, K), Y(Yi(1, K) + 1), Y(Yi(2, K) + 1), Y(I))	
+1680	C:\IG\IG\PRE\View.frm	OTUV	55	0	0	0.00%	0	0.00%	If Uyi(1, K) = 1 Then	
+1681	C:\IG\IG\PRE\View.frm	OTUV	56	0	0	0.00%	0	0.00%	For I = Yi(1, K) + 1 To Yi(2, K) + 1	
+1682	C:\IG\IG\PRE\View.frm	OTUV	57	0	0	0.00%	0	0.00%	U(2, I) = DP(Uyi(2, K), Uyi(3, K), Y(Yi(1, K) + 1), Y(Yi(2, K) + 1), Y(I))	
+1683	C:\IG\IG\PRE\View.frm	OTUV	58	0	0	0.00%	0	0.00%	If Uyi(1, K) = 2 Then	
+1684	C:\IG\IG\PRE\View.frm	OTUV	59	0	0	0.00%	0	0.00%	For I = Yi(1, K) + 1 To Yi(2, K) + 1	
+1685	C:\IG\IG\PRE\View.frm	OTUV	60	0	0	0.00%	0	0.00%	U(2, I) = Uyi(2, K)	
+1686	C:\IG\IG\PRE\View.frm	OTUV	48	0	0	0.00%	0	0.00%	For K = 1 To Ndyi	
+1687	C:\IG\IG\PRE\View.frm	OTUV	62	0	0	0.00%	0	0.00%	For I = Yi(1, K) + 1 To Yi(2, K) + 1	
+1688	C:\IG\IG\PRE\View.frm	OTUV	47	0	0	0.00%	0	0.00%	V(I, M1) = Vxs(2, K)	
+1689	C:\IG\IG\PRE\View.frm	OTUV	64	0	0	0.00%	0	0.00%	For K = 1 To Ndyd	
+1690	C:\IG\IG\PRE\View.frm	OTUV	65	0	0	0.00%	0	0.00%	If Tyd(1, K) = 1 Then	
+1691	C:\IG\IG\PRE\View.frm	OTUV	66	0	0	0.00%	0	0.00%	For I = Yd(1, K) + 1 To Yd(2, K) + 1	
+1692	C:\IG\IG\PRE\View.frm	OTUV	67	0	0	0.00%	0	0.00%	T(L1, I) = Tyd(2, K)	
+1693	C:\IG\IG\PRE\View.frm	OTUV	68	0	0	0.00%	0	0.00%	If Tyd(1, K) = 4 Then	
+1694	C:\IG\IG\PRE\View.frm	OTUV	69	0	0	0.00%	0	0.00%	For I = Yd(1, K) + 1 To Yd(2, K) + 1	
+1695	C:\IG\IG\PRE\View.frm	OTUV	70	0	0	0.00%	0	0.00%	T(L1, I) = DL(Tyd(3, K), Tyd(2, K), Y(Yd(1, K) + 1), Y(Yd(2, K) + 1), Y(I))	
+1696	C:\IG\IG\PRE\View.frm	OTUV	71	0	0	0.00%	0	0.00%	If Uyd(1, K) = 1 Then	
+1697	C:\IG\IG\PRE\View.frm	OTUV	72	0	0	0.00%	0	0.00%	For I = Yd(1, K) + 1 To Yd(2, K) + 1	
+1698	C:\IG\IG\PRE\View.frm	OTUV	73	0	0	0.00%	0	0.00%	U(L1, I) = DP(Uyd(2, K), Uyd(3, K), Y(Yd(1, K) + 1), Y(Yd(2, K) + 1), Y(I))	
+1699	C:\IG\IG\PRE\View.frm	OTUV	74	0	0	0.00%	0	0.00%	If Uyd(1, K) = 2 Then	
+1700	C:\IG\IG\PRE\View.frm	OTUV	75	0	0	0.00%	0	0.00%	For I = Yd(1, K) + 1 To Yd(2, K) + 1	
+1701	C:\IG\IG\PRE\View.frm	OTUV	61	0	0	0.00%	0	0.00%	If Vyi(1, K) = 2 Then	
+1702	C:\IG\IG\PRE\View.frm	OTUV	34	0	0	0.00%	0	0.00%	For I = Xs(1, K) + 1 To Xs(2, K) + 1	
+1703	C:\IG\IG\PRE\FU.frm	Option2_Click	51	0	0	0.00%	0	0.00%	Case Option1(2)	
+1704	C:\IG\IG\PRE\Solido.frm	Form_Activate	3	0	0	0.00%	0	0.00%	Ns = Ns + 1	
+1705	C:\IG\IG\PRE\Solido.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1706	C:\IG\IG\PRE\View.frm	CEscala	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+1707	C:\IG\IG\PRE\View.frm	CEscala	3	0	0	0.00%	1	2.44%	If Yl > Xl Then	
+1708	C:\IG\IG\PRE\View.frm	CEscala	4	0	0	0.00%	0	0.00%	EscalaXY = Yl	
+1709	C:\IG\IG\PRE\View.frm	CEscala	5	0	0	0.00%	1	2.44%	Mediaescala = (EscalaXY * 1.1) / 2	
+1710	C:\IG\IG\PRE\View.frm	CEscala	7	0	0	0.00%	1	2.44%	.ScaleWidth = 2 * Mediaescala	
+1711	C:\IG\IG\PRE\View.frm	CEscala	9	0	0	0.00%	1	2.44%	.ScaleTop = Yl / 2 + Mediaescala	
+1712	C:\IG\IG\PRE\View.frm	DiDominio	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+1713	C:\IG\IG\PRE\View.frm	DiMalla	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1714	C:\IG\IG\PRE\View.frm	DiMalla	2	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1715	C:\IG\IG\PRE\View.frm	OTUV	49	0	0	0.00%	0	0.00%	If Tyi(1, K) = 1 Then	
+1716	C:\IG\IG\PRE\View.frm	OTUV	33	0	0	0.00%	0	0.00%	If Txs(1, K) = 1 Then	
+1717	C:\IG\IG\PRE\View.frm	OTUV	78	0	0	0.00%	0	0.00%	For I = Yd(1, K) + 1 To Yd(2, K) + 1	
+1718	C:\IG\IG\PRE\View.frm	OTUV	35	0	0	0.00%	0	0.00%	T(I, M1) = Txs(2, K)	
+1719	C:\IG\IG\PRE\View.frm	OTUV	36	0	0	0.00%	0	0.00%	If Txs(1, K) = 4 Then	
+1720	C:\IG\IG\PRE\View.frm	OTUV	37	0	0	0.00%	0	0.00%	For I = Xs(1, K) + 1 To Xs(2, K) + 1	
+1721	C:\IG\IG\PRE\View.frm	OTUV	38	0	0	0.00%	0	0.00%	T(I, M1) = DL(Txs(3, K), Txs(2, K), X(Xs(1, K) + 1), X(Xs(2, K) + 1), X(I))	
+1722	C:\IG\IG\PRE\View.frm	OTUV	39	0	0	0.00%	0	0.00%	If Uxs(1, K) = 2 Then	
+1723	C:\IG\IG\PRE\View.frm	OTUV	40	0	0	0.00%	0	0.00%	For I = Xs(1, K) + 1 To Xs(2, K) + 1	
+1724	C:\IG\IG\PRE\View.frm	OTUV	41	0	0	0.00%	0	0.00%	U(I, M1) = Uxs(2, K)	
+1725	C:\IG\IG\PRE\View.frm	OTUV	42	0	0	0.00%	0	0.00%	If Vxs(1, K) = 1 Then	
+1726	C:\IG\IG\PRE\View.frm	OTUV	43	0	0	0.00%	0	0.00%	For I = Xs(1, K) + 1 To Xs(2, K) + 1	
+1727	C:\IG\IG\PRE\View.frm	OTUV	44	0	0	0.00%	0	0.00%	V(I, M1) = DP(Vxs(2, K), Vxs(3, K), X(Xs(1, K) + 1), X(Xs(2, K) + 1), X(I))	
+1728	C:\IG\IG\PRE\View.frm	OTUV	45	0	0	0.00%	0	0.00%	If Vxs(1, K) = 2 Then	
+1729	C:\IG\IG\PRE\View.frm	OTUV	46	0	0	0.00%	0	0.00%	For I = Xs(1, K) + 1 To Xs(2, K) + 1	
+1730	C:\IG\IG\PRE\View.frm	OTUV	32	0	0	0.00%	0	0.00%	For K = 1 To Ndxs	
+1731	C:\IG\IG\PRE\View.frm	Command8_Click	20	0	0	0.00%	0	0.00%	Print #1, XU(I)	
+1732	C:\IG\IG\PRE\View.frm	Command8_Click	6	0	0	0.00%	0	0.00%	Call OTFE	
+1733	C:\IG\IG\PRE\View.frm	Command8_Click	7	0	0	0.00%	0	0.00%	Open "solido.el" For Output As #1	
+1734	C:\IG\IG\PRE\View.frm	Command8_Click	8	0	0	0.00%	0	0.00%	Print #1, Ns	
+1735	C:\IG\IG\PRE\View.frm	Command8_Click	9	0	0	0.00%	0	0.00%	For I = 1 To Ns	
+1736	C:\IG\IG\PRE\View.frm	Command8_Click	10	0	0	0.00%	0	0.00%	Print #1, S(o, I), S(1, I), S(2, I), S(3, I), S(4, I), S(5, I), S(6, I)	
+1737	C:\IG\IG\PRE\View.frm	Command8_Click	11	0	0	0.00%	0	0.00%	Print #1, Pro(1)	
+1738	C:\IG\IG\PRE\View.frm	Command8_Click	12	0	0	0.00%	0	0.00%	Close #1	
+1739	C:\IG\IG\PRE\View.frm	Command8_Click	13	0	0	0.00%	0	0.00%	Open "geom.el" For Output As #1	
+1740	C:\IG\IG\PRE\View.frm	Command8_Click	14	0	0	0.00%	0	0.00%	Print #1, Mode	
+1741	C:\IG\IG\PRE\View.frm	Command8_Click	15	0	0	0.00%	0	0.00%	Print #1, Xl, Yl, R1	
+1742	C:\IG\IG\PRE\View.frm	Command8_Click	16	0	0	0.00%	0	0.00%	Print #1, L1, M1	
+1743	C:\IG\IG\PRE\View.frm	Command8_Click	17	0	0	0.00%	0	0.00%	Solve = ""	
+1744	C:\IG\IG\PRE\View.frm	OTUV	76	0	0	0.00%	0	0.00%	U(L1, I) = Uyd(2, K)	
+1745	C:\IG\IG\PRE\View.frm	Command8_Click	19	0	0	0.00%	0	0.00%	If FV.Check1 = vbChecked Then Solve = Solve & "T "If FE.Check1 = vbChecked Then Solve = Solve & "T" 	
+1746	C:\IG\IG\PRE\View.frm	Command8_Click	3	0	0	0.00%	0	0.00%	ReDim rK(L1, M1), Be(L1, M1), CP(L1, M1), GBX(L1, M1), GBY(L1, M1)	
+1747	C:\IG\IG\PRE\View.frm	Command8_Click	21	0	0	0.00%	0	0.00%	For J = 2 To M1	
+1748	C:\IG\IG\PRE\View.frm	Command8_Click	22	0	0	0.00%	0	0.00%	Print #1, YV(J)	
+1749	C:\IG\IG\PRE\View.frm	Command8_Click	23	0	0	0.00%	0	0.00%	Print #1, Simetria	
+1750	C:\IG\IG\PRE\View.frm	Command8_Click	24	0	0	0.00%	0	0.00%	Close #1	
+1751	C:\IG\IG\PRE\View.frm	Command8_Click	25	0	0	0.00%	0	0.00%	Open "param.el" For Output As #1	
+1752	C:\IG\IG\PRE\View.frm	Command8_Click	26	0	0	0.00%	0	0.00%	Print #1, "F"	
+1753	C:\IG\IG\PRE\View.frm	Command8_Click	27	0	0	0.00%	0	0.00%	Print #1, NTime(0)	
+1754	C:\IG\IG\PRE\View.frm	Command8_Click	28	0	0	0.00%	0	0.00%	Print #1, NTime(2), NTime(3), NTime(1), NTime(4)	
+1755	C:\IG\IG\PRE\View.frm	Command8_Click	29	0	0	0.00%	0	0.00%	Print #1, Relax(1), Relax(2), Relax(0), Relax(3)	
+1756	C:\IG\IG\PRE\View.frm	Command8_Click	30	0	0	0.00%	0	0.00%	Print #1, 100	
+1757	C:\IG\IG\PRE\View.frm	Command8_Click	31	0	0	0.00%	0	0.00%	Close #1	
+1758	C:\IG\IG\PRE\View.frm	Command8_Click	32	0	0	0.00%	0	0.00%	Open "t.el" For Output As #1	
+1759	C:\IG\IG\PRE\View.frm	Command8_Click	18	0	0	0.00%	0	0.00%	If FU.Check1 = vbChecked Then Solve = "T " Else Solve = "F "	
+1760	C:\IG\IG\PRE\View.frm	Command4_Click	2	0	0	0.00%	0	0.00%	ObtenerS	
+1761	C:\IG\IG\PRE\Solido.frm	Form_Activate	2	0	0	0.00%	0	0.00%	Label7 = "Xmax= " & Xl & Chr$(13) & " Ymax= " & Yl	
+1762	C:\IG\IG\PRE\View.frm	OTUV	79	0	0	0.00%	0	0.00%	V(L1, I) = Vyd(2, K)	
+1763	C:\IG\IG\PRE\View.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1764	C:\IG\IG\PRE\View.frm	Command1_Click	2	0	0	0.00%	0	0.00%	Fsolido.Show (1)	
+1765	C:\IG\IG\PRE\View.frm	Command1_Click	3	0	0	0.00%	0	0.00%	DiDominio	
+1766	C:\IG\IG\PRE\View.frm	Command1_Click	4	0	0	0.00%	0	0.00%	DiSolido	
+1767	C:\IG\IG\PRE\View.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1768	C:\IG\IG\PRE\View.frm	Command2_Click	2	0	0	0.00%	0	0.00%	FBorrar.Show (1)	
+1769	C:\IG\IG\PRE\View.frm	Command2_Click	3	0	0	0.00%	0	0.00%	DiDominio	
+1770	C:\IG\IG\PRE\View.frm	Command2_Click	4	0	0	0.00%	0	0.00%	If M1 > 2 And L1 > 2 Then	
+1771	C:\IG\IG\PRE\View.frm	Command2_Click	5	0	0	0.00%	0	0.00%	DiMalla	
+1772	C:\IG\IG\PRE\View.frm	Command2_Click	6	0	0	0.00%	0	0.00%	DiSolido	
+1773	C:\IG\IG\PRE\View.frm	Command8_Click	5	0	0	0.00%	0	0.00%	Call Ocgxykr	
+1774	C:\IG\IG\PRE\View.frm	Command4_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1775	C:\IG\IG\PRE\View.frm	Command8_Click	4	0	0	0.00%	0	0.00%	Call OTUV	
+1776	C:\IG\IG\PRE\View.frm	Command4_Click	3	0	0	0.00%	0	0.00%	FMalla.Show (1)	
+1777	C:\IG\IG\PRE\View.frm	Command4_Click	4	0	0	0.00%	0	0.00%	DiDominio	
+1778	C:\IG\IG\PRE\View.frm	Command4_Click	5	0	0	0.00%	0	0.00%	DiMalla	
+1779	C:\IG\IG\PRE\View.frm	Command4_Click	6	0	0	0.00%	0	0.00%	DiSolido	
+1780	C:\IG\IG\PRE\View.frm	Command5_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1781	C:\IG\IG\PRE\View.frm	Command5_Click	2	0	0	0.00%	0	0.00%	FCF.Show (1)	
+1782	C:\IG\IG\PRE\View.frm	Command6_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1783	C:\IG\IG\PRE\View.frm	Command6_Click	2	0	0	0.00%	0	0.00%	FPR.Show (1)	
+1784	C:\IG\IG\PRE\View.frm	Command7_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1785	C:\IG\IG\PRE\View.frm	Command7_Click	2	0	0	0.00%	0	0.00%	Fpro.Show (1)	
+1786	C:\IG\IG\PRE\View.frm	Command8_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1787	C:\IG\IG\PRE\View.frm	Command8_Click	2	0	0	0.00%	0	0.00%	ReDim T(L1, M1), U(L1, M1), V(L1, M1), RHO(L1, M1)	
+1788	C:\IG\IG\PRE\View.frm	OTUV	77	0	0	0.00%	0	0.00%	If Vyd(1, K) = 2 Then	
+1789	C:\IG\IG\PRE\View.frm	Command3_Click	1	0	0	0.00%	1	2.44%	>>Entry Point<<	
+1790	C:\IG\IG\PRE\View.frm	Ocgxykr	5	0	0	0.00%	0	0.00%	rK(I, J) = Pro(1)	
+1791	C:\IG\IG\PRE\View.frm	DiMalla	8	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I + 1), YV(J)), QBColor(8)	
+1792	C:\IG\IG\PRE\View.frm	DiMalla	9	0	0	0.00%	0	0.00%	Picture1.Line (XU(L1), YV(M1))-(XU(L1), YV(2)), QBColor(8)	
+1793	C:\IG\IG\PRE\View.frm	DiMalla	10	0	0	0.00%	0	0.00%	Picture1.Line (XU(2), YV(M1))-(XU(L1), YV(M1)), QBColor(8)	
+1794	C:\IG\IG\PRE\View.frm	DiSolido	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1795	C:\IG\IG\PRE\View.frm	DiSolido	2	0	0	0.00%	0	0.00%	If Ns > 0 Then	
+1796	C:\IG\IG\PRE\View.frm	DiSolido	3	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+1797	C:\IG\IG\PRE\View.frm	DiSolido	4	0	0	0.00%	0	0.00%	Picture1.Line (S(0, K), S(1, K))-(S(2, K), S(3, K)), (vbMagenta), B	
+1798	C:\IG\IG\PRE\View.frm	DiSolido	5	0	0	0.00%	0	0.00%	Picture1.CurrentX = S(0, K) / 2 + S(2, K) / 2	
+1799	C:\IG\IG\PRE\View.frm	DiSolido	6	0	0	0.00%	0	0.00%	Picture1.CurrentY = S(1, K) / 2 + S(3, K) / 2	
+1800	C:\IG\IG\PRE\View.frm	DiSolido	7	0	0	0.00%	0	0.00%	Picture1.Print K	
+1801	C:\IG\IG\PRE\View.frm	Ocgxykr	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1802	C:\IG\IG\PRE\View.frm	Ocgxykr	2	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1803	C:\IG\IG\PRE\Solido.frm	Command3_Click	4	0	0	0.00%	0	0.00%	Fsolido.Hide	
+1804	C:\IG\IG\PRE\View.frm	Ocgxykr	4	0	0	0.00%	0	0.00%	RHO(I, J) = Pro(0)	
+1805	C:\IG\IG\PRE\View.frm	DiMalla	5	0	0	0.00%	0	0.00%	For I = 2 To L2	
+1806	C:\IG\IG\PRE\View.frm	Ocgxykr	6	0	0	0.00%	0	0.00%	Be(I, J) = Pro(2)	
+1807	C:\IG\IG\PRE\View.frm	Ocgxykr	7	0	0	0.00%	0	0.00%	CP(I, J) = Pro(3)	
+1808	C:\IG\IG\PRE\View.frm	Ocgxykr	8	0	0	0.00%	0	0.00%	GBX(I, J) = Gx * Pro(4)	
+1809	C:\IG\IG\PRE\View.frm	Ocgxykr	9	0	0	0.00%	0	0.00%	GBY(I, J) = Gy * Pro(4)	
+1810	C:\IG\IG\PRE\View.frm	Ocgxykr	10	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+1811	C:\IG\IG\PRE\View.frm	Ocgxykr	11	0	0	0.00%	0	0.00%	If (S(0, K) <= X(I) And S(2, K) >= X(I)) And (S(1, K) <= Y(J) And S(3, K) >= Y(J)) Then	
+1812	C:\IG\IG\PRE\View.frm	Ocgxykr	12	0	0	0.00%	0	0.00%	rK(I, J) = S(4, K)	
+1813	C:\IG\IG\PRE\View.frm	Ocgxykr	13	0	0	0.00%	0	0.00%	Be(I, J) = 1E+38	
+1814	C:\IG\IG\PRE\View.frm	Ocgxykr	14	0	0	0.00%	0	0.00%	CP(I, J) = S(6, K)	
+1815	C:\IG\IG\PRE\View.frm	OTFE	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1816	C:\IG\IG\PRE\View.frm	OTFE	2	0	0	0.00%	0	0.00%	ReDim TSp(L1, M1), TSc(L1, M1)	
+1817	C:\IG\IG\PRE\Solido.frm	Form_Activate	4	0	0	0.00%	0	0.00%	ReDim Preserve S(6, Ns)	
+1818	C:\IG\IG\PRE\View.frm	OTFE	4	0	0	0.00%	0	0.00%	Ji = (K - 1) \ Ndx + 1	
+1819	C:\IG\IG\PRE\View.frm	Ocgxykr	3	0	0	0.00%	0	0.00%	For I = 1 To L1	
+1820	C:\IG\IG\PRE\FU.frm	Text2_Change	7	0	0	0.00%	0	0.00%	If Index = 0 Then	
+1821	C:\IG\IG\PRE\FU.frm	Option2_Click	52	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1822	C:\IG\IG\PRE\FU.frm	Option2_Click	53	0	0	0.00%	0	0.00%	Text2(I) = Uxs(I + 2, Combo1.ListIndex + 1)	
+1823	C:\IG\IG\PRE\FU.frm	Option2_Click	54	0	0	0.00%	0	0.00%	Uxs(1, Combo1.ListIndex + 1) = Index	
+1824	C:\IG\IG\PRE\FU.frm	Option2_Click	55	0	0	0.00%	0	0.00%	Case Option1(3)	
+1825	C:\IG\IG\PRE\FU.frm	Option2_Click	56	0	0	0.00%	0	0.00%	For I = 0 To 1	
+1826	C:\IG\IG\PRE\FU.frm	Option2_Click	57	0	0	0.00%	0	0.00%	Text2(I) = Uyd(I + 2, Combo1.ListIndex + 1)	
+1827	C:\IG\IG\PRE\FU.frm	Option2_Click	58	0	0	0.00%	0	0.00%	Uyd(1, Combo1.ListIndex + 1) = Index	
+1828	C:\IG\IG\PRE\FU.frm	Picture1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1829	C:\IG\IG\PRE\FU.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1830	C:\IG\IG\PRE\FU.frm	Text2_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1831	C:\IG\IG\PRE\FU.frm	Text2_Change	2	0	0	0.00%	0	0.00%	Case Option1(0)	
+1832	C:\IG\IG\PRE\FU.frm	Text2_Change	3	0	0	0.00%	0	0.00%	If Index = 0 Then	
+1833	C:\IG\IG\PRE\FU.frm	Text2_Change	4	0	0	0.00%	0	0.00%	Uxi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1834	C:\IG\IG\PRE\View.frm	DiMalla	7	0	0	0.00%	0	0.00%	Picture1.Line (XU(I), YV(J))-(XU(I), YV(J + 1)), QBColor(8)	
+1835	C:\IG\IG\PRE\FU.frm	Text2_Change	13	0	0	0.00%	0	0.00%	Uxs(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1836	C:\IG\IG\PRE\View.frm	OTFE	5	0	0	0.00%	0	0.00%	II = K - (Ji - 1) * Ndx	
+1837	C:\IG\IG\PRE\View.frm	DiMalla	4	0	0	0.00%	0	0.00%	Picture1.PSet (X(I), Y(J)), QBColor(12)	
+1838	C:\IG\IG\PRE\View.frm	DiMalla	3	0	0	0.00%	0	0.00%	For J = 1 To M1	
+1839	C:\IG\IG\PRE\FU.frm	Text2_Change	17	0	0	0.00%	0	0.00%	Uyd(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1840	C:\IG\IG\PRE\FU.frm	Text2_Change	16	0	0	0.00%	0	0.00%	Uyd(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1841	C:\IG\IG\PRE\FU.frm	Text2_Change	5	0	0	0.00%	0	0.00%	Uxi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1842	C:\IG\IG\PRE\FU.frm	Text2_Change	14	0	0	0.00%	0	0.00%	Case Option1(3)	
+1843	C:\IG\IG\PRE\FU.frm	Text2_Change	6	0	0	0.00%	0	0.00%	Case Option1(1)	
+1844	C:\IG\IG\PRE\FU.frm	Text2_Change	12	0	0	0.00%	0	0.00%	Uxs(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1845	C:\IG\IG\PRE\FU.frm	Text2_Change	11	0	0	0.00%	0	0.00%	If Index = 0 Then	
+1846	C:\IG\IG\PRE\FU.frm	Text2_Change	10	0	0	0.00%	0	0.00%	Case Option1(2)	
+1847	C:\IG\IG\PRE\FU.frm	Text2_Change	9	0	0	0.00%	0	0.00%	Uyi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1848	C:\IG\IG\PRE\FU.frm	Text2_Change	8	0	0	0.00%	0	0.00%	Uyi(Index + 2, Combo1.ListIndex + 1) = Val(Text2(Index))	
+1849	C:\IG\IG\PRE\View.frm	DiMalla	6	0	0	0.00%	0	0.00%	For J = 2 To M2	
+1850	C:\IG\IG\PRE\FU.frm	Text2_Change	15	0	0	0.00%	0	0.00%	If Index = 0 Then	
+1851	C:\IG\IG\PRE\Propie.frm	Command3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1852	C:\IG\IG\PRE\Solido.frm	Command2_Click	2	0	0	0.00%	0	0.00%	For K = 0 To 6	
+1853	C:\IG\IG\PRE\Solido.frm	Command3_Click	3	0	0	0.00%	0	0.00%	ReDim Preserve S(6, Ns)	
+1854	C:\IG\IG\PRE\View.frm	OTUV	25	0	0	0.00%	0	0.00%	V(I, 2) = DP(Vxi(2, K), Vxi(3, K), X(Xi(1, K) + 1), X(Xi(2, K) + 1), X(I))	
+1855	C:\IG\IG\PRE\View.frm	OTFE	6	0	0	0.00%	0	0.00%	For J = MM(Ji - 1) To MM(Ji) - 1	
+1856	C:\IG\IG\PRE\Solido.frm	Command3_Click	2	0	0	0.00%	0	0.00%	Ns = Ns - 1	
+1857	C:\IG\IG\PRE\View.frm	OTFE	3	0	0	0.00%	0	0.00%	For K = 1 To Ndx * Ndy	
+1858	C:\IG\IG\PRE\View.frm	OTUV	27	0	0	0.00%	0	0.00%	For I = Xi(1, K) + 1 To Xi(2, K) + 1	
+1859	C:\IG\IG\PRE\View.frm	OTUV	28	0	0	0.00%	0	0.00%	U(I, 1) = Uxi(2, K)	
+1860	C:\IG\IG\PRE\View.frm	OTUV	29	0	0	0.00%	0	0.00%	If Vxi(1, K) = 2 Then	
+1861	C:\IG\IG\PRE\View.frm	OTUV	30	0	0	0.00%	0	0.00%	For I = Xi(1, K) + 1 To Xi(2, K) + 1	
+1862	C:\IG\IG\PRE\View.frm	OTUV	23	0	0	0.00%	0	0.00%	If Vxi(1, K) = 1 Then	
+1863	C:\IG\IG\PRE\Propie.frm	Command1_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1864	C:\IG\IG\PRE\View.frm	OTUV	22	0	0	0.00%	0	0.00%	T(I, 1) = DL(Txi(3, K), Txi(2, K), X(Xi(1, K) + 1), X(Xi(2, K) + 1), X(I))	
+1865	C:\IG\IG\PRE\Propie.frm	Command3_Click	2	0	0	0.00%	0	0.00%	For kk = 0 To 4	
+1866	C:\IG\IG\PRE\Propie.frm	Command3_Click	3	0	0	0.00%	0	0.00%	Pro(kk) = Val(Text1(kk))	
+1867	C:\IG\IG\PRE\Propie.frm	Command3_Click	4	0	0	0.00%	0	0.00%	Fpro.Hide	
+1868	C:\IG\IG\PRE\Solido.frm	Command3_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1869	C:\IG\IG\PRE\Solido.frm	Command2_Click	4	0	0	0.00%	0	0.00%	Fsolido.Hide	
+1870	C:\IG\IG\PRE\Propie.frm	Form_Load	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1871	C:\IG\IG\PRE\Propie.frm	Form_Load	2	0	0	0.00%	0	0.00%	For kk = 0 To 4	
+1872	C:\IG\IG\PRE\Solido.frm	Command2_Click	3	0	0	0.00%	0	0.00%	S(K, Ns) = Val(Text1(K))	
+1873	C:\IG\IG\PRE\Propie.frm	Form_Load	3	0	0	0.00%	0	0.00%	Pro(kk) = Val(Text1(kk))	
+1874	C:\IG\IG\PRE\Propie.frm	Text1_Change	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1875	C:\IG\IG\PRE\Solido.frm	Command2_Click	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1876	C:\IG\IG\PRE\View.frm	OTUV	31	0	0	0.00%	0	0.00%	V(I, 2) = Vxi(2, K)	
+1877	C:\IG\IG\PRE\View.frm	OTUV	10	0	0	0.00%	0	0.00%	V(I, J) = 0	
+1878	C:\IG\IG\PRE\View.frm	OTFE	7	0	0	0.00%	0	0.00%	For I = LL(II - 1) To LL(II) - 1	
+1879	C:\IG\IG\PRE\View.frm	OTFE	8	0	0	0.00%	0	0.00%	TSp(I, J) = TFE(2, K)	
+1880	C:\IG\IG\PRE\View.frm	OTFE	9	0	0	0.00%	0	0.00%	TSc(I, J) = TFE(1, K)	
+1881	C:\IG\IG\PRE\View.frm	OTUV	1	0	0	0.00%	0	0.00%	>>Entry Point<<	
+1882	C:\IG\IG\PRE\View.frm	OTUV	2	0	0	0.00%	0	0.00%	For J = 2 To M2	
+1883	C:\IG\IG\PRE\View.frm	OTUV	3	0	0	0.00%	0	0.00%	For I = 2 To L2	
+1884	C:\IG\IG\PRE\View.frm	OTUV	4	0	0	0.00%	0	0.00%	T(I, J) = VI(0)	
+1885	C:\IG\IG\PRE\View.frm	OTUV	5	0	0	0.00%	0	0.00%	If FU.Check1.Value = vbChecked Then	
+1886	C:\IG\IG\PRE\View.frm	OTUV	6	0	0	0.00%	0	0.00%	U(I, J) = VI(1)	
+1887	C:\IG\IG\PRE\View.frm	OTUV	7	0	0	0.00%	0	0.00%	U(I, J) = 0	
+1888	C:\IG\IG\PRE\View.frm	OTUV	24	0	0	0.00%	0	0.00%	For I = Xi(1, K) + 1 To Xi(2, K) + 1	
+1889	C:\IG\IG\PRE\View.frm	OTUV	9	0	0	0.00%	0	0.00%	V(I, J) = VI(2)	
+1890	C:\IG\IG\PRE\View.frm	OTUV	26	0	0	0.00%	0	0.00%	If Uxi(1, K) = 2 Then	
+1891	C:\IG\IG\PRE\View.frm	OTUV	11	0	0	0.00%	0	0.00%	For K = 1 To Ns	
+1892	C:\IG\IG\PRE\View.frm	OTUV	12	0	0	0.00%	0	0.00%	If (S(0, K) <= X(I) And S(2, K) >= X(I)) And (S(1, K) <= Y(J) And S(3, K) >= Y(J)) Then	
+1893	C:\IG\IG\PRE\View.frm	OTUV	13	0	0	0.00%	0	0.00%	U(I, J + 1) = 0	
+1894	C:\IG\IG\PRE\View.frm	OTUV	14	0	0	0.00%	0	0.00%	U(I, J) = 0	
+1895	C:\IG\IG\PRE\View.frm	OTUV	15	0	0	0.00%	0	0.00%	V(I, J) = 0	
+1896	C:\IG\IG\PRE\View.frm	OTUV	16	0	0	0.00%	0	0.00%	For K = 1 To Ndxi	
+1897	C:\IG\IG\PRE\View.frm	OTUV	17	0	0	0.00%	0	0.00%	If Txi(1, K) = 1 Then	
+1898	C:\IG\IG\PRE\View.frm	OTUV	18	0	0	0.00%	0	0.00%	For I = Xi(1, K) + 1 To Xi(2, K) + 1	
+1899	C:\IG\IG\PRE\View.frm	OTUV	19	0	0	0.00%	0	0.00%	T(I, 1) = Txi(2, K)	
+1900	C:\IG\IG\PRE\View.frm	OTUV	20	0	0	0.00%	0	0.00%	If Txi(1, K) = 4 Then	
+1901	C:\IG\IG\PRE\View.frm	OTUV	21	0	0	0.00%	0	0.00%	For I = Xi(1, K) + 1 To Xi(2, K) + 1	
+1902	C:\IG\IG\PRE\View.frm	OTUV	8	0	0	0.00%	0	0.00%	If FU.Check1.Value = vbChecked Then	
+1903	C:\IG\IG\PRE\View.frm	CEscala	2	0.0010	0.0010	0.30%	1	2.44%	EscalaXY = Xl	
+1904	C:\IG\IG\PRE\View.frm	Form_Activate	3	0.0010	0.0010	0.30%	1	2.44%	Label1 = Label1 & "    Yl = " & Yl & "    " & Chr$(13)	
+1905	C:\IG\IG\PRE\View.frm	Form_Activate	5	0.0010	0.0010	0.30%	1	2.44%	Label1 = Label1 & "    l1 = " & L1 & "    " & Chr$(13)	
+1906	C:\IG\IG\PRE\View.frm	CEscala	8	0.0020	0.0020	0.60%	1	2.44%	.ScaleLeft = -Mediaescala + Xl / 2	
+1907	C:\IG\IG\PRE\Dominio.frm	Command1_Click	13	0.0060	0.0060	1.79%	1	2.44%	Unload FIni	
+1908	C:\IG\IG\PRE\Dominio.frm	Command1_Click	12	0.0110	0.0110	3.27%	1	2.44%	Fver.Show	
+1909	C:\IG\IG\PRE\View.frm	Form_Activate	2	0.0110	0.0110	3.27%	1	2.44%	Label1 = "   Xl = " & Xl & "    " & Chr$(13)	
+1910	C:\IG\IG\PRE\View.frm	DiDominio	2	0.0140	0.0140	4.17%	1	2.44%	Picture1.Cls	
+1911	C:\IG\IG\PRE\Dominio.frm	Command1_Click	5	0.0140	0.0140	4.17%	1	2.44%	If Combo1.ListIndex = 1 Then	
+1912	C:\IG\IG\PRE\View.frm	CEscala	6	0.0230	0.0230	6.85%	1	2.44%	.ScaleHeight = -2 * Mediaescala	
+1913	C:\IG\IG\PRE\View.frm	DiDominio	3	0.0300	0.0300	8.93%	1	2.44%	Picture1.Line (0, 0)-(Xl, Yl), , B	
+1914	C:\IG\IG\PRE\Dominio.frm	Command1_Click	2	0.0420	0.0420	12.50%	1	2.44%	Xl = Val(Text1)	
+1915	C:\IG\IG\PRE\inicial.frm	Timer1_Timer	3	0.0500	0.0500	14.88%	1	2.44%	Unload Me	
+1916	C:\IG\IG\PRE\inicial.frm	Timer1_Timer	2	0.1300	0.1300	38.69%	1	2.44%	FIni.Show	

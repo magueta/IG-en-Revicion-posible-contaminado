@@ -1,0 +1,19 @@
+[Version]
+Version=1.0.0.0
+
+[Pre.exe <0009>]
+Dest=$(AppPath)
+Date=16/03/00
+Time=21:54
+Version=1.0.0.0
+CABFilename=Pre.CAB
+CABINFFile=Pre.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=IGS.exe
+Uses8=post.exe
+Uses9=Solver.exe

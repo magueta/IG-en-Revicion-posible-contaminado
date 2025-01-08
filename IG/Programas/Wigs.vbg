@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=..\POST\Curvas.vbp
+Project=..\PRE\Dominio.vbp
+Project=..\IGS\Igs.vbp
